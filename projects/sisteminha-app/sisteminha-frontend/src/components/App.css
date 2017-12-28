@@ -1,0 +1,27 @@
+.login {
+  text-align: center;
+}
+
+#page {
+  display: grid;
+  width: 100%;
+  height: 250px;
+  grid-template-areas: "head head"
+                       "nav  main";
+  grid-template-rows: auto;
+  grid-template-columns: 200px 1fr;
+}
+
+#page > header {
+  grid-area: head;
+}
+
+#page > nav {
+  grid-area: nav;
+  margin: 20px 10px 10px 10px;
+}
+
+#page > main {
+  grid-area: main;
+  margin: 20px 10px 10px 10px;  
+}
