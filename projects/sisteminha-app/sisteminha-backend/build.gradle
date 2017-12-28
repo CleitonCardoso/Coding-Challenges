@@ -35,4 +35,5 @@ dependencies {
     compile("com.h2database:h2")
     compileOnly ("org.projectlombok:lombok:1.16.18")
     testCompile("junit:junit")
+    testCompile("org.springframework.boot:spring-boot-starter-test")
 }

@@ -18,27 +18,27 @@ public class PDVController {
 	private PDVService pdvService;
 
 	@RequestMapping(method = RequestMethod.POST)
-	public void save(@RequestBody PDV pdv) {
-		pdvService.save(pdv);
+	public PDV save(@RequestBody PDV pdv) {
+		return pdvService.save( pdv );
 	}
 
 	@RequestMapping(method = RequestMethod.PUT)
 	public void update(@RequestBody PDV pdv) {
-		pdvService.save(pdv);
+		pdvService.save( pdv );
 	}
 
 	@RequestMapping(method = RequestMethod.GET, path = "/{id}")
 	public PDV find(@PathVariable("id") Long id) {
-		return pdvService.find(id);
+		return pdvService.find( id );
 	}
 
 	@RequestMapping(method = RequestMethod.DELETE, path = "/{id}")
 	public void delete(@PathVariable("id") Long id) {
-		pdvService.delete(id);
+		pdvService.delete( id );
 	}
 
 	@RequestMapping(method = RequestMethod.GET)
-	public Iterable<PDV> findAll() {
+	public Iterable<PDV> list() {
 		return pdvService.list();
 	}
 }

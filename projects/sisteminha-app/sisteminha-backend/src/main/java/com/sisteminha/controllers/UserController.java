@@ -20,27 +20,27 @@ public class UserController {
 	private UserService userService;
 
 	@RequestMapping(method = RequestMethod.POST)
-	public void save(@RequestBody User user) {
-		userService.save(user);
+	public User save(@RequestBody User user) {
+		return userService.save( user );
 	}
 
 	@RequestMapping(method = RequestMethod.PUT)
 	public void update(@RequestBody User user) {
-		userService.save(user);
+		userService.save( user );
 	}
 
 	@RequestMapping(method = RequestMethod.GET, path = "/{id}")
 	public User find(@PathVariable("id") Long id) {
-		return userService.find(id);
+		return userService.find( id );
 	}
 
 	@RequestMapping(method = RequestMethod.DELETE, path = "/{id}")
 	public void delete(@PathVariable("id") Long id, Principal principal) throws Exception {
-		userService.delete(id, principal.getName());
+		userService.delete( id, principal.getName() );
 	}
 
 	@RequestMapping(method = RequestMethod.GET)
-	public Iterable<User> findAll() {
+	public Iterable<User> list() {
 		return userService.list();
 	}
 }

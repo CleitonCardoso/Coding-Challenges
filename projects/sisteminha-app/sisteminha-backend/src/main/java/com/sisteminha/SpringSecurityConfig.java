@@ -33,36 +33,37 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 	protected void configure(HttpSecurity http) throws Exception {
 		http.csrf().disable();
 		CorsConfiguration corsConfiguration = new CorsConfiguration().applyPermitDefaultValues();
-		corsConfiguration.addAllowedMethod(HttpMethod.DELETE);
-		http.cors().configurationSource(request -> corsConfiguration);
+		corsConfiguration.addAllowedMethod( HttpMethod.DELETE );
+		http.cors().configurationSource( request -> corsConfiguration );
 		http.headers().frameOptions().disable();
-		http.httpBasic().authenticationEntryPoint(authEntryPoint);
+		http.httpBasic().authenticationEntryPoint( authEntryPoint );
 		http.authorizeRequests().anyRequest().authenticated();
-		http.authorizeRequests().antMatchers("/admin", "/h2/**").hasRole("ADMIN").anyRequest().authenticated();
-		http.authorizeRequests().antMatchers(HttpMethod.OPTIONS, "/**").permitAll();
-		http.formLogin().loginProcessingUrl("/login");
-		http.authenticationProvider(customAuthProvider);
-		http.formLogin().successHandler(new AuthenticationSuccessHandler() {
+		http.authorizeRequests().antMatchers( "/admin", "/h2/**" ).hasRole( "ADMIN" ).anyRequest().authenticated();
+		http.authorizeRequests().antMatchers( HttpMethod.OPTIONS, "/**" ).permitAll();
+		http.formLogin().loginProcessingUrl( "/login" );
+		http.authenticationProvider( customAuthProvider );
+		http.formLogin().successHandler( new AuthenticationSuccessHandler() {
 			@Override
 			public void onAuthenticationSuccess(HttpServletRequest request, HttpServletResponse response,
 					Authentication authentication) throws IOException, ServletException {
-				// Não precisa implementar, só serve pra não redirecionar pra /login
+				// Não precisa implementar, só serve pra não redirecionar pra
+				// /login
 			}
-		});
-		http.formLogin().failureHandler(new AuthenticationFailureHandler() {
+		} );
+		http.formLogin().failureHandler( new AuthenticationFailureHandler() {
 			@Override
 			public void onAuthenticationFailure(HttpServletRequest request, HttpServletResponse response,
 					AuthenticationException exception) throws IOException, ServletException {
-				response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
+				response.setStatus( HttpServletResponse.SC_UNAUTHORIZED );
 				PrintWriter writer = response.getWriter();
-				writer.println("HTTP Status 401 - " + exception.getMessage());
+				writer.println( "HTTP Status 401 - " + exception.getMessage() );
 			}
-		});
+		} );
 	}
 
 	@Autowired
 	public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {
-		auth.inMemoryAuthentication().withUser("admin").password("admin").roles("ADMIN");
+		auth.inMemoryAuthentication().withUser( "admin" ).password( "admin" ).roles( "ADMIN" );
 	}
 
 }

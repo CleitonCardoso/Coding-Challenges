@@ -1,0 +1,8 @@
+#Organize Import Order
+#Wed Jul 20 10:59:12 BRT 2016
+5=com
+4=br
+3=lombok
+2=org
+1=javax
+0=java

@@ -13,15 +13,15 @@ public class PDVService {
 	private PDVRepository pdvRepository;
 
 	public PDV find(Long id) {
-		return pdvRepository.findOne(id);
+		return pdvRepository.findOne( id );
 	}
 
 	public void delete(Long id) {
-		pdvRepository.delete(id);
+		pdvRepository.delete( id );
 	}
 
-	public void save(PDV pdv) {
-		pdvRepository.save(pdv);
+	public PDV save(PDV pdv) {
+		return pdvRepository.save( pdv );
 	}
 
 	public Iterable<PDV> list() {

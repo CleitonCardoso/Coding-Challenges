@@ -17,15 +17,15 @@ public class AuthEntryPoint extends BasicAuthenticationEntryPoint {
 	public void commence(HttpServletRequest request, HttpServletResponse response,
 			org.springframework.security.core.AuthenticationException authException)
 			throws IOException, ServletException {
-		response.addHeader("WWW-Authenticate", "Basic realm=" + getRealmName());
-		response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
+		response.addHeader( "WWW-Authenticate", "Basic realm=" + getRealmName() );
+		response.setStatus( HttpServletResponse.SC_UNAUTHORIZED );
 		PrintWriter writer = response.getWriter();
-		writer.println("HTTP Status 401 - " + authException.getMessage());
+		writer.println( "HTTP Status 401 - " + authException.getMessage() );
 	}
 
 	@Override
 	public void afterPropertiesSet() throws Exception {
-		this.setRealmName("simpleRealm");
+		this.setRealmName( "simpleRealm" );
 		super.afterPropertiesSet();
 	}
 
