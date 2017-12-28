@@ -1,0 +1,7 @@
+# production
+/build
+/bin
+.settings
+.classpath
+.gradle
+.project
