@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Jogo da Cobrinha</title>
+
+    <style>
+        .game {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -200px 0 0 -200px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="game">
+        <canvas id="snakeGame" width="400" height="400">
+    </div>
+    </canvas>
+
+    <script>
+        var gameCanvas = document.getElementById("snakeGame");
+        var gameCtx = gameCanvas.getContext("2d");
+
+        function clearCanvas() {
+            gameCtx.fillStyle = "black";
+            gameCtx.strokestyle = "white";
+            gameCtx.fillRect(0, 0, gameCanvas.width, gameCanvas.height)
+            gameCtx.strokeRect(0, 0, gameCanvas.width, gameCanvas.height)
+        }
+
+        let snake = [
+            { x: 150, y: 150 },
+            { x: 130, y: 150 },
+            { x: 110, y: 150 },
+            { x: 90, y: 150 },
+            { x: 70, y: 150 },
+        ];
+
+        const snakePartSize = 20;
+
+        let dx = snakePartSize;
+        let dy = 0;
+
+        function drawSnakePart(snakePart) {
+            gameCtx.fillStyle = 'lightblue';
+            gameCtx.strokestyle = 'darkblue';
+            gameCtx.fillRect(snakePart.x, snakePart.y, snakePartSize, snakePartSize);
+            gameCtx.strokeRect(snakePart.x, snakePart.y, snakePartSize, snakePartSize);
+        }
+
+        function drawSnake() {
+            snake.forEach(drawSnakePart);
+        }
+
+        function advanceSnake() {
+            const head = { x: snake[0].x + dx, y: snake[0].y + dy };
+
+            snake.unshift(head);
+            snake.pop();
+        }
+
+        function changeDirection(event) {
+            const LEFT_KEY = 37;
+            const RIGHT_KEY = 39;
+            const UP_KEY = 38;
+            const DOWN_KEY = 40;
+
+            const keypressed = event.keyCode;
+
+            const goingUp = dy === -snakePartSize;
+            const goingDown = dy === snakePartSize;
+            const goingRight = dx === snakePartSize;
+            const goingLeft = dx === -snakePartSize;
+
+            if (keypressed === LEFT_KEY && !goingRight) {
+                dx = -snakePartSize;
+                dy = 0;
+            }
+
+            if (keypressed === UP_KEY && !goingDown) {
+                dx = 0;
+                dy = -snakePartSize;
+            }
+
+            if (keypressed === RIGHT_KEY && !goingLeft) {
+                dx = snakePartSize;
+                dy = 0;
+            }
+
+            if (keypressed === DOWN_KEY && !goingUp) {
+                dx = 0;
+                dy = snakePartSize;
+            }
+
+        }
+
+        function randomTen(min, max) {
+            return Math.round((Math.random() * (max - min) + min) / snakePartSize) * (snakePartSize / 2);
+        }
+
+        let foodX;
+        let foodY;
+
+        function createFood() {
+            foodX = randomTen(0, gameCanvas.width - snakePartSize);
+            foodY = randomTen(0, gameCanvas.height - snakePartSize);
+
+            snake.forEach(function (part) {
+                const foodIsOnSnake = part.x === foodX && part.y == foodY;
+                if (foodIsOnSnake)
+                    createFood();
+            });
+        }
+
+        function drawFood() {
+            gameCtx.fillStyle = 'red';
+            gameCtx.strokestyle = 'darkRed';
+            gameCtx.fillRect(foodX, foodY, snakePartSize, snakePartSize)
+            gameCtx.strokeRect(foodX, foodY, snakePartSize, snakePartSize)
+        }
+
+        let velocity = 100;
+
+        function main() {
+            setTimeout(function onTick() {
+                clearCanvas();
+                drawFood();
+                advanceSnake();
+                drawSnake();
+                main();
+            }, velocity);
+        }
+
+        document.addEventListener("keydown", changeDirection);
+        createFood();
+        main();
+
+    </script>
+
+</body>
+
+</html>
