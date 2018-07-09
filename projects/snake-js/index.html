@@ -14,16 +14,52 @@
             left: 50%;
             margin: -200px 0 0 -200px;
         }
+
+        .menu {
+            text-align: center;
+        }
+
+        .startButton {
+            padding: 15px 25px;
+            font-size: 24px;
+            text-align: center;
+            cursor: pointer;
+            outline: none;
+            color: #fff;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 5px;
+            box-shadow: 0 5px #999;
+        }
+
+        .startButton:hover {
+            background-color: #3e8e41
+        }
+
+        .startButton:active {
+            background-color: #3e8e41;
+            box-shadow: 0 5px #666;
+            transform: translateY(4px);
+        }
     </style>
 </head>
 
 <body>
     <div class="game">
+        <div id="menu" class="menu">
+            <h1>Snake!</h1>
+            Clique no botão para iniciar o jogo
+            <br>
+            <button class="startButton" onclick="start()">Iniciar</button>
+        </div>
         <canvas id="snakeGame" width="400" height="400">
     </div>
     </canvas>
 
     <script>
+        const blocksSize = 20;
+        let velocity = 600;
+
         var gameCanvas = document.getElementById("snakeGame");
         var gameCtx = gameCanvas.getContext("2d");
 
@@ -33,16 +69,15 @@
             gameCtx.fillRect(0, 0, gameCanvas.width, gameCanvas.height)
             gameCtx.strokeRect(0, 0, gameCanvas.width, gameCanvas.height)
         }
+        const snakePartSize = gameCanvas.width / blocksSize;
 
         let snake = [
-            { x: 150, y: 150 },
-            { x: 130, y: 150 },
-            { x: 110, y: 150 },
-            { x: 90, y: 150 },
-            { x: 70, y: 150 },
+            { x: (gameCanvas.width / 2), y: gameCanvas.width / 2 },
+            { x: (gameCanvas.width / 2) - snakePartSize, y: gameCanvas.width / 2 },
+            { x: (gameCanvas.width / 2) - 2 * snakePartSize, y: gameCanvas.width / 2 },
+            { x: (gameCanvas.width / 2) - 3 * snakePartSize, y: gameCanvas.width / 2 },
         ];
 
-        const snakePartSize = 20;
 
         let dx = snakePartSize;
         let dy = 0;
@@ -58,8 +93,19 @@
             snake.forEach(drawSnakePart);
         }
 
-        function advanceSnake() {
+        function makeSnakeMove() {
             const head = { x: snake[0].x + dx, y: snake[0].y + dy };
+
+            if (head.x < 0)
+                head.x = gameCanvas.width;
+            if (head.x > gameCanvas.width)
+                head.x = 0;
+            if (head.y < 0)
+                head.y = gameCanvas.height  ;
+            if (head.y > gameCanvas.height)
+                head.y = 0;
+
+
 
             snake.unshift(head);
             snake.pop();
@@ -101,7 +147,7 @@
         }
 
         function randomTen(min, max) {
-            return Math.round((Math.random() * (max - min) + min) / snakePartSize) * (snakePartSize / 2);
+            return Math.round((Math.random() * (max - min) + min) / snakePartSize);
         }
 
         let foodX;
@@ -119,27 +165,34 @@
         }
 
         function drawFood() {
-            gameCtx.fillStyle = 'red';
-            gameCtx.strokestyle = 'darkRed';
+            gameCtx.fillStyle = 'white';
+            gameCtx.strokestyle = 'red';
             gameCtx.fillRect(foodX, foodY, snakePartSize, snakePartSize)
             gameCtx.strokeRect(foodX, foodY, snakePartSize, snakePartSize)
         }
 
-        let velocity = 100;
-
-        function main() {
+        function playing() {
             setTimeout(function onTick() {
                 clearCanvas();
                 drawFood();
-                advanceSnake();
                 drawSnake();
-                main();
+                makeSnakeMove();
+                playing();
             }, velocity);
         }
 
         document.addEventListener("keydown", changeDirection);
-        createFood();
-        main();
+
+        function hideStartMenu() {
+            var menu = document.getElementById("menu");
+            menu.style.display = 'none';
+        }
+
+        function start() {
+            hideStartMenu();
+            createFood();
+            playing();
+        }
 
     </script>
 
