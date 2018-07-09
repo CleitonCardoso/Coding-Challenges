@@ -58,7 +58,7 @@
 
     <script>
         const blocksSize = 20;
-        let velocity = 600;
+        let velocity = 200;
 
         var gameCanvas = document.getElementById("snakeGame");
         var gameCtx = gameCanvas.getContext("2d");
@@ -79,8 +79,6 @@
         ];
 
 
-        let dx = snakePartSize;
-        let dy = 0;
 
         function drawSnakePart(snakePart) {
             gameCtx.fillStyle = 'lightblue';
@@ -93,6 +91,11 @@
             snake.forEach(drawSnakePart);
         }
 
+        let dx = snakePartSize;
+        let dy = 0;
+        let foodX;
+        let foodY;
+
         function makeSnakeMove() {
             const head = { x: snake[0].x + dx, y: snake[0].y + dy };
 
@@ -101,14 +104,18 @@
             if (head.x > gameCanvas.width)
                 head.x = 0;
             if (head.y < 0)
-                head.y = gameCanvas.height  ;
+                head.y = gameCanvas.height;
             if (head.y > gameCanvas.height)
                 head.y = 0;
-
-
-
             snake.unshift(head);
-            snake.pop();
+
+            const foodIsOnSnake = head.x === foodX && head.y == foodY;
+            if (!foodIsOnSnake)
+                snake.pop();
+            else {
+                createFood()
+                drawFood();
+            }
         }
 
         function changeDirection(event) {
@@ -147,15 +154,12 @@
         }
 
         function randomTen(min, max) {
-            return Math.round((Math.random() * (max - min) + min) / snakePartSize);
+            return snakePartSize * (Math.floor(Math.random() * (max / snakePartSize + 1)));
         }
 
-        let foodX;
-        let foodY;
-
         function createFood() {
-            foodX = randomTen(0, gameCanvas.width - snakePartSize);
-            foodY = randomTen(0, gameCanvas.height - snakePartSize);
+            foodX = randomTen(0, gameCanvas.width);
+            foodY = randomTen(0, gameCanvas.height);
 
             snake.forEach(function (part) {
                 const foodIsOnSnake = part.x === foodX && part.y == foodY;
