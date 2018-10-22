@@ -1,0 +1,6 @@
+{"request": {"method": "DELETE", "url": "/transactions", "headers": {}, "body": {}}, "response": {"status_code": 204, "headers": {}, "body": {}}}
+{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": {"_timestampOffset": 60000, "amount":"127.96"}}, "response": {"status_code": 422, "headers": {}, "body": {}}}
+{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": {"timestamp":"4/23/2018 11:32 PM", "amount":"262.01"}}, "response": {"status_code": 422, "headers": {}, "body": {}}}
+{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": {"_timestampOffset":-10800, "amount":"One hundred"}}, "response": {"status_code": 422, "headers": {}, "body": {}}}
+{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": "Hello world!"}, "response": {"status_code": 400, "headers": {}, "body": {}}}
+{"request": {"method": "GET", "url": "/statistics", "headers": {}, "body": {}}, "response": {"status_code": 200, "headers": {"Content-Type": "application/json"}, "body": {"sum": "0.00", "avg": "0.00", "max":"0.00", "min":"0.00", "count":0}}}
