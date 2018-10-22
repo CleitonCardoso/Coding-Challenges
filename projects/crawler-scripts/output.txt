@@ -1,0 +1,4209 @@
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/16/Como-Rio-e-S%C3%A3o-Paulo-votaram-no-primeiro-turno-para-presidente">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-foi-a-vota%C3%A7%C3%A3o-por-local-de-vota%C3%A7%C3%A3o-em-Rio-e-S%C3%A3o-Paulo/BINARY/thumbnail/Veja%20como%20foi%20a%20vota%C3%A7%C3%A3o%20por%20local%20de%20vota%C3%A7%C3%A3o%20em%20Rio%20e%20S%C3%A3o%20Paulo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-foi-a-vota%C3%A7%C3%A3o-por-local-de-vota%C3%A7%C3%A3o-em-Rio-e-S%C3%A3o-Paulo/ALTERNATES/LANDSCAPE_80/Veja%20como%20foi%20a%20vota%C3%A7%C3%A3o%20por%20local%20de%20vota%C3%A7%C3%A3o%20em%20Rio%20e%20S%C3%A3o%20Paulo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como foi a votação por local de votação em Rio e São Paulo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/16/Como-Rio-e-S%C3%A3o-Paulo-votaram-no-primeiro-turno-para-presidente">
+Como Rio e São Paulo votaram no primeiro turno para presidente
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/11/Onde-a-diferen%C3%A7a-de-votos-entre-Haddad-e-Bolsonaro-foi-maior">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Dados-do-primeiro-turno-mostram-onde-cada-candidato-tiveram-maior-vantagem-em-rela%C3%A7%C3%A3o-ao-outro/BINARY/thumbnail/Dados%20do%20primeiro%20turno%20mostram%20onde%20cada%20candidato%20tiveram%20maior%20vantagem%20em%20rela%C3%A7%C3%A3o%20ao%20outro"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Dados-do-primeiro-turno-mostram-onde-cada-candidato-tiveram-maior-vantagem-em-rela%C3%A7%C3%A3o-ao-outro/ALTERNATES/LANDSCAPE_80/Dados%20do%20primeiro%20turno%20mostram%20onde%20cada%20candidato%20tiveram%20maior%20vantagem%20em%20rela%C3%A7%C3%A3o%20ao%20outro"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Dados do primeiro turno mostram onde cada candidato tiveram maior vantagem em relação ao outro"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/11/Onde-a-diferen%C3%A7a-de-votos-entre-Haddad-e-Bolsonaro-foi-maior">
+Onde a diferença de votos entre Haddad e Bolsonaro foi maior
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/10/Quais-partidos-passaram-pela-cl%C3%A1usula-de-barreira-em-2018">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-a-rela%C3%A7%C3%A3o-de-partidos-que-ser%C3%A3o-afetados-pela-cl%C3%A1usula-de-barreira/BINARY/thumbnail/Veja%20a%20rela%C3%A7%C3%A3o%20de%20partidos%20que%20ser%C3%A3o%20afetados%20pela%20cl%C3%A1usula%20de%20barreira"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-a-rela%C3%A7%C3%A3o-de-partidos-que-ser%C3%A3o-afetados-pela-cl%C3%A1usula-de-barreira/ALTERNATES/LANDSCAPE_80/Veja%20a%20rela%C3%A7%C3%A3o%20de%20partidos%20que%20ser%C3%A3o%20afetados%20pela%20cl%C3%A1usula%20de%20barreira"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja a relação de partidos que serão afetados pela cláusula de barreira"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/10/Quais-partidos-passaram-pela-cl%C3%A1usula-de-barreira-em-2018">
+Quais partidos passaram pela cláusula de barreira em 2018
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Como-o-Brasil-votou-para-presidente-em-mapas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Segundo-turno-ser%C3%A1-disputado-entre-Jair-Bolsonaro-PSL-e-Fernando-Haddad-PT.-Veja-a-distribui%C3%A7%C3%A3o-geogr%C3%A1fica-da-vota%C3%A7%C3%A3o-pelo-pa%C3%ADs/BINARY/thumbnail/Segundo%20turno%20ser%C3%A1%20disputado%20entre%20Jair%20Bolsonaro%20(PSL)%20e%20Fernando%20Haddad%20(PT).%20Veja%20a%20distribui%C3%A7%C3%A3o%20geogr%C3%A1fica%20da%20vota%C3%A7%C3%A3o%20pelo%20pa%C3%ADs"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Segundo-turno-ser%C3%A1-disputado-entre-Jair-Bolsonaro-PSL-e-Fernando-Haddad-PT.-Veja-a-distribui%C3%A7%C3%A3o-geogr%C3%A1fica-da-vota%C3%A7%C3%A3o-pelo-pa%C3%ADs/ALTERNATES/LANDSCAPE_80/Segundo%20turno%20ser%C3%A1%20disputado%20entre%20Jair%20Bolsonaro%20(PSL)%20e%20Fernando%20Haddad%20(PT).%20Veja%20a%20distribui%C3%A7%C3%A3o%20geogr%C3%A1fica%20da%20vota%C3%A7%C3%A3o%20pelo%20pa%C3%ADs"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Segundo turno será disputado entre Jair Bolsonaro (PSL) e Fernando Haddad (PT). Veja a distribuição geográfica da votação pelo país"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Como-o-Brasil-votou-para-presidente-em-mapas">
+Como o Brasil votou para presidente, em mapas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Elei%C3%A7%C3%B5es-2018-como-fica-a-composi%C3%A7%C3%A3o-da-C%C3%A2mara-em-11-gr%C3%A1ficos">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/A-vota%C3%A7%C3%A3o-para-deputado-federal-em-9-gr%C3%A1ficos/BINARY/thumbnail/A%20vota%C3%A7%C3%A3o%20para%20deputado%20federal%20em%209%20gr%C3%A1ficos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/A-vota%C3%A7%C3%A3o-para-deputado-federal-em-9-gr%C3%A1ficos/ALTERNATES/LANDSCAPE_80/A%20vota%C3%A7%C3%A3o%20para%20deputado%20federal%20em%209%20gr%C3%A1ficos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="A votação para deputado federal em 9 gráficos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Elei%C3%A7%C3%B5es-2018-como-fica-a-composi%C3%A7%C3%A3o-da-C%C3%A2mara-em-11-gr%C3%A1ficos">
+Eleições 2018: como fica a composição da Câmara, em 11 gráficos
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Gabriel Maia, Ibrahim Souza e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Elei%C3%A7%C3%B5es-2018-nova-composi%C3%A7%C3%A3o-do-Senado-Federal-em-gr%C3%A1ficos">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/mapa_eleicoes2018_-teaser2b.png/BINARY/thumbnail/mapa_eleicoes2018_-teaser2b.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/mapa_eleicoes2018_-teaser2b.png/ALTERNATES/LANDSCAPE_80/mapa_eleicoes2018_-teaser2b.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="mapa_eleicoes2018_-teaser2b.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Elei%C3%A7%C3%B5es-2018-nova-composi%C3%A7%C3%A3o-do-Senado-Federal-em-gr%C3%A1ficos">
+Eleições 2018: nova composição do Senado Federal, em gráficos
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Thiago Quadros, Gabriel Zanlorenssi, Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Elei%C3%A7%C3%B5es-2018-como-ficam-as-assembleias-estaduais">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/A-composi%C3%A7%C3%A3o-das-Assembleias-Legislativas-nos-estados-brasileiros/BINARY/thumbnail/A%20composi%C3%A7%C3%A3o%20das%20Assembleias%20Legislativas%20nos%20estados%20brasileiros"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/A-composi%C3%A7%C3%A3o-das-Assembleias-Legislativas-nos-estados-brasileiros/ALTERNATES/LANDSCAPE_80/A%20composi%C3%A7%C3%A3o%20das%20Assembleias%20Legislativas%20nos%20estados%20brasileiros"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="A composição das Assembleias Legislativas nos estados brasileiros"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/Elei%C3%A7%C3%B5es-2018-como-ficam-as-assembleias-estaduais">
+Eleições 2018: como ficam as assembleias estaduais
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Gabriel Maia, Ibrahim Souza e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/O-resultado-das-elei%C3%A7%C3%B5es-para-governador-no-1%C2%BA-turno">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-cada-partido-se-saiu-pelos-estados-quem-vai-para-segundo-turno-e-o-hist%C3%B3rico-ao-longo-do-tempo/BINARY/thumbnail/Veja%20como%20cada%20partido%20se%20saiu%20pelos%20estados,%20quem%20vai%20para%20segundo%20turno%20e%20o%20hist%C3%B3rico%20ao%20longo%20do%20tempo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-cada-partido-se-saiu-pelos-estados-quem-vai-para-segundo-turno-e-o-hist%C3%B3rico-ao-longo-do-tempo/ALTERNATES/LANDSCAPE_80/Veja%20como%20cada%20partido%20se%20saiu%20pelos%20estados,%20quem%20vai%20para%20segundo%20turno%20e%20o%20hist%C3%B3rico%20ao%20longo%20do%20tempo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como cada partido se saiu pelos estados, quem vai para segundo turno e o histórico ao longo do tempo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/08/O-resultado-das-elei%C3%A7%C3%B5es-para-governador-no-1%C2%BA-turno">
+O resultado das eleições para governador no 1º turno
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi, Gabriel Maia e Thiago Quadros
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/05/30-anos-o-quanto-a-Constitui%C3%A7%C3%A3o-preserva-de-seu-texto-original">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-das-altera%C3%A7%C3%B5es-no-texto-da-Constitui%C3%A7%C3%A3o-de-1988/BINARY/thumbnail/Veja%20um%20hist%C3%B3rico%20das%20altera%C3%A7%C3%B5es%20no%20texto%20da%20Constitui%C3%A7%C3%A3o%20de%201988"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-das-altera%C3%A7%C3%B5es-no-texto-da-Constitui%C3%A7%C3%A3o-de-1988/ALTERNATES/LANDSCAPE_80/Veja%20um%20hist%C3%B3rico%20das%20altera%C3%A7%C3%B5es%20no%20texto%20da%20Constitui%C3%A7%C3%A3o%20de%201988"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja um histórico das alterações no texto da Constituição de 1988"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/05/30-anos-o-quanto-a-Constitui%C3%A7%C3%A3o-preserva-de-seu-texto-original">
+30 anos: o quanto a Constituição preserva de seu texto original
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=10" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/05/30-anos-o-quanto-a-Constitui%C3%A7%C3%A3o-preserva-de-seu-texto-original">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-das-altera%C3%A7%C3%B5es-no-texto-da-Constitui%C3%A7%C3%A3o-de-1988/BINARY/thumbnail/Veja%20um%20hist%C3%B3rico%20das%20altera%C3%A7%C3%B5es%20no%20texto%20da%20Constitui%C3%A7%C3%A3o%20de%201988"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-das-altera%C3%A7%C3%B5es-no-texto-da-Constitui%C3%A7%C3%A3o-de-1988/ALTERNATES/LANDSCAPE_80/Veja%20um%20hist%C3%B3rico%20das%20altera%C3%A7%C3%B5es%20no%20texto%20da%20Constitui%C3%A7%C3%A3o%20de%201988"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja um histórico das alterações no texto da Constituição de 1988"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/05/30-anos-o-quanto-a-Constitui%C3%A7%C3%A3o-preserva-de-seu-texto-original">
+30 anos: o quanto a Constituição preserva de seu texto original
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/03/A-rejei%C3%A7%C3%A3o-dos-candidatos-ao-Planalto-por-perfil-de-eleitor">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-um-perfil-de-quem-rejeita-cada-candidato-de-acordo-com-g%C3%AAnero-regi%C3%A3o-escolaridade-idade-renda-e-religi%C3%A3o/BINARY/thumbnail/Veja%20um%20perfil%20de%20quem%20rejeita%20cada%20candidato,%20de%20acordo%20com%20g%C3%AAnero,%20regi%C3%A3o,%20escolaridade,%20idade,%20renda%20e%20religi%C3%A3o"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-um-perfil-de-quem-rejeita-cada-candidato-de-acordo-com-g%C3%AAnero-regi%C3%A3o-escolaridade-idade-renda-e-religi%C3%A3o/ALTERNATES/LANDSCAPE_80/Veja%20um%20perfil%20de%20quem%20rejeita%20cada%20candidato,%20de%20acordo%20com%20g%C3%AAnero,%20regi%C3%A3o,%20escolaridade,%20idade,%20renda%20e%20religi%C3%A3o"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja um perfil de quem rejeita cada candidato, de acordo com gênero, região, escolaridade, idade, renda e religião"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/03/A-rejei%C3%A7%C3%A3o-dos-candidatos-ao-Planalto-por-perfil-de-eleitor">
+A rejeição dos candidatos ao Planalto por perfil de eleitor
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/02/Como-informa%C3%A7%C3%B5es-pol%C3%ADticas-circulam-no-WhatsApp-segundo-esta-pesquisa">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Gr%C3%A1fico-WhatsApp-Pol%C3%ADtica-Nexo-Jornal/BINARY/thumbnail/Gr%C3%A1fico-WhatsApp-Pol%C3%ADtica-Nexo-Jornal"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Gr%C3%A1fico-WhatsApp-Pol%C3%ADtica-Nexo-Jornal/ALTERNATES/LANDSCAPE_80/Gr%C3%A1fico-WhatsApp-Pol%C3%ADtica-Nexo-Jornal"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Gráfico-WhatsApp-Política-Nexo-Jornal"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/10/02/Como-informa%C3%A7%C3%B5es-pol%C3%ADticas-circulam-no-WhatsApp-segundo-esta-pesquisa">
+Como informações políticas circulam no WhatsApp, segundo esta pesquisa
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/28/Como-os-candidatos-%C3%A0-Presid%C3%AAncia-est%C3%A3o-se-saindo-em-cada-estado1">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-est%C3%A3o-os-presidentes-em-cada-estado/BINARY/thumbnail/Veja%20como%20est%C3%A3o%20os%20presidentes%20em%20cada%20estado"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-est%C3%A3o-os-presidentes-em-cada-estado/ALTERNATES/LANDSCAPE_80/Veja%20como%20est%C3%A3o%20os%20presidentes%20em%20cada%20estado"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como estão os presidentes em cada estado"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/28/Como-os-candidatos-%C3%A0-Presid%C3%AAncia-est%C3%A3o-se-saindo-em-cada-estado1">
+Como os candidatos à Presidência estão se saindo em cada estado
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/26/Competitividade-e-participa%C3%A7%C3%A3o-nas-elei%C3%A7%C3%B5es-desde-1894">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-as-elei%C3%A7%C3%B5es-presidenciais-mais-acirradas-a-participa%C3%A7%C3%A3o-da-popula%C3%A7%C3%A3o-nas-vota%C3%A7%C3%B5es-entre-outros/BINARY/thumbnail/Veja%20dados%20sobre%20as%20elei%C3%A7%C3%B5es%20presidenciais%20mais%20acirradas,%20a%20participa%C3%A7%C3%A3o%20da%20popula%C3%A7%C3%A3o%20nas%20vota%C3%A7%C3%B5es,%20entre%20outros"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-as-elei%C3%A7%C3%B5es-presidenciais-mais-acirradas-a-participa%C3%A7%C3%A3o-da-popula%C3%A7%C3%A3o-nas-vota%C3%A7%C3%B5es-entre-outros/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20as%20elei%C3%A7%C3%B5es%20presidenciais%20mais%20acirradas,%20a%20participa%C3%A7%C3%A3o%20da%20popula%C3%A7%C3%A3o%20nas%20vota%C3%A7%C3%B5es,%20entre%20outros"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre as eleições presidenciais mais acirradas, a participação da população nas votações, entre outros"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/26/Competitividade-e-participa%C3%A7%C3%A3o-nas-elei%C3%A7%C3%B5es-desde-1894">
+Competitividade e participação nas eleições, desde 1894
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/24/Como-est%C3%A3o-as-disputas-estaduais-para-governador-segundo-as-pesquisas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Pesquisas-indicam-quais-estados-tem-cen%C3%A1rios-mais-definidos-ou-incertos.-Veja-em-gr%C3%A1ficos/BINARY/thumbnail/Pesquisas%20indicam%20quais%20estados%20tem%20cen%C3%A1rios%20mais%20definidos%20ou%20incertos.%20Veja%20em%20gr%C3%A1ficos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Pesquisas-indicam-quais-estados-tem-cen%C3%A1rios-mais-definidos-ou-incertos.-Veja-em-gr%C3%A1ficos/ALTERNATES/LANDSCAPE_80/Pesquisas%20indicam%20quais%20estados%20tem%20cen%C3%A1rios%20mais%20definidos%20ou%20incertos.%20Veja%20em%20gr%C3%A1ficos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Pesquisas indicam quais estados tem cenários mais definidos ou incertos. Veja em gráficos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/24/Como-est%C3%A3o-as-disputas-estaduais-para-governador-segundo-as-pesquisas">
+Como estão as disputas estaduais para governador, segundo as pesquisas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/21/Um-hist%C3%B3rico-das-disputas-presidenciais-desde-1989-em-mapas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-geogr%C3%A1fico-das-elei%C3%A7%C3%B5es-presidenciais-desde-1989/BINARY/thumbnail/Veja%20um%20hist%C3%B3rico%20geogr%C3%A1fico%20das%20elei%C3%A7%C3%B5es%20presidenciais%20desde%201989"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-geogr%C3%A1fico-das-elei%C3%A7%C3%B5es-presidenciais-desde-1989/ALTERNATES/LANDSCAPE_80/Veja%20um%20hist%C3%B3rico%20geogr%C3%A1fico%20das%20elei%C3%A7%C3%B5es%20presidenciais%20desde%201989"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja um histórico geográfico das eleições presidenciais desde 1989"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/21/Um-hist%C3%B3rico-das-disputas-presidenciais-desde-1989-em-mapas">
+Um histórico das disputas presidenciais desde 1989, em mapas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/17/G%C3%AAnero-idade-e-cor-os-candidatos-a-deputado-por-partido">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-gr%C3%A1ficos-com-dados-fornecidos-pelos-candidatos-ao-TSE/BINARY/thumbnail/Veja%20gr%C3%A1ficos%20com%20dados%20fornecidos%20pelos%20candidatos%20ao%20TSE"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-gr%C3%A1ficos-com-dados-fornecidos-pelos-candidatos-ao-TSE/ALTERNATES/LANDSCAPE_80/Veja%20gr%C3%A1ficos%20com%20dados%20fornecidos%20pelos%20candidatos%20ao%20TSE"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja gráficos com dados fornecidos pelos candidatos ao TSE"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/17/G%C3%AAnero-idade-e-cor-os-candidatos-a-deputado-por-partido">
+Gênero, idade e cor: os candidatos a deputado por partido
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/14/Qual-%C3%A9-o-investimento-em-pesquisa-ao-redor-do-mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/grafico_despesaspesquisas-teaser.png/BINARY/thumbnail/grafico_despesaspesquisas-teaser.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/grafico_despesaspesquisas-teaser.png/ALTERNATES/LANDSCAPE_80/grafico_despesaspesquisas-teaser.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="grafico_despesaspesquisas-teaser.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/14/Qual-%C3%A9-o-investimento-em-pesquisa-ao-redor-do-mundo">
+Qual é o investimento em pesquisa ao redor do mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Gabriel Maia e Thiago Quadros
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=18" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/10/De-pais-para-filhos-a-mobilidade-entre-gera%C3%A7%C3%B5es-na-educa%C3%A7%C3%A3o">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-Pnad-que-tra%C3%A7am-uma-rela%C3%A7%C3%A3o-entre-a-escolaridade-dos-pais-e-os-anos-de-estudo-dos-filhos/BINARY/thumbnail/Veja%20dados%20da%20Pnad%20que%20tra%C3%A7am%20uma%20rela%C3%A7%C3%A3o%20entre%20a%20escolaridade%20dos%20pais%20e%20os%20anos%20de%20estudo%20dos%20filhos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-Pnad-que-tra%C3%A7am-uma-rela%C3%A7%C3%A3o-entre-a-escolaridade-dos-pais-e-os-anos-de-estudo-dos-filhos/ALTERNATES/LANDSCAPE_80/Veja%20dados%20da%20Pnad%20que%20tra%C3%A7am%20uma%20rela%C3%A7%C3%A3o%20entre%20a%20escolaridade%20dos%20pais%20e%20os%20anos%20de%20estudo%20dos%20filhos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados da Pnad que traçam uma relação entre a escolaridade dos pais e os anos de estudo dos filhos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/10/De-pais-para-filhos-a-mobilidade-entre-gera%C3%A7%C3%B5es-na-educa%C3%A7%C3%A3o">
+De pais para filhos: a mobilidade entre gerações na educação
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/03/As-profiss%C3%B5es-de-quem-vai-estar-na-urna-em-outubro-por-partido">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Dados-do-TSE-permitemdeterminar-quais-s%C3%A3o-as-profiss%C3%B5es-mais-ou-menos-comuns-em-cada-partido/BINARY/thumbnail/Dados%20do%20TSE%20permitemdeterminar%20quais%20s%C3%A3o%20as%20profiss%C3%B5es%20mais%20ou%20menos%20comuns%20em%20cada%20partido"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Dados-do-TSE-permitemdeterminar-quais-s%C3%A3o-as-profiss%C3%B5es-mais-ou-menos-comuns-em-cada-partido/ALTERNATES/LANDSCAPE_80/Dados%20do%20TSE%20permitemdeterminar%20quais%20s%C3%A3o%20as%20profiss%C3%B5es%20mais%20ou%20menos%20comuns%20em%20cada%20partido"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Dados do TSE permitemdeterminar quais são as profissões mais ou menos comuns em cada partido"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/09/03/As-profiss%C3%B5es-de-quem-vai-estar-na-urna-em-outubro-por-partido">
+As profissões de quem vai estar na urna em outubro, por partido
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/30/Hor%C3%A1rio-frequ%C3%AAncia-e-dura%C3%A7%C3%A3o-os-candidatos-ao-Planalto-na-sua-TV">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-o-tempo-de-campanha-%C3%A9-distribuido-entre-os-13-candidatos-%C3%A0-Presid%C3%AAncia/BINARY/thumbnail/Veja%20como%20o%20tempo%20de%20campanha%20%C3%A9%20distribuido%20entre%20os%2013%20candidatos%20%C3%A0%20Presid%C3%AAncia"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-o-tempo-de-campanha-%C3%A9-distribuido-entre-os-13-candidatos-%C3%A0-Presid%C3%AAncia/ALTERNATES/LANDSCAPE_80/Veja%20como%20o%20tempo%20de%20campanha%20%C3%A9%20distribuido%20entre%20os%2013%20candidatos%20%C3%A0%20Presid%C3%AAncia"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como o tempo de campanha é distribuido entre os 13 candidatos à Presidência"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/30/Hor%C3%A1rio-frequ%C3%AAncia-e-dura%C3%A7%C3%A3o-os-candidatos-ao-Planalto-na-sua-TV">
+Horário, frequência e duração: os candidatos ao Planalto na sua TV
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi e José Roberto Castro
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/29/Quais-as-vias-de-exporta%C3%A7%C3%A3o-e-importa%C3%A7%C3%A3o-de-diferentes-produtos-no-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-s%C3%A3o-os-produtos-exportados-por-quais-vias-do-Brasil/BINARY/thumbnail/Veja%20quais%20s%C3%A3o%20os%20produtos%20exportados%20por%20quais%20vias%20do%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-s%C3%A3o-os-produtos-exportados-por-quais-vias-do-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20quais%20s%C3%A3o%20os%20produtos%20exportados%20por%20quais%20vias%20do%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja quais são os produtos exportados por quais vias do Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/29/Quais-as-vias-de-exporta%C3%A7%C3%A3o-e-importa%C3%A7%C3%A3o-de-diferentes-produtos-no-Brasil">
+Quais as vias de exportação e importação de diferentes produtos no Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/27/Como-os-partidos-se-aliam-nas-elei%C3%A7%C3%B5es-a-governos-estaduais">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-qual-a-rela%C3%A7%C3%A3o-de-apoio-entre-os-partidos-na-disputa-ao-governo-do-estado-nos-27-estados/BINARY/thumbnail/Veja%20qual%20a%20rela%C3%A7%C3%A3o%20de%20apoio%20entre%20os%20partidos%20na%20disputa%20ao%20governo%20do%20estado%20nos%2027%20estados"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-qual-a-rela%C3%A7%C3%A3o-de-apoio-entre-os-partidos-na-disputa-ao-governo-do-estado-nos-27-estados/ALTERNATES/LANDSCAPE_80/Veja%20qual%20a%20rela%C3%A7%C3%A3o%20de%20apoio%20entre%20os%20partidos%20na%20disputa%20ao%20governo%20do%20estado%20nos%2027%20estados"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja qual a relação de apoio entre os partidos na disputa ao governo do estado nos 27 estados"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/27/Como-os-partidos-se-aliam-nas-elei%C3%A7%C3%B5es-a-governos-estaduais">
+Como os partidos se aliam nas eleições a governos estaduais
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/24/O-perfil-dos-eleitores-dos-principais-candidatos-ao-Planalto">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-a-inten%C3%A7%C3%A3o-de-voto-para-cada-candidato-de-acordo-com-recortes-do-Datafolha/BINARY/thumbnail/Veja%20como%20a%20inten%C3%A7%C3%A3o%20de%20voto%20para%20cada%20candidato%20de%20acordo%20com%20recortes%20do%20Datafolha"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-a-inten%C3%A7%C3%A3o-de-voto-para-cada-candidato-de-acordo-com-recortes-do-Datafolha/ALTERNATES/LANDSCAPE_80/Veja%20como%20a%20inten%C3%A7%C3%A3o%20de%20voto%20para%20cada%20candidato%20de%20acordo%20com%20recortes%20do%20Datafolha"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como a intenção de voto para cada candidato de acordo com recortes do Datafolha"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/24/O-perfil-dos-eleitores-dos-principais-candidatos-ao-Planalto">
+O perfil dos eleitores dos principais candidatos ao Planalto
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/22/A-produ%C3%A7%C3%A3o-de-carne-no-mundo-desde-1961">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-produ%C3%A7%C3%A3o-de-carnes-no-mundo-ao-longo-do-tempo/BINARY/thumbnail/Veja%20dados%20da%20produ%C3%A7%C3%A3o%20de%20carnes%20no%20mundo%20ao%20longo%20do%20tempo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-produ%C3%A7%C3%A3o-de-carnes-no-mundo-ao-longo-do-tempo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20da%20produ%C3%A7%C3%A3o%20de%20carnes%20no%20mundo%20ao%20longo%20do%20tempo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados da produção de carnes no mundo ao longo do tempo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/22/A-produ%C3%A7%C3%A3o-de-carne-no-mundo-desde-1961">
+A produção de carne no mundo desde 1961
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/20/O-perfil-dos-candidatos-a-deputado-estadual-e-federal-de-2018">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-o-crescimento-do-n%C3%BAmero-de-candidaturas-por-estado-e-partido-e-o-perfil-dos-candidatos/BINARY/thumbnail/Veja%20o%20crescimento%20do%20n%C3%BAmero%20de%20candidaturas%20por%20estado%20e%20partido%20e%20o%20perfil%20dos%20candidatos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-o-crescimento-do-n%C3%BAmero-de-candidaturas-por-estado-e-partido-e-o-perfil-dos-candidatos/ALTERNATES/LANDSCAPE_80/Veja%20o%20crescimento%20do%20n%C3%BAmero%20de%20candidaturas%20por%20estado%20e%20partido%20e%20o%20perfil%20dos%20candidatos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja o crescimento do número de candidaturas por estado e partido e o perfil dos candidatos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/20/O-perfil-dos-candidatos-a-deputado-estadual-e-federal-de-2018">
+O perfil dos candidatos a deputado estadual e federal de 2018
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/17/O-perfil-dos-candidatos-a-governador-e-senador-de-2018">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-autodeclarados-pelos-candidatos-sobre-ra%C3%A7acor-g%C3%AAnero-ocupa%C3%A7%C3%B5es-e-mais/BINARY/thumbnail/Veja%20dados%20autodeclarados%20pelos%20candidatos%20sobre%20ra%C3%A7a-cor,%20g%C3%AAnero,%20ocupa%C3%A7%C3%B5es,%20e%20mais"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-autodeclarados-pelos-candidatos-sobre-ra%C3%A7acor-g%C3%AAnero-ocupa%C3%A7%C3%B5es-e-mais/ALTERNATES/LANDSCAPE_80/Veja%20dados%20autodeclarados%20pelos%20candidatos%20sobre%20ra%C3%A7a-cor,%20g%C3%AAnero,%20ocupa%C3%A7%C3%B5es,%20e%20mais"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados autodeclarados pelos candidatos sobre raça/cor, gênero, ocupações, e mais"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/17/O-perfil-dos-candidatos-a-governador-e-senador-de-2018">
+O perfil dos candidatos a governador e senador de 2018
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=27" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/15/O-perfil-dos-13-candidatos-%C3%A0-Presid%C3%AAncia-de-2018">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-quem-s%C3%A3o-os-candidatos-%C3%A0-Presid%C3%AAncia-de-acordo-com-informa%C3%A7%C3%B5es-fornecidas-ao-TSE/BINARY/thumbnail/Veja%20em%20gr%C3%A1ficos%20quem%20s%C3%A3o%20os%20candidatos%20%C3%A0%20Presid%C3%AAncia,%20de%20acordo%20com%20informa%C3%A7%C3%B5es%20fornecidas%20ao%20TSE"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-quem-s%C3%A3o-os-candidatos-%C3%A0-Presid%C3%AAncia-de-acordo-com-informa%C3%A7%C3%B5es-fornecidas-ao-TSE/ALTERNATES/LANDSCAPE_80/Veja%20em%20gr%C3%A1ficos%20quem%20s%C3%A3o%20os%20candidatos%20%C3%A0%20Presid%C3%AAncia,%20de%20acordo%20com%20informa%C3%A7%C3%B5es%20fornecidas%20ao%20TSE"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja em gráficos quem são os candidatos à Presidência, de acordo com informações fornecidas ao TSE"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/15/O-perfil-dos-13-candidatos-%C3%A0-Presid%C3%AAncia-de-2018">
+O perfil dos 13 candidatos à Presidência de 2018
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/10/A-quantidade-de-cafe%C3%ADna-em-diferentes-bebidas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/grafico_cafeina-teaser.png/BINARY/thumbnail/grafico_cafeina-teaser.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/grafico_cafeina-teaser.png/ALTERNATES/LANDSCAPE_80/grafico_cafeina-teaser.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="grafico_cafeina-teaser.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/10/A-quantidade-de-cafe%C3%ADna-em-diferentes-bebidas">
+A quantidade de cafeína em diferentes bebidas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Thiago Quadros e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/06/Quais-os-principais-animais-invasores-do-mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-esp%C3%A9cies-de-animais-invasores-e-introduzidos-ao-redor-do-mundo/BINARY/thumbnail/Veja%20dados%20sobre%20esp%C3%A9cies%20de%20animais%20invasores%20e%20introduzidos%20ao%20redor%20do%20mundo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-esp%C3%A9cies-de-animais-invasores-e-introduzidos-ao-redor-do-mundo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20esp%C3%A9cies%20de%20animais%20invasores%20e%20introduzidos%20ao%20redor%20do%20mundo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre espécies de animais invasores e introduzidos ao redor do mundo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/06/Quais-os-principais-animais-invasores-do-mundo">
+Quais os principais animais invasores do mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/01/O-que-%C3%A9-Unicode-e-quais-os-seus-sistemas-de-escrita">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/grafico_unicode-teaser_1.png/BINARY/thumbnail/grafico_unicode-teaser_1.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/grafico_unicode-teaser_1.png/ALTERNATES/LANDSCAPE_80/grafico_unicode-teaser_1.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="grafico_unicode-teaser_1.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/08/01/O-que-%C3%A9-Unicode-e-quais-os-seus-sistemas-de-escrita">
+O que é Unicode e quais os seus sistemas de escrita
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia e Thiago Quadros
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/30/O-crescimento-e-a-queda-do-PIB-dos-pa%C3%ADses-ao-longo-do-tempo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/grafico_crises_teaser.png/BINARY/thumbnail/grafico_crises_teaser.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/grafico_crises_teaser.png/ALTERNATES/LANDSCAPE_80/grafico_crises_teaser.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="grafico_crises_teaser.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/30/O-crescimento-e-a-queda-do-PIB-dos-pa%C3%ADses-ao-longo-do-tempo">
+O crescimento e a queda do PIB dos países ao longo do tempo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Thiago Quadros
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/27/As-receitas-e-despesas-dos-partidos-pol%C3%ADticos-em-2017">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-as-despesas-e-receitas-dos-partidos-em-2017/BINARY/thumbnail/Veja%20dados%20sobre%20as%20despesas%20e%20receitas%20dos%20partidos%20em%202017"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-as-despesas-e-receitas-dos-partidos-em-2017/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20as%20despesas%20e%20receitas%20dos%20partidos%20em%202017"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre as despesas e receitas dos partidos em 2017"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/27/As-receitas-e-despesas-dos-partidos-pol%C3%ADticos-em-2017">
+As receitas e despesas dos partidos políticos em 2017
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/25/As-bacias-hidrogr%C3%A1ficas-e-os-rios-do-Brasil-em-mapas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-s%C3%A3o-as-bacias-hidrogr%C3%A1ficas-brasileiras-e-seus-limites/BINARY/thumbnail/Veja%20quais%20s%C3%A3o%20as%20bacias%20hidrogr%C3%A1ficas%20brasileiras%20e%20seus%20limites"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-s%C3%A3o-as-bacias-hidrogr%C3%A1ficas-brasileiras-e-seus-limites/ALTERNATES/LANDSCAPE_80/Veja%20quais%20s%C3%A3o%20as%20bacias%20hidrogr%C3%A1ficas%20brasileiras%20e%20seus%20limites"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja quais são as bacias hidrográficas brasileiras e seus limites"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/25/As-bacias-hidrogr%C3%A1ficas-e-os-rios-do-Brasil-em-mapas">
+As bacias hidrográficas e os rios do Brasil, em mapas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/23/As-causas-de-morte-no-Brasil-em-2016-segundo-o-SUS">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-a-distribui%C3%A7%C3%A3o-de-diferentes-causas-de-morte-pelas-cidades-brasileiras/BINARY/thumbnail/Veja%20a%20distribui%C3%A7%C3%A3o%20de%20diferentes%20causas%20de%20morte%20pelas%20cidades%20brasileiras"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-a-distribui%C3%A7%C3%A3o-de-diferentes-causas-de-morte-pelas-cidades-brasileiras/ALTERNATES/LANDSCAPE_80/Veja%20a%20distribui%C3%A7%C3%A3o%20de%20diferentes%20causas%20de%20morte%20pelas%20cidades%20brasileiras"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja a distribuição de diferentes causas de morte pelas cidades brasileiras"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/23/As-causas-de-morte-no-Brasil-em-2016-segundo-o-SUS">
+As causas de morte no Brasil em 2016, segundo o SUS
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/20/A-expectativa-dos-apostadores-sobre-os-jogos-da-Copa">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-bolsas-de-apostas-para-os-jogos-da-Copa-2018/BINARY/thumbnail/Veja%20dados%20de%20bolsas%20de%20apostas%20para%20os%20jogos%20da%20Copa%202018"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-bolsas-de-apostas-para-os-jogos-da-Copa-2018/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20bolsas%20de%20apostas%20para%20os%20jogos%20da%20Copa%202018"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de bolsas de apostas para os jogos da Copa 2018"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/20/A-expectativa-dos-apostadores-sobre-os-jogos-da-Copa">
+A expectativa dos apostadores sobre os jogos da Copa
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=36" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/18/Agricultura-no-mundo-os-principais-cultivos-de-cada-pa%C3%ADs">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-ONU-que-indicam-quais-os-principais-gr%C3%A3oes-e-vegetais-cultivados-por-pa%C3%ADs/BINARY/thumbnail/Veja%20dados%20da%20ONU%20que%20indicam%20quais%20os%20principais%20gr%C3%A3oes%20e%20vegetais%20cultivados%20por%20pa%C3%ADs"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-ONU-que-indicam-quais-os-principais-gr%C3%A3oes-e-vegetais-cultivados-por-pa%C3%ADs/ALTERNATES/LANDSCAPE_80/Veja%20dados%20da%20ONU%20que%20indicam%20quais%20os%20principais%20gr%C3%A3oes%20e%20vegetais%20cultivados%20por%20pa%C3%ADs"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados da ONU que indicam quais os principais grãoes e vegetais cultivados por país"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/18/Agricultura-no-mundo-os-principais-cultivos-de-cada-pa%C3%ADs">
+Agricultura no mundo: os principais cultivos de cada país
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/16/Em-que-altura-dos-jogos-foram-marcados-os-gols-da-Copa-2018">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-a-progress%C3%A3o-de-gols-sofridos-e-marcados-por-cada-sele%C3%A7%C3%A3o-no-Mundial-de-2018/BINARY/thumbnail/Veja%20a%20progress%C3%A3o%20de%20gols%20(sofridos%20e%20marcados)%20por%20cada%20sele%C3%A7%C3%A3o%20no%20Mundial%20de%202018"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-a-progress%C3%A3o-de-gols-sofridos-e-marcados-por-cada-sele%C3%A7%C3%A3o-no-Mundial-de-2018/ALTERNATES/LANDSCAPE_80/Veja%20a%20progress%C3%A3o%20de%20gols%20(sofridos%20e%20marcados)%20por%20cada%20sele%C3%A7%C3%A3o%20no%20Mundial%20de%202018"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja a progressão de gols (sofridos e marcados) por cada seleção no Mundial de 2018"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/16/Em-que-altura-dos-jogos-foram-marcados-os-gols-da-Copa-2018">
+Em que altura dos jogos foram marcados os gols da Copa 2018
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/13/Os-transtornos-de-sa%C3%BAde-mental-no-mundo-por-idade-e-g%C3%AAnero">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-preval%C3%AAncia-de-transtornos-de-sa%C3%BAde-mental-no-mundo/BINARY/thumbnail/Veja%20dados%20sobre%20a%20preval%C3%AAncia%20de%20transtornos%20de%20sa%C3%BAde%20mental%20no%20mundo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-preval%C3%AAncia-de-transtornos-de-sa%C3%BAde-mental-no-mundo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20a%20preval%C3%AAncia%20de%20transtornos%20de%20sa%C3%BAde%20mental%20no%20mundo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre a prevalência de transtornos de saúde mental no mundo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/13/Os-transtornos-de-sa%C3%BAde-mental-no-mundo-por-idade-e-g%C3%AAnero">
+Os transtornos de saúde mental no mundo, por idade e gênero
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/11/As-erup%C3%A7%C3%B5es-vulc%C3%A2nicas-dos-%C3%BAltimos-4.000-anos-em-um-mapa-animado">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-funcionam-diferentes-tipos-de-vulc%C3%B5es-e-um-hist%C3%B3rico-animado-das-erup%C3%A7%C3%B5es/BINARY/thumbnail/Veja%20como%20funcionam%20diferentes%20tipos%20de%20vulc%C3%B5es%20e%20um%20hist%C3%B3rico%20animado%20das%20erup%C3%A7%C3%B5es"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-funcionam-diferentes-tipos-de-vulc%C3%B5es-e-um-hist%C3%B3rico-animado-das-erup%C3%A7%C3%B5es/ALTERNATES/LANDSCAPE_80/Veja%20como%20funcionam%20diferentes%20tipos%20de%20vulc%C3%B5es%20e%20um%20hist%C3%B3rico%20animado%20das%20erup%C3%A7%C3%B5es"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como funcionam diferentes tipos de vulcões e um histórico animado das erupções"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/11/As-erup%C3%A7%C3%B5es-vulc%C3%A2nicas-dos-%C3%BAltimos-4.000-anos-em-um-mapa-animado">
+As erupções vulcânicas dos últimos 4.000 anos em um mapa animado
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/05/%C3%81gua-energia-esgoto-o-acesso-a-servi%C3%A7os-de-acordo-com-a-renda">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-a-evolu%C3%A7%C3%A3o-na-cobertura-de-servi%C3%A7os-essenciais-como-%C3%A1gua-e-energia-el%C3%A9trica-para-diferentes-fatias-da-popula%C3%A7%C3%A3o/BINARY/thumbnail/Veja%20a%20evolu%C3%A7%C3%A3o%20na%20cobertura%20de%20servi%C3%A7os%20essenciais%20como%20%C3%A1gua%20e%20energia%20el%C3%A9trica%20para%20diferentes%20fatias%20da%20popula%C3%A7%C3%A3o"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-a-evolu%C3%A7%C3%A3o-na-cobertura-de-servi%C3%A7os-essenciais-como-%C3%A1gua-e-energia-el%C3%A9trica-para-diferentes-fatias-da-popula%C3%A7%C3%A3o/ALTERNATES/LANDSCAPE_80/Veja%20a%20evolu%C3%A7%C3%A3o%20na%20cobertura%20de%20servi%C3%A7os%20essenciais%20como%20%C3%A1gua%20e%20energia%20el%C3%A9trica%20para%20diferentes%20fatias%20da%20popula%C3%A7%C3%A3o"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja a evolução na cobertura de serviços essenciais como água e energia elétrica para diferentes fatias da população"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/05/%C3%81gua-energia-esgoto-o-acesso-a-servi%C3%A7os-de-acordo-com-a-renda">
+Água, energia, esgoto: o acesso a serviços de acordo com a renda
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/03/Quais-pa%C3%ADses-mais-avan%C3%A7aram-para-cada-fase-da-Copa-do-Mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-os-pa%C3%ADses-que-passaram-para-cada-fase-na-hist%C3%B3ria-das-Copas/BINARY/thumbnail/Veja%20quais%20os%20pa%C3%ADses%20que%20passaram%20para%20cada%20fase%20na%20hist%C3%B3ria%20das%20Copas"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-os-pa%C3%ADses-que-passaram-para-cada-fase-na-hist%C3%B3ria-das-Copas/ALTERNATES/LANDSCAPE_80/Veja%20quais%20os%20pa%C3%ADses%20que%20passaram%20para%20cada%20fase%20na%20hist%C3%B3ria%20das%20Copas"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja quais os países que passaram para cada fase na história das Copas"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/07/03/Quais-pa%C3%ADses-mais-avan%C3%A7aram-para-cada-fase-da-Copa-do-Mundo">
+Quais países mais avançaram para cada fase da Copa do Mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/29/O-desempenho-na-Copa-das-sele%C3%A7%C3%B5es-masculinas-e-femininas-de-futebol">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/%C3%9Anico-pa%C3%ADs-a-participar-de-todos-os-mundiais-masculinos-e-femininos-Brasil-tem-aproveitamento-alto-em-ambas-as-equipes.-Veja-mais-dados-comparando-as-sele%C3%A7%C3%B5es/BINARY/thumbnail/%C3%9Anico%20pa%C3%ADs%20a%20participar%20de%20todos%20os%20mundiais%20masculinos%20e%20femininos,%20Brasil%20tem%20aproveitamento%20alto%20em%20ambas%20as%20equipes.%20Veja%20mais%20dados%20comparando%20as%20sele%C3%A7%C3%B5es"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/%C3%9Anico-pa%C3%ADs-a-participar-de-todos-os-mundiais-masculinos-e-femininos-Brasil-tem-aproveitamento-alto-em-ambas-as-equipes.-Veja-mais-dados-comparando-as-sele%C3%A7%C3%B5es/ALTERNATES/LANDSCAPE_80/%C3%9Anico%20pa%C3%ADs%20a%20participar%20de%20todos%20os%20mundiais%20masculinos%20e%20femininos,%20Brasil%20tem%20aproveitamento%20alto%20em%20ambas%20as%20equipes.%20Veja%20mais%20dados%20comparando%20as%20sele%C3%A7%C3%B5es"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Único país a participar de todos os mundiais masculinos e femininos, Brasil tem aproveitamento alto em ambas as equipes. Veja mais dados comparando as seleções"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/29/O-desempenho-na-Copa-das-sele%C3%A7%C3%B5es-masculinas-e-femininas-de-futebol">
+O desempenho na Copa das seleções masculinas e femininas de futebol
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/26/N%C3%BAmeros-da-ind%C3%BAstria-de-games-receita-jogadores-e-espectadores">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-n%C3%BAmero-de-jogadores-de-diversos-jogos-e-da-ind%C3%BAstria-de-games/BINARY/thumbnail/Veja%20dados%20sobre%20o%20n%C3%BAmero%20de%20jogadores%20de%20diversos%20jogos%20e%20da%20ind%C3%BAstria%20de%20games"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-n%C3%BAmero-de-jogadores-de-diversos-jogos-e-da-ind%C3%BAstria-de-games/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20n%C3%BAmero%20de%20jogadores%20de%20diversos%20jogos%20e%20da%20ind%C3%BAstria%20de%20games"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o número de jogadores de diversos jogos e da indústria de games"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/26/N%C3%BAmeros-da-ind%C3%BAstria-de-games-receita-jogadores-e-espectadores">
+Números da indústria de games: receita, jogadores e espectadores
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/25/De-onde-saem-e-para-onde-v%C3%A3o-os-refugiados-segundo-a-ONU">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-das-Na%C3%A7%C3%B5es-Unidas-sobre-o-fluxo-de-refugiados-em-2017/BINARY/thumbnail/Veja%20dados%20das%20Na%C3%A7%C3%B5es%20Unidas%20sobre%20o%20fluxo%20de%20refugiados%20em%202017"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-das-Na%C3%A7%C3%B5es-Unidas-sobre-o-fluxo-de-refugiados-em-2017/ALTERNATES/LANDSCAPE_80/Veja%20dados%20das%20Na%C3%A7%C3%B5es%20Unidas%20sobre%20o%20fluxo%20de%20refugiados%20em%202017"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados das Nações Unidas sobre o fluxo de refugiados em 2017"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/25/De-onde-saem-e-para-onde-v%C3%A3o-os-refugiados-segundo-a-ONU">
+De onde saem (e para onde vão) os refugiados segundo a ONU
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=45" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/22/O-hist%C3%B3rico-das-cores-dos-uniformes-das-sele%C3%A7%C3%B5es-campe%C3%A3s">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-as-cores-principais-dos-uniformes-das-sele%C3%A7%C3%B5es-campe%C3%A3s-variaram-ao-longo-do-tempo/BINARY/thumbnail/Veja%20como%20as%20cores%20principais%20dos%20uniformes%20das%20sele%C3%A7%C3%B5es%20campe%C3%A3s%20variaram%20ao%20longo%20do%20tempo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-as-cores-principais-dos-uniformes-das-sele%C3%A7%C3%B5es-campe%C3%A3s-variaram-ao-longo-do-tempo/ALTERNATES/LANDSCAPE_80/Veja%20como%20as%20cores%20principais%20dos%20uniformes%20das%20sele%C3%A7%C3%B5es%20campe%C3%A3s%20variaram%20ao%20longo%20do%20tempo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como as cores principais dos uniformes das seleções campeãs variaram ao longo do tempo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/22/O-hist%C3%B3rico-das-cores-dos-uniformes-das-sele%C3%A7%C3%B5es-campe%C3%A3s">
+O histórico das cores dos uniformes das seleções campeãs
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/20/A-expectativa-de-vida-para-pessoas-de-65-anos-no-mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Dados-apontam-que-no-Brasil-na-d%C3%A9cada-de-1950-era-esperado-que-uma-mulher-de-65-anos-vivesse-mais-12.-Em-2010-2015-essa-expectativa-era-de-19-anos/BINARY/thumbnail/Dados%20apontam%20que%20no%20Brasil,%20na%20d%C3%A9cada%20de%201950,%20era%20esperado%20que%20uma%20mulher%20de%2065%20anos%20vivesse%20mais%2012.%20Em%202010-2015,%20essa%20expectativa%20era%20de%2019%20anos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Dados-apontam-que-no-Brasil-na-d%C3%A9cada-de-1950-era-esperado-que-uma-mulher-de-65-anos-vivesse-mais-12.-Em-2010-2015-essa-expectativa-era-de-19-anos/ALTERNATES/LANDSCAPE_80/Dados%20apontam%20que%20no%20Brasil,%20na%20d%C3%A9cada%20de%201950,%20era%20esperado%20que%20uma%20mulher%20de%2065%20anos%20vivesse%20mais%2012.%20Em%202010-2015,%20essa%20expectativa%20era%20de%2019%20anos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Dados apontam que no Brasil, na década de 1950, era esperado que uma mulher de 65 anos vivesse mais 12. Em 2010-2015, essa expectativa era de 19 anos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/20/A-expectativa-de-vida-para-pessoas-de-65-anos-no-mundo">
+A expectativa de vida para pessoas de 65 anos no mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/16/O-desempenho-do-Brasil-contra-seus-principais-advers%C3%A1rios-no-futebol">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-hist%C3%B3rico-de-jogos-do-Brasil-contra-todas-sele%C3%A7%C3%B5es-advers%C3%A1rias/BINARY/thumbnail/Veja%20dados%20do%20hist%C3%B3rico%20de%20jogos%20do%20Brasil%20contra%20todas%20sele%C3%A7%C3%B5es%20advers%C3%A1rias"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-hist%C3%B3rico-de-jogos-do-Brasil-contra-todas-sele%C3%A7%C3%B5es-advers%C3%A1rias/ALTERNATES/LANDSCAPE_80/Veja%20dados%20do%20hist%C3%B3rico%20de%20jogos%20do%20Brasil%20contra%20todas%20sele%C3%A7%C3%B5es%20advers%C3%A1rias"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados do histórico de jogos do Brasil contra todas seleções adversárias"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/16/O-desempenho-do-Brasil-contra-seus-principais-advers%C3%A1rios-no-futebol">
+O desempenho do Brasil contra seus principais adversários no futebol
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Maia e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/14/O-perfil-dos-jogadores-que-est%C3%A3o-na-Copa-do-Mundo-de-2018">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-altura-idade-time-nome-e-mais-para-os-jogadores-que-est%C3%A3o-na-Copa/BINARY/thumbnail/Veja%20dados%20de%20altura,%20idade,%20time,%20nome,%20e%20mais%20para%20os%20jogadores%20que%20est%C3%A3o%20na%20Copa"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-altura-idade-time-nome-e-mais-para-os-jogadores-que-est%C3%A3o-na-Copa/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20altura,%20idade,%20time,%20nome,%20e%20mais%20para%20os%20jogadores%20que%20est%C3%A3o%20na%20Copa"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de altura, idade, time, nome, e mais para os jogadores que estão na Copa"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/14/O-perfil-dos-jogadores-que-est%C3%A3o-na-Copa-do-Mundo-de-2018">
+O perfil dos jogadores que estão na Copa do Mundo de 2018
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/13/O-equil%C3%ADbrio-e-a-competitividade-dos-grupos-da-Copa">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-pontua%C3%A7%C3%A3o-no-%C3%ADndice-Elo-para-as-equipes-de-cada-grupo-do-Mundial/BINARY/thumbnail/Veja%20dados%20de%20pontua%C3%A7%C3%A3o%20no%20%C3%ADndice%20Elo%20para%20as%20equipes%20de%20cada%20grupo%20do%20Mundial"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-pontua%C3%A7%C3%A3o-no-%C3%ADndice-Elo-para-as-equipes-de-cada-grupo-do-Mundial/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20pontua%C3%A7%C3%A3o%20no%20%C3%ADndice%20Elo%20para%20as%20equipes%20de%20cada%20grupo%20do%20Mundial"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de pontuação no índice Elo para as equipes de cada grupo do Mundial"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/13/O-equil%C3%ADbrio-e-a-competitividade-dos-grupos-da-Copa">
+O equilíbrio e a competitividade dos grupos da Copa
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/11/O-fluxo-de-imigra%C3%A7%C3%A3o-ao-Brasil-desde-a-chegada-dos-portugueses">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-hist%C3%B3rico-de-imigra%C3%A7%C3%A3o-para-o-Brasil/BINARY/thumbnail/Veja%20dados%20sobre%20o%20hist%C3%B3rico%20de%20imigra%C3%A7%C3%A3o%20para%20o%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-hist%C3%B3rico-de-imigra%C3%A7%C3%A3o-para-o-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20hist%C3%B3rico%20de%20imigra%C3%A7%C3%A3o%20para%20o%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o histórico de imigração para o Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/11/O-fluxo-de-imigra%C3%A7%C3%A3o-ao-Brasil-desde-a-chegada-dos-portugueses">
+O fluxo de imigração ao Brasil desde a chegada dos portugueses
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Paula Miraglia, Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/08/A-participa%C3%A7%C3%A3o-das-sele%C3%A7%C3%B5es-de-futebol-em-cada-edi%C3%A7%C3%A3o-da-Copa-do-Mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-participa%C3%A7%C3%A3o-das-sele%C3%A7%C3%B5es-no-Mundial/BINARY/thumbnail/Veja%20dados%20sobre%20a%20participa%C3%A7%C3%A3o%20das%20sele%C3%A7%C3%B5es%20no%20Mundial"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-participa%C3%A7%C3%A3o-das-sele%C3%A7%C3%B5es-no-Mundial/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20a%20participa%C3%A7%C3%A3o%20das%20sele%C3%A7%C3%B5es%20no%20Mundial"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre a participação das seleções no Mundial"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/08/A-participa%C3%A7%C3%A3o-das-sele%C3%A7%C3%B5es-de-futebol-em-cada-edi%C3%A7%C3%A3o-da-Copa-do-Mundo">
+A participação das seleções de futebol em cada edição da Copa do Mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/06/A-produ%C3%A7%C3%A3o-o-consumo-e-o-pre%C3%A7o-do-petr%C3%B3leo-no-mundo-ao-longo-dos-anos">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-produ%C3%A7%C3%A3o-o-consumo-e-o-pre%C3%A7o-do-petr%C3%B3leo-no-mundo/BINARY/thumbnail/Veja%20dados%20sobre%20a%20produ%C3%A7%C3%A3o,%20o%20consumo%20e%20o%20pre%C3%A7o%20do%20petr%C3%B3leo%20no%20mundo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-produ%C3%A7%C3%A3o-o-consumo-e-o-pre%C3%A7o-do-petr%C3%B3leo-no-mundo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20a%20produ%C3%A7%C3%A3o,%20o%20consumo%20e%20o%20pre%C3%A7o%20do%20petr%C3%B3leo%20no%20mundo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre a produção, o consumo e o preço do petróleo no mundo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/06/A-produ%C3%A7%C3%A3o-o-consumo-e-o-pre%C3%A7o-do-petr%C3%B3leo-no-mundo-ao-longo-dos-anos">
+A produção, o consumo e o preço do petróleo no mundo ao longo dos anos
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/01/O-interesse-dos-brasileiros-pela-Copa-do-Mundo-2018-segundo-esta-pesquisa">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-levantamento-feito-pela-CNT-sobre-o-interesse-dos-brasileiros-pelo-Mundial/BINARY/thumbnail/Veja%20dados%20de%20levantamento%20feito%20pela%20CNT%20sobre%20o%20interesse%20dos%20brasileiros%20pelo%20Mundial"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-levantamento-feito-pela-CNT-sobre-o-interesse-dos-brasileiros-pelo-Mundial/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20levantamento%20feito%20pela%20CNT%20sobre%20o%20interesse%20dos%20brasileiros%20pelo%20Mundial"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de levantamento feito pela CNT sobre o interesse dos brasileiros pelo Mundial"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/06/01/O-interesse-dos-brasileiros-pela-Copa-do-Mundo-2018-segundo-esta-pesquisa">
+O interesse dos brasileiros pela Copa do Mundo 2018, segundo esta pesquisa
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=54" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/30/Quais-os-m%C3%A9todos-contraceptivos-usados-no-mundo-segundo-a-OMS">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-uso-de-contraceptivos-no-mundo-segundo-a-OMS/BINARY/thumbnail/Veja%20dados%20sobre%20o%20uso%20de%20contraceptivos%20no%20mundo,%20segundo%20a%20OMS"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-uso-de-contraceptivos-no-mundo-segundo-a-OMS/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20uso%20de%20contraceptivos%20no%20mundo,%20segundo%20a%20OMS"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o uso de contraceptivos no mundo, segundo a OMS"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/30/Quais-os-m%C3%A9todos-contraceptivos-usados-no-mundo-segundo-a-OMS">
+Quais os métodos contraceptivos usados no mundo, segundo a OMS
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/29/O-perfil-dos-caminhoneiros-no-Brasil-segundo-esta-pesquisa">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-perfil-desses-profissionais-no-pa%C3%ADs/BINARY/thumbnail/Veja%20dados%20sobre%20o%20perfil%20desses%20profissionais%20no%20pa%C3%ADs"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-perfil-desses-profissionais-no-pa%C3%ADs/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20perfil%20desses%20profissionais%20no%20pa%C3%ADs"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o perfil desses profissionais no país"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/29/O-perfil-dos-caminhoneiros-no-Brasil-segundo-esta-pesquisa">
+O perfil dos caminhoneiros no Brasil, segundo esta pesquisa
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/25/A-posi%C3%A7%C3%A3o-das-sele%C3%A7%C3%B5es-de-futebol-no-ranking-internacional-Elo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Dados-do-%C3%ADndice-Elo-mostram-como-as-sele%C3%A7%C3%B5es-do-mundo-se-sa%C3%ADram-no-ranking-ao-longo-do-tempo/BINARY/thumbnail/Dados%20do%20%C3%ADndice%20Elo%20mostram%20como%20as%20sele%C3%A7%C3%B5es%20do%20mundo%20se%20sa%C3%ADram%20no%20ranking%20ao%20longo%20do%20tempo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Dados-do-%C3%ADndice-Elo-mostram-como-as-sele%C3%A7%C3%B5es-do-mundo-se-sa%C3%ADram-no-ranking-ao-longo-do-tempo/ALTERNATES/LANDSCAPE_80/Dados%20do%20%C3%ADndice%20Elo%20mostram%20como%20as%20sele%C3%A7%C3%B5es%20do%20mundo%20se%20sa%C3%ADram%20no%20ranking%20ao%20longo%20do%20tempo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Dados do índice Elo mostram como as seleções do mundo se saíram no ranking ao longo do tempo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/25/A-posi%C3%A7%C3%A3o-das-sele%C3%A7%C3%B5es-de-futebol-no-ranking-internacional-Elo">
+A posição das seleções de futebol no ranking internacional Elo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/23/Qual-o-g%C3%AAnero-e-a-idade-de-mestres-e-doutores-no-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-CNPq-para-g%C3%AAnero-e-idade-de-mestres-e-doutores-no-Brasil/BINARY/thumbnail/Veja%20dados%20do%20CNPq%20para%20g%C3%AAnero%20e%20idade%20de%20mestres%20e%20doutores%20no%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-CNPq-para-g%C3%AAnero-e-idade-de-mestres-e-doutores-no-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20dados%20do%20CNPq%20para%20g%C3%AAnero%20e%20idade%20de%20mestres%20e%20doutores%20no%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados do CNPq para gênero e idade de mestres e doutores no Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/23/Qual-o-g%C3%AAnero-e-a-idade-de-mestres-e-doutores-no-Brasil">
+Qual o gênero e a idade de mestres e doutores no Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/21/Onde-est%C3%A3o-os-acessos-ao-Sci-Hub-plataforma-de-pirataria-de-artigos-cient%C3%ADficos">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/teaser-scihub-04.png/BINARY/thumbnail/teaser-scihub-04.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/teaser-scihub-04.png/ALTERNATES/LANDSCAPE_80/teaser-scihub-04.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="teaser-scihub-04.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/21/Onde-est%C3%A3o-os-acessos-ao-Sci-Hub-plataforma-de-pirataria-de-artigos-cient%C3%ADficos">
+Onde estão os acessos ao Sci-Hub, plataforma de pirataria de artigos científicos
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/18/O-ritmo-de-cria%C3%A7%C3%A3o-de-novos-emojis.-E-como-eles-funcionam">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-como-os-emojis-s%C3%A3o-interpretados-pelo-seu-computador/BINARY/thumbnail/Veja%20como%20os%20emojis%20s%C3%A3o%20interpretados%20pelo%20seu%20computador"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-como-os-emojis-s%C3%A3o-interpretados-pelo-seu-computador/ALTERNATES/LANDSCAPE_80/Veja%20como%20os%20emojis%20s%C3%A3o%20interpretados%20pelo%20seu%20computador"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja como os emojis são interpretados pelo seu computador"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/18/O-ritmo-de-cria%C3%A7%C3%A3o-de-novos-emojis.-E-como-eles-funcionam">
+O ritmo de criação de novos emojis. E como eles funcionam
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/16/Qual-a-presen%C3%A7a-dos-partidos-na-C%C3%A2mara-ao-longo-do-tempo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Hoje-25-partidos-dividem-espa%C3%A7o-na-C%C3%A2mara-dos-Deputados.-Veja-como-essa-divis%C3%A3o-se-deu-historicamente-desde-1945/BINARY/thumbnail/Hoje,%2025%20partidos%20dividem%20espa%C3%A7o%20na%20C%C3%A2mara%20dos%20Deputados.%20Veja%20como%20essa%20divis%C3%A3o%20se%20deu%20historicamente,%20desde%201945"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Hoje-25-partidos-dividem-espa%C3%A7o-na-C%C3%A2mara-dos-Deputados.-Veja-como-essa-divis%C3%A3o-se-deu-historicamente-desde-1945/ALTERNATES/LANDSCAPE_80/Hoje,%2025%20partidos%20dividem%20espa%C3%A7o%20na%20C%C3%A2mara%20dos%20Deputados.%20Veja%20como%20essa%20divis%C3%A3o%20se%20deu%20historicamente,%20desde%201945"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Hoje, 25 partidos dividem espaço na Câmara dos Deputados. Veja como essa divisão se deu historicamente, desde 1945"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/16/Qual-a-presen%C3%A7a-dos-partidos-na-C%C3%A2mara-ao-longo-do-tempo">
+Qual a presença dos partidos na Câmara ao longo do tempo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/14/Um-hist%C3%B3rico-do-perfil-dos-brasileiros-convocados-para-a-Copa-do-Mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-dos-jogadores-convocados-para-a-sele%C3%A7%C3%A3o/BINARY/thumbnail/Veja%20um%20hist%C3%B3rico%20dos%20jogadores%20convocados%20para%20a%20sele%C3%A7%C3%A3o"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-dos-jogadores-convocados-para-a-sele%C3%A7%C3%A3o/ALTERNATES/LANDSCAPE_80/Veja%20um%20hist%C3%B3rico%20dos%20jogadores%20convocados%20para%20a%20sele%C3%A7%C3%A3o"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja um histórico dos jogadores convocados para a seleção"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/14/Um-hist%C3%B3rico-do-perfil-dos-brasileiros-convocados-para-a-Copa-do-Mundo">
+Um histórico do perfil dos brasileiros convocados para a Copa do Mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/11/2-anos-de-Temer-popularidade-Congresso-minist%C3%A9rios-e-viagens">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-do-governo-Temer-em-gr%C3%A1ficos/BINARY/thumbnail/Veja%20um%20hist%C3%B3rico%20do%20governo%20Temer,%20em%20gr%C3%A1ficos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-um-hist%C3%B3rico-do-governo-Temer-em-gr%C3%A1ficos/ALTERNATES/LANDSCAPE_80/Veja%20um%20hist%C3%B3rico%20do%20governo%20Temer,%20em%20gr%C3%A1ficos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja um histórico do governo Temer, em gráficos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/11/2-anos-de-Temer-popularidade-Congresso-minist%C3%A9rios-e-viagens">
+2 anos de Temer: popularidade, Congresso, ministérios e viagens
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=63" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/09/As-transfer%C3%AAncias-de-royalties-da-Uni%C3%A3o-para-os-munic%C3%ADpios">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-repasses-por-royalties-da-Uni%C3%A3o-para-os-munic%C3%ADpios-brasileiros/BINARY/thumbnail/Veja%20dados%20de%20repasses%20por%20royalties%20da%20Uni%C3%A3o%20para%20os%20munic%C3%ADpios%20brasileiros"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-repasses-por-royalties-da-Uni%C3%A3o-para-os-munic%C3%ADpios-brasileiros/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20repasses%20por%20royalties%20da%20Uni%C3%A3o%20para%20os%20munic%C3%ADpios%20brasileiros"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de repasses por royalties da União para os municípios brasileiros"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/09/As-transfer%C3%AAncias-de-royalties-da-Uni%C3%A3o-para-os-munic%C3%ADpios">
+As transferências de royalties da União para os municípios
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/07/As-receitas-da-ind%C3%BAstria-fonogr%C3%A1fica-das-vendas-f%C3%ADsicas-ao-streaming">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-setor-sobre-a-receita-de-diferentes-tipos-de-consumo-de-m%C3%BAsica/BINARY/thumbnail/Veja%20dados%20do%20setor%20sobre%20a%20receita%20de%20diferentes%20tipos%20de%20consumo%20de%20m%C3%BAsica"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-setor-sobre-a-receita-de-diferentes-tipos-de-consumo-de-m%C3%BAsica/ALTERNATES/LANDSCAPE_80/Veja%20dados%20do%20setor%20sobre%20a%20receita%20de%20diferentes%20tipos%20de%20consumo%20de%20m%C3%BAsica"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados do setor sobre a receita de diferentes tipos de consumo de música"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/07/As-receitas-da-ind%C3%BAstria-fonogr%C3%A1fica-das-vendas-f%C3%ADsicas-ao-streaming">
+As receitas da indústria fonográfica: das vendas físicas ao streaming
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/04/Os-10-portos-que-mais-exportam-no-Brasil-seus-produtos-e-destinos">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-s%C3%A3o-os-portos-brasileiros-que-mais-exportam-o-que-exportam-e-para-onde/BINARY/thumbnail/Veja%20quais%20s%C3%A3o%20os%20portos%20brasileiros%20que%20mais%20exportam,%20o%20que%20exportam%20e%20para%20onde"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-s%C3%A3o-os-portos-brasileiros-que-mais-exportam-o-que-exportam-e-para-onde/ALTERNATES/LANDSCAPE_80/Veja%20quais%20s%C3%A3o%20os%20portos%20brasileiros%20que%20mais%20exportam,%20o%20que%20exportam%20e%20para%20onde"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja quais são os portos brasileiros que mais exportam, o que exportam e para onde"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/04/Os-10-portos-que-mais-exportam-no-Brasil-seus-produtos-e-destinos">
+Os 10 portos que mais exportam no Brasil, seus produtos e destinos
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/02/A-evolu%C3%A7%C3%A3o-do-n%C3%BAmero-de-linhas-de-telefone-fixo-e-celular-no-mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-n%C3%BAmero-de-linhas-de-telefonia-m%C3%B3vel-e-fixa-no-mundo/BINARY/thumbnail/Veja%20dados%20sobre%20o%20n%C3%BAmero%20de%20linhas%20de%20telefonia%20m%C3%B3vel%20e%20fixa%20no%20mundo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-n%C3%BAmero-de-linhas-de-telefonia-m%C3%B3vel-e-fixa-no-mundo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20n%C3%BAmero%20de%20linhas%20de%20telefonia%20m%C3%B3vel%20e%20fixa%20no%20mundo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o número de linhas de telefonia móvel e fixa no mundo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/05/02/A-evolu%C3%A7%C3%A3o-do-n%C3%BAmero-de-linhas-de-telefone-fixo-e-celular-no-mundo">
+A evolução do número de linhas de telefone fixo e celular no mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/30/As-horas-de-trabalho-dom%C3%A9stico-de-homens-e-mulheres-do-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/trabalhodomesticoteaser2.png/BINARY/thumbnail/trabalhodomesticoteaser2.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/trabalhodomesticoteaser2.png/ALTERNATES/LANDSCAPE_80/trabalhodomesticoteaser2.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="trabalhodomesticoteaser2.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/30/As-horas-de-trabalho-dom%C3%A9stico-de-homens-e-mulheres-do-Brasil">
+As horas de trabalho doméstico de homens e mulheres do Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/27/%E2%80%98Guerra-Infinita%E2%80%99-a-linha-do-tempo-dos-her%C3%B3is-at%C3%A9-o-novo-filme-dos-Vingadores">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-super-her%C3%B3is-participam-de-quais-filmes-da-Marvel-desde-2008/BINARY/thumbnail/Veja%20quais%20super-her%C3%B3is%20participam%20de%20quais%20filmes%20da%20Marvel,%20desde%202008"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-quais-super-her%C3%B3is-participam-de-quais-filmes-da-Marvel-desde-2008/ALTERNATES/LANDSCAPE_80/Veja%20quais%20super-her%C3%B3is%20participam%20de%20quais%20filmes%20da%20Marvel,%20desde%202008"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja quais super-heróis participam de quais filmes da Marvel, desde 2008"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/27/%E2%80%98Guerra-Infinita%E2%80%99-a-linha-do-tempo-dos-her%C3%B3is-at%C3%A9-o-novo-filme-dos-Vingadores">
+‘Guerra Infinita’: a linha do tempo dos heróis até o novo filme dos Vingadores
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/25/Deputados-federais-no-Facebook-tamanho-das-p%C3%A1ginas-atividade-e-engajamento">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-uso-do-Facebook-por-parlamentares/BINARY/thumbnail/Veja%20dados%20sobre%20o%20uso%20do%20Facebook%20por%20parlamentares"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-uso-do-Facebook-por-parlamentares/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20uso%20do%20Facebook%20por%20parlamentares"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o uso do Facebook por parlamentares"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/25/Deputados-federais-no-Facebook-tamanho-das-p%C3%A1ginas-atividade-e-engajamento">
+Deputados federais no Facebook: tamanho das páginas, atividade e engajamento
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/23/M%C3%A9dicos-no-Brasil-onde-est%C3%A3o-quais-as-especialidades-e-quem-atende-pelo-SUS">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-onde-est%C3%A3o-e-quais-as-especialidades-dos-m%C3%A9dicos-do-Brasil/BINARY/thumbnail/Veja%20onde%20est%C3%A3o%20e%20quais%20as%20especialidades%20dos%20m%C3%A9dicos%20do%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-onde-est%C3%A3o-e-quais-as-especialidades-dos-m%C3%A9dicos-do-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20onde%20est%C3%A3o%20e%20quais%20as%20especialidades%20dos%20m%C3%A9dicos%20do%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja onde estão e quais as especialidades dos médicos do Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/23/M%C3%A9dicos-no-Brasil-onde-est%C3%A3o-quais-as-especialidades-e-quem-atende-pelo-SUS">
+Médicos no Brasil: onde estão, quais as especialidades e quem atende pelo SUS
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/20/Qual-a-distribui%C3%A7%C3%A3o-de-carga-hor%C3%A1ria-dos-cursos-superiores-no-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-carga-hor%C3%A1ria-de-cursos-de-diferentes-%C3%A1reas-no-Brasil/BINARY/thumbnail/Veja%20dados%20sobre%20a%20carga%20hor%C3%A1ria%20de%20cursos%20de%20diferentes%20%C3%A1reas%20no%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-carga-hor%C3%A1ria-de-cursos-de-diferentes-%C3%A1reas-no-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20a%20carga%20hor%C3%A1ria%20de%20cursos%20de%20diferentes%20%C3%A1reas%20no%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre a carga horária de cursos de diferentes áreas no Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/20/Qual-a-distribui%C3%A7%C3%A3o-de-carga-hor%C3%A1ria-dos-cursos-superiores-no-Brasil">
+Qual a distribuição de carga horária dos cursos superiores no Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=72" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/16/O-hist%C3%B3rico-dos-ministros-de-Temer-do-impeachment-at%C3%A9-aqui">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-em-um-gr%C3%A1fico-um-hist%C3%B3rico-dos-ministros-de-Temer/BINARY/thumbnail/Veja%20em%20um%20gr%C3%A1fico%20um%20hist%C3%B3rico%20dos%20ministros%20de%20Temer"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-em-um-gr%C3%A1fico-um-hist%C3%B3rico-dos-ministros-de-Temer/ALTERNATES/LANDSCAPE_80/Veja%20em%20um%20gr%C3%A1fico%20um%20hist%C3%B3rico%20dos%20ministros%20de%20Temer"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja em um gráfico um histórico dos ministros de Temer"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/16/O-hist%C3%B3rico-dos-ministros-de-Temer-do-impeachment-at%C3%A9-aqui">
+O histórico dos ministros de Temer, do impeachment até aqui
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida, Gabriel Zanlorenssi e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/13/O-hist%C3%B3rico-da-classifica%C3%A7%C3%A3o-dos-times-no-Campeonato-Brasileiro">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-posicionamento-para-os-times-classificados-para-o-Brasileri%C3%A3o-2018/BINARY/thumbnail/Veja%20dados%20de%20posicionamento%20para%20os%20times%20classificados%20para%20o%20Brasileri%C3%A3o%202018"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-posicionamento-para-os-times-classificados-para-o-Brasileri%C3%A3o-2018/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20posicionamento%20para%20os%20times%20classificados%20para%20o%20Brasileri%C3%A3o%202018"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de posicionamento para os times classificados para o Brasilerião 2018"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/13/O-hist%C3%B3rico-da-classifica%C3%A7%C3%A3o-dos-times-no-Campeonato-Brasileiro">
+O histórico da classificação dos times no Campeonato Brasileiro
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/11/Qual-%C3%A9-o-hist%C3%B3rico-da-planta%C3%A7%C3%A3o-de-soja-no-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-produ%C3%A7%C3%A3o-de-soja-no-Brasil/BINARY/thumbnail/Veja%20dados%20da%20produ%C3%A7%C3%A3o%20de%20soja%20no%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-produ%C3%A7%C3%A3o-de-soja-no-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20dados%20da%20produ%C3%A7%C3%A3o%20de%20soja%20no%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados da produção de soja no Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/11/Qual-%C3%A9-o-hist%C3%B3rico-da-planta%C3%A7%C3%A3o-de-soja-no-Brasil">
+Qual é o histórico da plantação de soja no Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/07/O-ritmo-de-envelhecimento-da-popula%C3%A7%C3%A3o-dos-pa%C3%ADses">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-progress%C3%A3o-da-idade-mediana-da-popula%C3%A7%C3%A3o-de-diferentes-pa%C3%ADses/BINARY/thumbnail/Veja%20dados%20sobre%20a%20progress%C3%A3o%20da%20idade%20mediana%20da%20popula%C3%A7%C3%A3o%20de%20diferentes%20pa%C3%ADses"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-progress%C3%A3o-da-idade-mediana-da-popula%C3%A7%C3%A3o-de-diferentes-pa%C3%ADses/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20a%20progress%C3%A3o%20da%20idade%20mediana%20da%20popula%C3%A7%C3%A3o%20de%20diferentes%20pa%C3%ADses"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre a progressão da idade mediana da população de diferentes países"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/07/O-ritmo-de-envelhecimento-da-popula%C3%A7%C3%A3o-dos-pa%C3%ADses">
+O ritmo de envelhecimento da população dos países
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/04/Quais-os-tipos-de-peixes-marinhos-mais-pescados-no-Brasil-e-no-mundo">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-ind%C3%BAstria-pesqueira-no-mundo/BINARY/thumbnail/Veja%20dados%20sobre%20a%20ind%C3%BAstria%20pesqueira%20no%20mundo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-ind%C3%BAstria-pesqueira-no-mundo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20a%20ind%C3%BAstria%20pesqueira%20no%20mundo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre a indústria pesqueira no mundo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/04/Quais-os-tipos-de-peixes-marinhos-mais-pescados-no-Brasil-e-no-mundo">
+Quais os tipos de peixes marinhos mais pescados no Brasil e no mundo
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/02/Os-filiados-aos-partidos-brasileiros-g%C3%AAnero-idade-e-distribui%C3%A7%C3%A3o">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-filia%C3%A7%C3%A3o-dos-partidos-brasileiros/BINARY/thumbnail/Veja%20dados%20de%20filia%C3%A7%C3%A3o%20dos%20partidos%20brasileiros"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-filia%C3%A7%C3%A3o-dos-partidos-brasileiros/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20filia%C3%A7%C3%A3o%20dos%20partidos%20brasileiros"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de filiação dos partidos brasileiros"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/04/02/Os-filiados-aos-partidos-brasileiros-g%C3%AAnero-idade-e-distribui%C3%A7%C3%A3o">
+Os filiados aos partidos brasileiros: gênero, idade e distribuição
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/31/Como-mentir-com-gr%C3%A1ficos-7-detalhes-que-podem-te-enganar">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-algumas-maneiras-de-criar-gr%C3%A1ficos-enganosos/BINARY/thumbnail/Veja%20algumas%20maneiras%20de%20criar%20gr%C3%A1ficos%20enganosos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-algumas-maneiras-de-criar-gr%C3%A1ficos-enganosos/ALTERNATES/LANDSCAPE_80/Veja%20algumas%20maneiras%20de%20criar%20gr%C3%A1ficos%20enganosos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja algumas maneiras de criar gráficos enganosos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/31/Como-mentir-com-gr%C3%A1ficos-7-detalhes-que-podem-te-enganar">
+Como mentir com gráficos: 7 detalhes que podem te enganar
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/29/Quantas-s%C3%A3o-e-como-se-distribuem-as-ag%C3%AAncias-banc%C3%A1rias-no-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-a-evolu%C3%A7%C3%A3o-do-n%C3%BAmero-de-ag%C3%AAncias-no-Brasil/BINARY/thumbnail/Veja%20em%20gr%C3%A1ficos%20a%20evolu%C3%A7%C3%A3o%20do%20n%C3%BAmero%20de%20ag%C3%AAncias%20no%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-a-evolu%C3%A7%C3%A3o-do-n%C3%BAmero-de-ag%C3%AAncias-no-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20em%20gr%C3%A1ficos%20a%20evolu%C3%A7%C3%A3o%20do%20n%C3%BAmero%20de%20ag%C3%AAncias%20no%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja em gráficos a evolução do número de agências no Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/29/Quantas-s%C3%A3o-e-como-se-distribuem-as-ag%C3%AAncias-banc%C3%A1rias-no-Brasil">
+Quantas são e como se distribuem as agências bancárias no Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/27/Hidrel%C3%A9tricas-carv%C3%A3o-petr%C3%B3leo-como-cada-pa%C3%ADs-gera-sua-energia">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-matriz-energ%C3%A9tica-de-todos-os-pa%C3%ADses/BINARY/thumbnail/Veja%20dados%20sobre%20a%20matriz%20energ%C3%A9tica%20de%20todos%20os%20pa%C3%ADses"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-a-matriz-energ%C3%A9tica-de-todos-os-pa%C3%ADses/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20a%20matriz%20energ%C3%A9tica%20de%20todos%20os%20pa%C3%ADses"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre a matriz energética de todos os países"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/27/Hidrel%C3%A9tricas-carv%C3%A3o-petr%C3%B3leo-como-cada-pa%C3%ADs-gera-sua-energia">
+Hidrelétricas, carvão, petróleo: como cada país gera sua energia
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=81" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/23/5-dados-sobre-a-fronteira-do-Brasil-com-outros-pa%C3%ADses">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-a-extens%C3%A3o-da-fronteira-do-Brasil-em-gr%C3%A1ficos/BINARY/thumbnail/Veja%20a%20extens%C3%A3o%20da%20fronteira%20do%20Brasil,%20em%20gr%C3%A1ficos"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-a-extens%C3%A3o-da-fronteira-do-Brasil-em-gr%C3%A1ficos/ALTERNATES/LANDSCAPE_80/Veja%20a%20extens%C3%A3o%20da%20fronteira%20do%20Brasil,%20em%20gr%C3%A1ficos"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja a extensão da fronteira do Brasil, em gráficos"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/23/5-dados-sobre-a-fronteira-do-Brasil-com-outros-pa%C3%ADses">
+5 dados sobre a fronteira do Brasil com outros países
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/21/M%C3%A9dicos-pedreiros-professores-idade-e-g%C3%AAnero-das-profiss%C3%B5es">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/teaser-rais-idade-03.png/BINARY/thumbnail/teaser-rais-idade-03.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/teaser-rais-idade-03.png/ALTERNATES/LANDSCAPE_80/teaser-rais-idade-03.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="teaser-rais-idade-03.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/21/M%C3%A9dicos-pedreiros-professores-idade-e-g%C3%AAnero-das-profiss%C3%B5es">
+Médicos, pedreiros, professores: idade e gênero das profissões
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/20/Acesso-depend%C3%AAncia-usos-a-situa%C3%A7%C3%A3o-da-%C3%A1gua-no-mundo-em-6-mapas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-acesso-a-%C3%A1gua-segura-e-mais-para-todo-o-mundo/BINARY/thumbnail/Veja%20dados%20sobre%20acesso%20a%20%C3%A1gua%20segura%20e%20mais,%20para%20todo%20o%20mundo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-acesso-a-%C3%A1gua-segura-e-mais-para-todo-o-mundo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20acesso%20a%20%C3%A1gua%20segura%20e%20mais,%20para%20todo%20o%20mundo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre acesso a água segura e mais, para todo o mundo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/20/Acesso-depend%C3%AAncia-usos-a-situa%C3%A7%C3%A3o-da-%C3%A1gua-no-mundo-em-6-mapas">
+Acesso, dependência, usos: a situação da água no mundo, em 6 mapas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/16/O-hist%C3%B3rico-da-rela%C3%A7%C3%A3o-comercial-entre-Brasil-e-Estados-Unidos">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-as-exporta%C3%A7%C3%B5es-e-importa%C3%A7%C3%B5es-entre-Brasil-e-EUA/BINARY/thumbnail/Veja%20dados%20sobre%20as%20exporta%C3%A7%C3%B5es%20e%20importa%C3%A7%C3%B5es%20entre%20Brasil%20e%20EUA"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-as-exporta%C3%A7%C3%B5es-e-importa%C3%A7%C3%B5es-entre-Brasil-e-EUA/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20as%20exporta%C3%A7%C3%B5es%20e%20importa%C3%A7%C3%B5es%20entre%20Brasil%20e%20EUA"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre as exportações e importações entre Brasil e EUA"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/16/O-hist%C3%B3rico-da-rela%C3%A7%C3%A3o-comercial-entre-Brasil-e-Estados-Unidos">
+O histórico da relação comercial entre Brasil e Estados Unidos
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/14/Quais-os-dias-e-hor%C3%A1rios-mais-frequentes-para-partos-normais-e-cesarianas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-registro-civil-para-partos-no-Estado-de-S%C3%A3o-Paulo/BINARY/thumbnail/Veja%20dados%20de%20registro%20civil%20para%20partos%20no%20Estado%20de%20S%C3%A3o%20Paulo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-registro-civil-para-partos-no-Estado-de-S%C3%A3o-Paulo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20registro%20civil%20para%20partos%20no%20Estado%20de%20S%C3%A3o%20Paulo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de registro civil para partos no Estado de São Paulo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/14/Quais-os-dias-e-hor%C3%A1rios-mais-frequentes-para-partos-normais-e-cesarianas">
+Quais os dias e horários mais frequentes para partos normais e cesarianas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/12/Polui%C3%A7%C3%A3o-do-ar-quais-as-cidades-com-maior-concentra%C3%A7%C3%A3o-de-part%C3%ADculas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-OMS-sobre-a-concentra%C3%A7%C3%A3o-de-part%C3%ADculas-no-ar/BINARY/thumbnail/Veja%20dados%20da%20OMS%20sobre%20a%20concentra%C3%A7%C3%A3o%20de%20part%C3%ADculas%20no%20ar"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-OMS-sobre-a-concentra%C3%A7%C3%A3o-de-part%C3%ADculas-no-ar/ALTERNATES/LANDSCAPE_80/Veja%20dados%20da%20OMS%20sobre%20a%20concentra%C3%A7%C3%A3o%20de%20part%C3%ADculas%20no%20ar"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados da OMS sobre a concentração de partículas no ar"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/12/Polui%C3%A7%C3%A3o-do-ar-quais-as-cidades-com-maior-concentra%C3%A7%C3%A3o-de-part%C3%ADculas">
+Poluição do ar: quais as cidades com maior concentração de partículas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/09/Os-sat%C3%A9lites-na-%C3%B3rbita-da-Terra-tipo-altitude-idade-e-nacionalidade">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/teaser-satelites2-04.png/BINARY/thumbnail/teaser-satelites2-04.png"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/teaser-satelites2-04.png/ALTERNATES/LANDSCAPE_80/teaser-satelites2-04.png"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="teaser-satelites2-04.png"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/09/Os-sat%C3%A9lites-na-%C3%B3rbita-da-Terra-tipo-altitude-idade-e-nacionalidade">
+Os satélites na órbita da Terra: tipo, altitude, idade e nacionalidade
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Maia
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/07/Quantos-meses-de-seca-cada-estado-enfrenta-em-um-mapa">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-seca-no-Brasil/BINARY/thumbnail/Veja%20dados%20de%20seca%20no%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-de-seca-no-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20dados%20de%20seca%20no%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados de seca no Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/07/Quantos-meses-de-seca-cada-estado-enfrenta-em-um-mapa">
+Quantos meses de seca cada estado enfrenta, em um mapa
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/05/O-n%C3%BAmero-de-militares-em-cada-pa%C3%ADs-e-a-propor%C3%A7%C3%A3o-deles-na-popula%C3%A7%C3%A3o">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-n%C3%BAmero-de-soldados-por-pa%C3%ADs/BINARY/thumbnail/Veja%20dados%20do%20n%C3%BAmero%20de%20soldados%20por%20pa%C3%ADs"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-n%C3%BAmero-de-soldados-por-pa%C3%ADs/ALTERNATES/LANDSCAPE_80/Veja%20dados%20do%20n%C3%BAmero%20de%20soldados%20por%20pa%C3%ADs"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados do número de soldados por país"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/05/O-n%C3%BAmero-de-militares-em-cada-pa%C3%ADs-e-a-propor%C3%A7%C3%A3o-deles-na-popula%C3%A7%C3%A3o">
+O número de militares em cada país e a proporção deles na população
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=90" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/02/A-origem-e-idade-dos-premiados-nas-principais-categorias-do-Oscar">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-os-ganhadores-das-principais-categorias-do-Oscar/BINARY/thumbnail/Veja%20dados%20sobre%20os%20ganhadores%20das%20principais%20categorias%20do%20Oscar"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-os-ganhadores-das-principais-categorias-do-Oscar/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20os%20ganhadores%20das%20principais%20categorias%20do%20Oscar"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre os ganhadores das principais categorias do Oscar"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/03/02/A-origem-e-idade-dos-premiados-nas-principais-categorias-do-Oscar">
+A origem e idade dos premiados nas principais categorias do Oscar
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi, Gabriel Maia e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/28/Os-presidentes-do-Brasil-mandato-forma%C3%A7%C3%A3o-cidade-e-idade">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-perfil-de-todos-os-presidentes-do-Brasil/BINARY/thumbnail/Veja%20dados%20sobre%20o%20perfil%20de%20todos%20os%20presidentes%20do%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-perfil-de-todos-os-presidentes-do-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20perfil%20de%20todos%20os%20presidentes%20do%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o perfil de todos os presidentes do Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/28/Os-presidentes-do-Brasil-mandato-forma%C3%A7%C3%A3o-cidade-e-idade">
+Os presidentes do Brasil: mandato, formação, cidade e idade
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Maia, Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/23/Os-atletas-brasileiros-nas-Olimp%C3%ADadas-de-Inverno-e-a-origem-dos-medalhistas">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-o-hist%C3%B3rico-da-participa%C3%A7%C3%A3o-brasileiras-nos-jogos-ol%C3%ADmpicos-de-inverno/BINARY/thumbnail/Veja%20o%20hist%C3%B3rico%20da%20participa%C3%A7%C3%A3o%20brasileiras%20nos%20jogos%20ol%C3%ADmpicos%20de%20inverno"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-o-hist%C3%B3rico-da-participa%C3%A7%C3%A3o-brasileiras-nos-jogos-ol%C3%ADmpicos-de-inverno/ALTERNATES/LANDSCAPE_80/Veja%20o%20hist%C3%B3rico%20da%20participa%C3%A7%C3%A3o%20brasileiras%20nos%20jogos%20ol%C3%ADmpicos%20de%20inverno"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja o histórico da participação brasileiras nos jogos olímpicos de inverno"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/23/Os-atletas-brasileiros-nas-Olimp%C3%ADadas-de-Inverno-e-a-origem-dos-medalhistas">
+Os atletas brasileiros nas Olimpíadas de Inverno e a origem dos medalhistas
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/21/Carros-motos-e-caminh%C3%B5es-a-distribui%C3%A7%C3%A3o-dos-ve%C3%ADculos-pelo-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-Denatran-sobre-onde-est%C3%A3o-registrados-os-ve%C3%ADculos-no-Brasil/BINARY/thumbnail/Veja%20dados%20do%20Denatran%20sobre%20onde%20est%C3%A3o%20registrados%20os%20ve%C3%ADculos%20no%20Brasil"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-do-Denatran-sobre-onde-est%C3%A3o-registrados-os-ve%C3%ADculos-no-Brasil/ALTERNATES/LANDSCAPE_80/Veja%20dados%20do%20Denatran%20sobre%20onde%20est%C3%A3o%20registrados%20os%20ve%C3%ADculos%20no%20Brasil"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados do Denatran sobre onde estão registrados os veículos no Brasil"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/21/Carros-motos-e-caminh%C3%B5es-a-distribui%C3%A7%C3%A3o-dos-ve%C3%ADculos-pelo-Brasil">
+Carros, motos e caminhões: a distribuição dos veículos pelo Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/19/O-n%C3%BAmero-de-alunos-nas-salas-de-aula-do-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-como-o-tamanho-das-salas-de-aula-varia-para-escolas-p%C3%BAblicas-e-privadas/BINARY/thumbnail/Veja%20em%20gr%C3%A1ficos%20como%20o%20tamanho%20das%20salas%20de%20aula%20varia%20para%20escolas%20p%C3%BAblicas%20e%20privadas"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-como-o-tamanho-das-salas-de-aula-varia-para-escolas-p%C3%BAblicas-e-privadas/ALTERNATES/LANDSCAPE_80/Veja%20em%20gr%C3%A1ficos%20como%20o%20tamanho%20das%20salas%20de%20aula%20varia%20para%20escolas%20p%C3%BAblicas%20e%20privadas"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja em gráficos como o tamanho das salas de aula varia para escolas públicas e privadas"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/19/O-n%C3%BAmero-de-alunos-nas-salas-de-aula-do-Brasil">
+O número de alunos nas salas de aula do Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/16/Em-que-pa%C3%ADses-vivem-os-brasileiros-no-exterior-segundo-o-Itamaraty">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-em-que-pa%C3%ADses-vivem-os-brasileiros-no-exterior/BINARY/thumbnail/Veja%20em%20que%20pa%C3%ADses%20vivem%20os%20brasileiros%20no%20exterior"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-em-que-pa%C3%ADses-vivem-os-brasileiros-no-exterior/ALTERNATES/LANDSCAPE_80/Veja%20em%20que%20pa%C3%ADses%20vivem%20os%20brasileiros%20no%20exterior"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja em que países vivem os brasileiros no exterior"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/16/Em-que-pa%C3%ADses-vivem-os-brasileiros-no-exterior-segundo-o-Itamaraty">
+Em que países vivem os brasileiros no exterior, segundo o Itamaraty
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Gabriel Zanlorenssi e Rodolfo Almeida
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/14/O-desempenho-das-escolas-de-samba-de-Rio-e-SP-no-Carnaval-de-2018">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-desempenho-das-escolas-de-samba-em-cada-quesito/BINARY/thumbnail/Veja%20dados%20sobre%20o%20desempenho%20das%20escolas%20de%20samba%20em%20cada%20quesito"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-sobre-o-desempenho-das-escolas-de-samba-em-cada-quesito/ALTERNATES/LANDSCAPE_80/Veja%20dados%20sobre%20o%20desempenho%20das%20escolas%20de%20samba%20em%20cada%20quesito"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados sobre o desempenho das escolas de samba em cada quesito"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/14/O-desempenho-das-escolas-de-samba-de-Rio-e-SP-no-Carnaval-de-2018">
+O desempenho das escolas de samba de Rio e SP no Carnaval de 2018
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/09/A-distribui%C3%A7%C3%A3o-do-sal%C3%A1rio-e-do-tempo-no-trabalho-para-diferentes-profiss%C3%B5es">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-Rais-de-sal%C3%A1rio-e-tempo-no-trabalho-para-diferentes-profiss%C3%B5es/BINARY/thumbnail/Veja%20dados%20da%20Rais%20de%20sal%C3%A1rio%20e%20tempo%20no%20trabalho%20para%20diferentes%20profiss%C3%B5es"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-Rais-de-sal%C3%A1rio-e-tempo-no-trabalho-para-diferentes-profiss%C3%B5es/ALTERNATES/LANDSCAPE_80/Veja%20dados%20da%20Rais%20de%20sal%C3%A1rio%20e%20tempo%20no%20trabalho%20para%20diferentes%20profiss%C3%B5es"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados da Rais de salário e tempo no trabalho para diferentes profissões"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/09/A-distribui%C3%A7%C3%A3o-do-sal%C3%A1rio-e-do-tempo-no-trabalho-para-diferentes-profiss%C3%B5es">
+A distribuição do salário e do tempo no trabalho para diferentes profissões
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/07/Banana-caf%C3%A9-mandioca-onde-s%C3%A3o-cultivados-vegetais-e-gr%C3%A3os-no-Brasil">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-em-mapas-onde-s%C3%A3o-plantados-40-tipos-de-cultivos-diferentes/BINARY/thumbnail/Veja%20em%20mapas%20onde%20s%C3%A3o%20plantados%2040%20tipos%20de%20cultivos%20diferentes"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-em-mapas-onde-s%C3%A3o-plantados-40-tipos-de-cultivos-diferentes/ALTERNATES/LANDSCAPE_80/Veja%20em%20mapas%20onde%20s%C3%A3o%20plantados%2040%20tipos%20de%20cultivos%20diferentes"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja em mapas onde são plantados 40 tipos de cultivos diferentes"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/07/Banana-caf%C3%A9-mandioca-onde-s%C3%A3o-cultivados-vegetais-e-gr%C3%A3os-no-Brasil">
+Banana, café, mandioca: onde são cultivados vegetais e grãos no Brasil
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser-pagination-561" data-loadURL="https://www.nexojornal.com.br/grafico/widget/?widgetContentId=561&widgetName=viewPicker&offset=99" data-skip-profiles=""></div>
+<div class="teaser-pagination-561-wrapper load-more-wrapper col-md-offset-5">
+<div class="column-heading load-more" onclick="loadMoreTeasers('teaser-pagination-561'); return false;">Carregar Mais</div>
+</div>
+<div class="grid-cell row">
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/05/Em-que-%C3%A1reas-do-mundo-h%C3%A1-l%C3%ADnguas-amea%C3%A7adas-de-extin%C3%A7%C3%A3o">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-Unesco-sobre-a-amea%C3%A7a-a-idiomas-ao-redor-do-mundo/BINARY/thumbnail/Veja%20dados%20da%20Unesco%20sobre%20a%20amea%C3%A7a%20a%20idiomas%20ao%20redor%20do%20mundo"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-dados-da-Unesco-sobre-a-amea%C3%A7a-a-idiomas-ao-redor-do-mundo/ALTERNATES/LANDSCAPE_80/Veja%20dados%20da%20Unesco%20sobre%20a%20amea%C3%A7a%20a%20idiomas%20ao%20redor%20do%20mundo"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja dados da Unesco sobre a ameaça a idiomas ao redor do mundo"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/05/Em-que-%C3%A1reas-do-mundo-h%C3%A1-l%C3%ADnguas-amea%C3%A7adas-de-extin%C3%A7%C3%A3o">
+Em que áreas do mundo há línguas ameaçadas de extinção
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<div class="grafico
+">
+<div class="teaser ">
+<div>
+<div
+class="img-container picture"
+style="width: 100%">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/02/A-perman%C3%AAncia-de-estudantes-no-ensino-superior-ao-longo-do-curso">
+<img src="https://www.nexojornal.com.br/static/img/placeholder/LANDSCAPE.gif"
+data-variant="LANDSCAPE"
+data-src-template="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-qual-o-destino-de-alunos-que-ingressaram-no-ensino-superior-em-2010/BINARY/thumbnail/Veja%20em%20gr%C3%A1ficos%20qual%20o%20destino%20de%20alunos%20que%20ingressaram%20no%20ensino%20superior%20em%202010"
+data-proxy-image="https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-qual-o-destino-de-alunos-que-ingressaram-no-ensino-superior-em-2010/ALTERNATES/LANDSCAPE_80/Veja%20em%20gr%C3%A1ficos%20qual%20o%20destino%20de%20alunos%20que%20ingressaram%20no%20ensino%20superior%20em%202010"
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Veja em gráficos qual o destino de alunos que ingressaram no ensino superior em 2010"
+class="media-object adaptive placeholder"
+/>
+<div class="play"></div>
+</a>
+</div>
+<div class="kicker ">
+<a href="https://www.nexojornal.com.br/grafico/"> Gráfico </a>
+</div>
+</div>
+<div>
+<h3 class="title ">
+<a href="https://www.nexojornal.com.br/grafico/2018/02/02/A-perman%C3%AAncia-de-estudantes-no-ensino-superior-ao-longo-do-curso">
+A permanência de estudantes no ensino superior ao longo do curso
+</a>
+</h3>
+</div>
+<div class="meta">
+<span class="author ">
+Rodolfo Almeida e Gabriel Zanlorenssi
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
