@@ -1,8 +1,0 @@
-{"request": {"method": "DELETE", "url": "/transactions", "headers": {}, "body": {}}, "response": {"status_code": 204, "headers": {}, "body": {}}}
-{"request": {"method": "GET", "url": "/statistics", "headers": {}, "body": {}}, "response": {"status_code": 200, "headers": {"Content-Type": "application/json"}, "body": {"sum": "0.00", "avg": "0.00", "max":"0.00", "min":"0.00", "count":0}}}
-{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": {"_timestampOffset":-60001, "amount":"127.96"}}, "response": {"status_code": 204, "headers": {}, "body": {}}}
-{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": {"_timestampOffset":-80000, "amount":"262.01"}}, "response": {"status_code": 204, "headers": {}, "body": {}}}
-{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": {"_timestampOffset":-70800, "amount":"456.01"}}, "response": {"status_code": 204, "headers": {}, "body": {}}}
-{"request": {"method": "GET", "url": "/statistics", "headers": {}, "body": {}}, "response": {"status_code": 200, "headers": {"Content-Type": "application/json"}, "body": {"sum": "0.00", "avg": "0.00", "max":"0.00", "min":"0.00", "count":0}}}
-{"request": {"method": "POST", "url": "/transactions", "headers": {"Content-Type": "application/json"}, "body": {"_timestampOffset":-40000, "amount":"401.60"}}, "response": {"status_code": 201, "headers": {}, "body": {}}}
-{"request": {"method": "GET", "url": "/statistics", "headers": {}, "body": {}}, "response": {"status_code": 200, "headers": {"Content-Type": "application/json"}, "body": {"sum": "401.60", "avg": "401.60", "max":"401.60", "min":"401.60", "count":1}}}
