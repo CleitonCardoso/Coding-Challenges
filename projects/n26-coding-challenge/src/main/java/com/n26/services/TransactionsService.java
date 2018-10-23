@@ -2,8 +2,8 @@ package com.n26.services;
 
 import java.time.Duration;
 import java.time.Instant;
-import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
@@ -15,15 +15,15 @@ import com.n26.exceptions.TransactionTimestampTooOldException;
 @Service
 public class TransactionsService {
 
-	private List<Transaction> transactions = new ArrayList<>();
+	private List<Transaction> transactions = new CopyOnWriteArrayList<>();
 
-	public List<Transaction> getTransactionsFromLast60Seconds() {
+	public synchronized List<Transaction> getTransactionsFromLast60Seconds() {
 		return transactions.stream()
 				.filter( t -> !isOlderThan60seconds( t ) )
 				.collect( Collectors.toList() );
 	}
 
-	public void save(Transaction transaction)
+	public synchronized void save(Transaction transaction)
 			throws TransactionTimestampTooOldException, TransactionTimestampInTheFutureException {
 		validateTransaction( transaction );
 		clearTransactionsOlderThan60Seconds();
@@ -54,7 +54,7 @@ public class TransactionsService {
 				.compareTo( Duration.ofSeconds( 60 ) ) > 0;
 	}
 
-	public void deleteAll() {
+	public synchronized void deleteAll() {
 		transactions.removeAll( transactions );
 	}
 
