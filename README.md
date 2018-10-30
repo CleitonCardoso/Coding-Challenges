@@ -1,4 +1,4 @@
-# Studies
+# Coding Challenges
 
 Repositório criado para guardar todo material que eu julgo de estudo. Aqui há alguns projetos que surgiram de testes feitos para alguns desafios de programação. 
 
