@@ -1,9 +1,12 @@
 package com.peixeurbano.SimpleDealApp.controllers;
 
+import javax.websocket.server.PathParam;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -18,17 +21,17 @@ public class DealController {
 	private DealService dealService;
 
 	@PostMapping
-	public Deal save(Deal deal) {
+	public Deal save(@RequestBody Deal deal) {
 		return dealService.save( deal );
 	}
 
-	@GetMapping
-	public Deal find(Long id) {
+	@GetMapping("{id}")
+	public Deal find(@PathParam("id") Long id) {
 		return dealService.findById( id );
 	}
 
-	@DeleteMapping
-	public void delete(Long id) {
+	@DeleteMapping("{id}")
+	public void delete(@PathParam("id") Long id) {
 		dealService.delete( id );
 	}
 

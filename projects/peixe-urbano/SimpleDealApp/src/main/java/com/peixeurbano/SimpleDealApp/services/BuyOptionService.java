@@ -4,19 +4,20 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.peixeurbano.SimpleDealApp.models.BuyOption;
+import com.peixeurbano.SimpleDealApp.repositories.BuyOptionRepository;
 
 @Service
 public class BuyOptionService {
 
 	@Autowired
-	private BuyOptionService buyOptionService;
+	private BuyOptionRepository buyOptionRepository;
 
 	public BuyOption save(BuyOption buyOption) {
-		return buyOptionService.save( buyOption );
+		return buyOptionRepository.save( buyOption );
 	}
 
 	public BuyOption findById(Long id) {
-		return buyOptionService.findById( id );
+		return buyOptionRepository.findById( id ).orElse( null );
 	}
 
 }
