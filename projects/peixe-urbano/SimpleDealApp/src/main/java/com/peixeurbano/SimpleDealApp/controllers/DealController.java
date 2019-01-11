@@ -1,8 +1,11 @@
 package com.peixeurbano.SimpleDealApp.controllers;
 
+import java.util.List;
+
 import javax.websocket.server.PathParam;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -13,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.peixeurbano.SimpleDealApp.models.Deal;
 import com.peixeurbano.SimpleDealApp.services.DealService;
 
+@CrossOrigin
 @RestController
 @RequestMapping("deal")
 public class DealController {
@@ -23,6 +27,11 @@ public class DealController {
 	@PostMapping
 	public Deal save(@RequestBody Deal deal) {
 		return dealService.save( deal );
+	}
+	
+	@GetMapping
+	public List<Deal> findAll(){
+		return dealService.findAll();
 	}
 
 	@GetMapping("{id}")

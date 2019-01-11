@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SimpleDealAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpleDealAppApplication.class, args);
+		SpringApplication.run( SimpleDealAppApplication.class, args );
 	}
 
 }
-

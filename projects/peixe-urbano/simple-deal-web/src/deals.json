@@ -1,0 +1,116 @@
+[
+    {
+      "title": "Frigideira",
+      "text": "Compre já",
+      "createDate": "",
+      "publishDate": "",
+      "endDate": "",
+      "url": "",
+      "totalSold": "42",
+      "type": "",
+      "buyOptions": [
+        { "title": "2 vezes" }, { "title": "3 vezes" }
+      ]
+    },
+    {
+      "title": "Panela",
+      "text": "lorem ipsum dollor asimet lorem ipsum dollor asimet lorem ipsum dollor asimetlorem ipsum dollor asimet lorem ipsum dollor asimet",
+      "createDate": "",
+      "publishDate": "",
+      "endDate": "",
+      "url": "",
+      "totalSold": "25",
+      "type": ""
+
+    },
+    {
+      "title": "Fogão",
+      "text": "",
+      "createDate": "",
+      "publishDate": "",
+      "endDate": "",
+      "url": "",
+      "totalSold": "32",
+      "type": ""
+    },
+    {
+      "title": "Geladeira",
+      "text": "",
+      "createDate": "",
+      "publishDate": "",
+      "endDate": "",
+      "url": "",
+      "totalSold": "12",
+      "type": ""
+    },
+    {
+        "title": "Geladeira",
+        "text": "",
+        "createDate": "",
+        "publishDate": "",
+        "endDate": "",
+        "url": "",
+        "totalSold": "12",
+        "type": ""
+      },
+      {
+        "title": "Geladeira",
+        "text": "",
+        "createDate": "",
+        "publishDate": "",
+        "endDate": "",
+        "url": "",
+        "totalSold": "12",
+        "type": ""
+      },
+      {
+        "title": "Geladeira",
+        "text": "",
+        "createDate": "",
+        "publishDate": "",
+        "endDate": "",
+        "url": "",
+        "totalSold": "12",
+        "type": ""
+      },
+      {
+        "title": "Geladeira",
+        "text": "",
+        "createDate": "",
+        "publishDate": "",
+        "endDate": "",
+        "url": "",
+        "totalSold": "12",
+        "type": ""
+      },
+      {
+        "title": "Geladeira",
+        "text": "",
+        "createDate": "",
+        "publishDate": "",
+        "endDate": "",
+        "url": "",
+        "totalSold": "12",
+        "type": ""
+      },
+      {
+        "title": "Geladeira",
+        "text": "",
+        "createDate": "",
+        "publishDate": "",
+        "endDate": "",
+        "url": "",
+        "totalSold": "12",
+        "type": ""
+      },
+      {
+        "title": "Geladeira",
+        "text": "",
+        "createDate": "",
+        "publishDate": "",
+        "endDate": "",
+        "url": "",
+        "totalSold": "12",
+        "type": ""
+      }
+  ]

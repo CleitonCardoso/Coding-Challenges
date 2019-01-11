@@ -1,5 +1,7 @@
 package com.peixeurbano.SimpleDealApp.services;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -22,6 +24,10 @@ public class DealService {
 
 	public void delete(Long id) {
 		dealRepository.deleteById( id );
+	}
+
+	public List<Deal> findAll() {
+		return dealRepository.findAll();
 	}
 
 }
