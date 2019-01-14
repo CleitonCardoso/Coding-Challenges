@@ -29,7 +29,7 @@ class Admin extends Component {
         this.state = { selectedDeal: {} };
     }
 
-    cancel = () => {
+    closeModal = () => {
         this.setState({
             openModal: false,
             selectedDeal: {
@@ -38,7 +38,14 @@ class Admin extends Component {
     }
 
     save = () => {
-        console.log(this.state.selectedDeal)
+        if (this.state.hasOwnProperty('selectedDeal')) {
+            dealService.save(this.state.selectedDeal, (response) => {
+                this.closeModal()
+                this.loadContent()
+            }, (error) => {
+                console.log(error)
+            })
+        }
     }
 
     openDeal = (deal, event) => {
@@ -60,7 +67,7 @@ class Admin extends Component {
     loadContent = () => {
         dealService.listAll(response => {
             this.setState({ deals: response.data })
-        })
+        }, () => { }, () => { })
     }
 
     componentWillMount = () => {
@@ -68,9 +75,7 @@ class Admin extends Component {
     }
 
     updateSelectedDeal = (event, { name, value }) => {
-        console.log(event)
-        console.log(name)
-        console.log(value)
+        console.log(name, value);
         if (this.state.hasOwnProperty('selectedDeal')) {
             var selectedDeal = this.state.selectedDeal
             selectedDeal[name] = value
@@ -156,17 +161,19 @@ class Admin extends Component {
                                     label='Dia limite da oferta'
                                 />
                                 <Form.Input
+                                    name='url'
                                     label='URL da oferta'
                                     placeholder='URL'
                                     onChange={this.updateSelectedDeal} />
                                 <Form.Input
+                                    name='type'
                                     label='Tipo'
                                     placeholder='Tipo'
                                     onChange={this.updateSelectedDeal} />
                             </Form>
                         </Modal.Content>
                         <Modal.Actions>
-                            <Button onClick={this.cancel} negative>Cancelar</Button>
+                            <Button onClick={this.closeModal} negative>Cancelar</Button>
                             <Button onClick={this.save} positive>Salvar</Button>
                         </Modal.Actions>
                     </Modal>

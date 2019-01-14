@@ -25,7 +25,9 @@ Via linha de comando:
 
 No diretório `/simple-deal-app` executar `mvn spring-boot:run`;
 
-No diretório `/simple-deal-web` executar `npm install` e em seguida `npm start`
+No diretório `/simple-deal-web` executar `npm install` e em seguida `npm start`;
+
+Acessar http://localhost:3000;
  
 
 ### Subindo a aplicação em modo produção

@@ -31,7 +31,7 @@ class App extends Component {
   loadContent = () => {
     dealService.listAll(response => {
       this.setState({ deals: response.data })
-    })
+    }, () => { }, () => { })
   }
 
   clickToBuy = (event, data) => {
