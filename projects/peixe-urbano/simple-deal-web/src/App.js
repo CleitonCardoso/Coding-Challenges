@@ -1,17 +1,14 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
 import {
   Button,
   Container,
   Grid,
   Header,
-  Icon,
   Image,
   Item,
-  Label,
   Menu,
   Segment,
-  Step,
-  Table,
   Dropdown
 } from 'semantic-ui-react'
 import 'semantic-ui-css/semantic.min.css'
@@ -22,10 +19,14 @@ const dealService = new DealService()
 
 class App extends Component {
   state = {
-    deals: require('./deals.json')
+    deals: undefined
   }
 
   componentWillMount = () => {
+    this.loadContent()
+  }
+
+  loadContent = () => {
     dealService.listAll(response => {
       this.setState({ deals: response.data })
     })
@@ -39,8 +40,10 @@ class App extends Component {
     return (
       <div className="container">
         <header>
-          <Image src={require('./logo.svg')} centered />
-          <Button />
+          <div className="header-content">
+            <Image src={require('./logo.svg')} floated='left' />
+            <Button primary floated='right' as={Link} to='/admin'>Admin</Button>
+          </div>
         </header>
         <main>
           <div>
@@ -79,10 +82,9 @@ class App extends Component {
                 )}
               </Grid>
             </Container>
-
           </div>
         </main>
-        <footer> <Header size='small' color='grey'>Desenvolvido por <a href="http://cleitoncardoso.github.io/" target="_blank" rel="noopener noreferrer">Cleiton Cardoso </a></Header></footer>
+        <footer> <Header size='small' color='black'>Desenvolvido por <a href="http://cleitoncardoso.github.io/" target="_blank" rel="noopener noreferrer">Cleiton Cardoso </a></Header></footer>
       </div>
     );
   }

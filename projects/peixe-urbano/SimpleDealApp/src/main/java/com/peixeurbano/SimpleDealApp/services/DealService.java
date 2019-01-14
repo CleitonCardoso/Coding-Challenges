@@ -10,7 +10,7 @@ import com.peixeurbano.SimpleDealApp.repositories.DealRepository;
 
 @Service
 public class DealService {
-	
+
 	@Autowired
 	private DealRepository dealRepository;
 

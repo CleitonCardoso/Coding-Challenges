@@ -10,9 +10,13 @@
 }
 header {
   grid-area: header;
-  text-align: center;
-  padding: 0.5%;
   border-bottom: solid 1px #ddd;
+}
+
+.header-content{
+  padding: 1%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 main {
   grid-area: main;
