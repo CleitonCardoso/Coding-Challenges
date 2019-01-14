@@ -1,5 +1,7 @@
 import axios from 'axios'
-import { API_ROOT } from './api-config'
+import {
+    API_ROOT
+} from './api-config'
 
 const serverUrl = API_ROOT
 
@@ -14,6 +16,20 @@ export default class DealService {
             }
         }).then(response => {
             callback(response)
+        }).catch(error => {
+            console.log(error)
+        })
+    }
+
+    confirmSale = (buyOptionId, callback) => {
+        axios({
+            method: 'post',
+            url: serverUrl + '/deal/confirm-sale/' + buyOptionId,
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        }).then(response => {
+            callback()
         }).catch(error => {
             console.log(error)
         })

@@ -16,3 +16,6 @@ INSERT INTO BUY_OPTION (id, end_date, normal_price, percentage_discount, quantit
 
 INSERT INTO BUY_OPTION (id, end_date, normal_price, percentage_discount, quantity_cupom, sale_price, start_date, title, deal_id) values
 (3, '2018-01-01', 22.85, 10, 25, 20, '2018-01-01', '3 vz sem juros', 2);
+
+INSERT INTO BUY_OPTION (id, end_date, normal_price, percentage_discount, quantity_cupom, sale_price, start_date, title, deal_id) values
+(4, '2018-01-01', 22.85, 10, 0, 20, '2018-01-01', '4 vz sem juros', 2);

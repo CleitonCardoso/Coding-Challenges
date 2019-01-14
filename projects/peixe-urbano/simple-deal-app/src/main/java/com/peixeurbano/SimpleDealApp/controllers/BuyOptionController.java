@@ -3,10 +3,10 @@ package com.peixeurbano.SimpleDealApp.controllers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.peixeurbano.SimpleDealApp.models.BuyOption;
@@ -26,7 +26,7 @@ public class BuyOptionController {
 	}
 
 	@GetMapping("{id}")
-	public BuyOption find(@RequestParam("id") Long id) {
+	public BuyOption find(@PathVariable("id") Long id) {
 		return buyOptionService.findById( id );
 	}
 

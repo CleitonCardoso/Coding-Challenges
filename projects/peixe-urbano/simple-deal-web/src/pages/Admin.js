@@ -2,31 +2,38 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import {
     Button,
-    Container,
-    Grid,
     Header,
     Image,
-    Item,
     Menu,
-    Segment,
-    Dropdown,
     Table,
-    Modal
+    Modal,
+    Form,
+    Message,
+    Popup
 } from 'semantic-ui-react'
+
+import {
+    DateInput,
+} from 'semantic-ui-calendar-react';
+
 import 'semantic-ui-css/semantic.min.css'
 import '../App.css'
-import DealService from '../services/dealService'
+import DealService from '../services/DealService'
 
 const dealService = new DealService()
 
 class Admin extends Component {
-    state = {
+
+    constructor(props) {
+        super(props);
+        this.state = { selectedDeal: {} };
     }
 
     cancel = () => {
         this.setState({
             openModal: false,
-            selectedDeal: undefined,
+            selectedDeal: {
+            }
         })
     }
 
@@ -35,9 +42,18 @@ class Admin extends Component {
     }
 
     openDeal = (deal, event) => {
+        console.log(deal)
         this.setState({
             openModal: true,
             selectedDeal: deal
+        })
+    }
+
+    newDeal = (event) => {
+        this.setState({
+            openModal: true,
+            selectedDeal: {
+            }
         })
     }
 
@@ -51,12 +67,25 @@ class Admin extends Component {
         this.loadContent()
     }
 
+    updateSelectedDeal = (event, { name, value }) => {
+        console.log(event)
+        console.log(name)
+        console.log(value)
+        if (this.state.hasOwnProperty('selectedDeal')) {
+            var selectedDeal = this.state.selectedDeal
+            selectedDeal[name] = value
+            this.setState({
+                selectedDeal: selectedDeal
+            })
+        }
+    }
+
 
     render() {
         return (
-            <div className="container">
+            <div className='container'>
                 <header>
-                    <div className="header-content">
+                    <div className='header-content'>
                         <Image src={require('../logo.svg')} floated='left' />
                         <Button primary floated='right' as={Link} to='/'>Ofertas</Button>
                     </div>
@@ -64,6 +93,11 @@ class Admin extends Component {
                 <main>
                     <Header size='medium' color='black' textAlign='center'> Ofertas cadastradas </Header>
                     <br />
+                    <Menu borderless fluid>
+                        <Menu.Item>
+                            <Button primary onClick={this.newDeal.bind(this)}>Adicionar</Button>
+                        </Menu.Item>
+                    </Menu>
                     <div>
                         <Table striped selectable>
                             <Table.Header>
@@ -77,33 +111,67 @@ class Admin extends Component {
 
                             <Table.Body>
                                 {this.state.deals && this.state.deals.map((deal, index) =>
-                                    <Table.Row key={index} onClick={this.openDeal.bind(this, deal)}>
-                                        <Table.Cell>{deal.title}</Table.Cell>
-                                        <Table.Cell>{deal.createDate}</Table.Cell>
-                                        <Table.Cell>{deal.publishDate}</Table.Cell>
-                                        <Table.Cell>{deal.totalSold}</Table.Cell>
-                                    </Table.Row>
+                                    <Popup trigger={
+                                        <Table.Row onClick={this.openDeal.bind(this, deal)}>
+                                            <Table.Cell>{deal.title}</Table.Cell>
+                                            <Table.Cell>{deal.createDate}</Table.Cell>
+                                            <Table.Cell>{deal.publishDate}</Table.Cell>
+                                            <Table.Cell>{deal.totalSold}</Table.Cell>
+                                        </Table.Row>
+                                    } content='Clique para editar' key={index} />
                                 )}
                             </Table.Body>
                         </Table>
                     </div>
-                    <Modal open={this.state.openModal} centered>
-                        <Modal.Header>{this.state.selectedDeal ? this.state.selectedDeal.title : undefined}</Modal.Header>
-                        <Modal.Content>
-                            <Image wrapped size='medium' src='https://react.semantic-ui.com/images/avatar/large/rachel.png' centered />
-                            <Modal.Description>
-                                <Header>Default Profile Image</Header>
-                                <p>We've found the following gravatar image associated with your e-mail address.</p>
-                                <p>Is it okay to use this photo?</p>
-                            </Modal.Description>
-                            <Modal.Actions>
-                                <Button onClick={this.cancel} negative>Cancelar</Button>
-                                <Button onClick={this.save} positive icon='checkmark' labelPosition='right' content='Yes' >Salvar</Button>
-                            </Modal.Actions>
+                    <Modal open={this.state.openModal} style={{ width: '30%' }}>
+                        <Modal.Header>{this.state.selectedDeal ? this.state.selectedDeal.title : 'Nova oferta'}</Modal.Header>
+                        <Modal.Content >
+                            <Message positive color='red' error hidden={!this.state.errorMessage}>
+                                <Message.Header>Algo de errado aconteceu :(</Message.Header>
+                                <p>
+                                    {this.state.errorMessage}
+                                </p>
+                            </Message>
+                            <Image wrapped size='small' src={require('../wireframe.png')} centered />
+                            <Form unstackable>
+                                <Form.Input
+                                    name='title'
+                                    label='Título da oferta'
+                                    placeholder='Título da oferta'
+                                    value={this.state.selectedDeal.title}
+                                    onChange={this.updateSelectedDeal} />
+                                <Form.Input
+                                    name='text'
+                                    label='Texto de destaque'
+                                    placeholder='Texto de destaque'
+                                    value={this.state.selectedDeal.text}
+                                    onChange={this.updateSelectedDeal} />
+                                <DateInput
+                                    name='date'
+                                    placeholder='Validade'
+                                    value={this.state.selectedDeal.endDate ? this.state.selectedDeal.endDate : '00-00-0000'}
+                                    iconPosition='left'
+                                    onChange={this.updateSelectedDeal}
+                                    dateFormat='DD-MM-YYYY'
+                                    label='Dia limite da oferta'
+                                />
+                                <Form.Input
+                                    label='URL da oferta'
+                                    placeholder='URL'
+                                    onChange={this.updateSelectedDeal} />
+                                <Form.Input
+                                    label='Tipo'
+                                    placeholder='Tipo'
+                                    onChange={this.updateSelectedDeal} />
+                            </Form>
                         </Modal.Content>
+                        <Modal.Actions>
+                            <Button onClick={this.cancel} negative>Cancelar</Button>
+                            <Button onClick={this.save} positive>Salvar</Button>
+                        </Modal.Actions>
                     </Modal>
                 </main>
-                <footer> <Header size='small' color='black'>Desenvolvido por <a href="http://cleitoncardoso.github.io/" target="_blank" rel="noopener noreferrer">Cleiton Cardoso </a></Header></footer>
+                <footer> <Header size='small' color='black'>Desenvolvido por <a href='http://cleitoncardoso.github.io/' target='_blank' rel='noopener noreferrer'>Cleiton Cardoso </a></Header></footer>
             </div>
         );
     }
