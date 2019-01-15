@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.peixeurbano.SimpleDealApp.exceptions.InvalidBuyOption;
+import com.peixeurbano.SimpleDealApp.exceptions.InvalidBuyOptionException;
 import com.peixeurbano.SimpleDealApp.models.Deal;
 import com.peixeurbano.SimpleDealApp.services.DealService;
 
@@ -45,7 +45,7 @@ public class DealController {
 	}
 
 	@PostMapping("confirm-sale/{buyOptionId}")
-	public void confirmSale(@PathVariable("buyOptionId") Long buyOptionId) throws InvalidBuyOption {
+	public void confirmSale(@PathVariable("buyOptionId") Long buyOptionId) throws InvalidBuyOptionException {
 		dealService.confirmSale( buyOptionId );
 	}
 }
