@@ -7,10 +7,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.peixeurbano.SimpleDealApp.exceptions.InvalidBuyOption;
+import com.peixeurbano.SimpleDealApp.exceptions.InvalidBuyOptionException;
 import com.peixeurbano.SimpleDealApp.models.BuyOption;
 import com.peixeurbano.SimpleDealApp.models.Deal;
-import com.peixeurbano.SimpleDealApp.repositories.BuyOptionRepository;
 import com.peixeurbano.SimpleDealApp.repositories.DealRepository;
 
 @Service
@@ -20,7 +19,7 @@ public class DealService {
 	private DealRepository dealRepository;
 
 	@Autowired
-	private BuyOptionRepository buyOptionRepository;
+	private BuyOptionService buyOptionService;
 
 	public Deal save(Deal deal) {
 		return dealRepository.save( deal );
@@ -38,8 +37,8 @@ public class DealService {
 		return dealRepository.findAll();
 	}
 
-	public void confirmSale(Long buyOptionId) throws InvalidBuyOption {
-		BuyOption buyOption = buyOptionRepository.findById( buyOptionId ).orElse( null );
+	public void confirmSale(Long buyOptionId) throws InvalidBuyOptionException {
+		BuyOption buyOption = buyOptionService.findById( buyOptionId );
 		validateBuyOptionSelected( buyOption );
 		updateBuyOption( buyOption );
 		updateDeal( buyOption.getDeal() );
@@ -47,7 +46,7 @@ public class DealService {
 
 	private void updateBuyOption(BuyOption buyOption) {
 		buyOption.setQuantityCupom( buyOption.getQuantityCupom() - 1 );
-		buyOptionRepository.save( buyOption );
+		buyOptionService.save( buyOption );
 	}
 
 	private void updateDeal(Deal deal) {
@@ -55,18 +54,18 @@ public class DealService {
 		dealRepository.save( deal );
 	}
 
-	private void validateBuyOptionSelected(BuyOption buyOption) throws InvalidBuyOption {
+	private void validateBuyOptionSelected(BuyOption buyOption) throws InvalidBuyOptionException {
 		if (buyOption == null || buyOption.getDeal() == null)
-			throw new InvalidBuyOption( "A opção de compra selecionada é inválida." );
+			throw new InvalidBuyOptionException( "A opção de compra selecionada é inválida." );
 		if (isDealDateEnded( buyOption ))
-			throw new InvalidBuyOption( "A opção de compra selecionada não está mais disponível." );
+			throw new InvalidBuyOptionException( "A opção de compra selecionada não está mais disponível." );
 		if (buyOption.getQuantityCupom() < 1)
-			throw new InvalidBuyOption( "A opção de compra selecionada não possui mais cupons ativos." );
+			throw new InvalidBuyOptionException( "A opção de compra selecionada não possui mais cupons ativos." );
 	}
 
 	private boolean isDealDateEnded(BuyOption buyOption) {
 		return LocalDate.now().atStartOfDay()
-				.isBefore( buyOption.getDeal()
+				.isAfter( buyOption.getDeal()
 						.getEndDate().toInstant().atZone( ZoneId.systemDefault() )
 						.toLocalDateTime() );
 	}

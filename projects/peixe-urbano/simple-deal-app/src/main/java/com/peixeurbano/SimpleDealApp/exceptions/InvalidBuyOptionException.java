@@ -1,13 +1,13 @@
 package com.peixeurbano.SimpleDealApp.exceptions;
 
-public class InvalidBuyOption extends Exception {
+public class InvalidBuyOptionException extends Exception {
 
 	/**
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 
-	public InvalidBuyOption(String message) {
+	public InvalidBuyOptionException(String message) {
 		super( message );
 	}
 
