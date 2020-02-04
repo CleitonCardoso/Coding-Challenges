@@ -1,0 +1,1222 @@
+0101;Cavalos, asininos e muares, vivos.
+0102;Animais vivos da espécie bovina.
+0103;Animais vivos da espécie suína.
+0104;Animais vivos das espécies ovina e caprina.
+0105;Aves da espécie <I>Gallus domesticus</I>, patos, gansos, perus, peruas e galinhas-d'angola (pintadas), das espécies domésticas, vivos.
+0106;Outros animais vivos.
+0201;Carnes de animais da espécie bovina, frescas ou refrigeradas.
+0202;Carnes de animais da espécie bovina, congeladas.
+0203;Carnes de animais da espécie suína, frescas, refrigeradas ou congeladas.
+0204;Carnes de animais das espécies ovina ou caprina, frescas, refrigeradas ou congeladas.
+02050000;Carnes de animais das espécies cavalar, asinina e muar, frescas, refrigeradas ou congeladas.
+0206;Miudezas comestíveis de animais das espécies bovina, suína, ovina, caprina, cavalar, asinina e muar, frescas, refrigeradas ou congeladas.
+0207;Carnes e miudezas, comestíveis, frescas, refrigeradas ou congeladas, das aves da posição 01.05.
+0208;Outras carnes e miudezas comestíveis, frescas, refrigeradas ou congeladas.
+0209;Toucinho sem partes magras, gorduras de porco e de aves, não fundidas nem extraídas de outro modo, frescos, refrigerados, congelados, salgados ou em salmoura, secos ou defumados (fumados).
+0210;Carnes e miudezas, comestíveis, salgadas ou em salmoura, secas ou defumadas (fumadas); farinhas e pós, comestíveis, de carnes ou de miudezas.
+0301;Peixes vivos.
+0302;Peixes frescos ou refrigerados, exceto os filés (filetes*) de peixes e outra carne de peixes da posição 03.04.
+0303;Peixes congelados, exceto os filés (filetes*) de peixes e outra carne de peixes da posição 03.04.
+0304;Filés (Filetes*) de peixes e outra carne de peixes (mesmo picada), frescos, refrigerados ou congelados.
+0305;Peixes secos, salgados ou em salmoura; peixes defumados (fumados), mesmo cozidos antes ou durante a defumação; farinhas, pós e <I>pellets</I>, de peixe, próprios para alimentação humana.
+0306;Crustáceos, mesmo com casca, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; crustáceos, mesmo com casca, defumados (fumados), mesmo cozidos antes ou durante a defumação; crustáceos com casca, cozidos em água ou vapor, mesmo refrigerados, congelados, secos, salgados ou em salmoura; farinhas, pós e <I>pellets</I> de crustáceos, próprios para alimentação humana.
+0307;Moluscos, mesmo com concha, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; moluscos, mesmo com concha, defumados (fumados), mesmo cozidos antes ou durante a defumação; farinhas, pós e <I>pellets</I> de moluscos, próprios para alimentação humana.
+0308;Invertebrados aquáticos, exceto crustáceos e moluscos, vivos, frescos, refrigerados, congelados, secos, salgados ou em salmoura; invertebrados aquáticos, exceto crustáceos e moluscos, defumados (fumados), mesmo cozidos antes ou durante a defumação; farinhas, pós e <I>pellets</I> de invertebrados aquáticos, exceto crustáceos e moluscos, próprios para alimentação humana.
+0401;Leite e creme de leite (nata*), não concentrados nem adicionados de açúcar ou de outros edulcorantes.
+0402;Leite e creme de leite (nata*), concentrados ou adicionados de açúcar ou de outros edulcorantes.
+0403;Leitelho, leite e creme de leite (nata*) coalhados, iogurte, quefir e outros leites e cremes de leite (natas*) fermentados ou acidificados, mesmo concentrados ou adicionados de açúcar ou de outros edulcorantes, ou aromatizados ou adicionados de fruta ou de cacau.
+0404;Soro de leite, mesmo concentrado ou adicionado de açúcar ou de outros edulcorantes; produtos constituídos por componentes naturais do leite, mesmo adicionados de açúcar ou de outros edulcorantes, não especificados nem compreendidos noutras posições.
+0405;Manteiga e outras matérias gordas provenientes do leite; pasta de espalhar (barrar) de produtos provenientes do leite.
+0406;Queijos e requeijão.
+0407;Ovos de aves, com casca, frescos, conservados ou cozidos.
+0408;Ovos de aves, sem casca, e gemas de ovos, frescos, secos, cozidos em água ou vapor, moldados, congelados ou conservados de outro modo, mesmo adicionados de açúcar ou de outros edulcorantes.
+04090000;Mel natural.
+04100000;Produtos comestíveis de origem animal, não especificados nem compreendidos noutras posições.
+05010000;Cabelo em bruto, mesmo lavado ou desengordurado; desperdícios de cabelo.
+0502;Cerdas de porco ou de javali; pelos de texugo e outros pelos para escovas, pincéis e artigos semelhantes; desperdícios destas cerdas e pelos.
+050400;Tripas, bexigas e estômagos, de animais, inteiros ou em pedaços, exceto de peixes, frescos, refrigerados, congelados, salgados ou em salmoura, secos ou defumados (fumados).
+0505;Peles e outras partes de aves, com as suas penas ou penugem, penas e partes de penas (mesmo aparadas), penugem, em bruto ou simplesmente limpas, desinfetadas ou preparadas tendo em vista a sua conservação; pós e desperdícios de penas ou de partes de penas.
+0506;Ossos e núcleos córneos, em bruto, desengordurados ou simplesmente preparados (mas não cortados sob forma determinada), acidulados ou degelatinados; pós e desperdícios destas matérias.
+0507;Marfim, carapaças de tartaruga, barbas, incluindo as franjas, de baleia ou de outros mamíferos marinhos, chifres, galhadas, cascos, unhas, garras e bicos, em bruto ou simplesmente preparados, mas não cortados em forma determinada; pós e desperdícios destas matérias.
+05080000;Coral e matérias semelhantes, em bruto ou simplesmente preparados, mas não trabalhados de outro modo; conchas e carapaças de moluscos, crustáceos ou de equinodermes e ossos de sépias (chocos*) (chocos, chopos*), em bruto ou simplesmente preparados, mas não cortados em forma determinada, seus pós e desperdícios.
+051000;Âmbar-cinzento, castóreo, algália e almíscar; cantáridas; bílis, mesmo seca; glândulas e outras substâncias de origem animal utilizadas na preparação de produtos farmacêuticos, frescas, refrigeradas, congeladas ou provisoriamente conservadas de outro modo.
+0511;Produtos de origem animal, não especificados nem compreendidos noutras posições; animais mortos dos Capítulos 1 ou 3, impróprios para alimentação humana.
+0601;Bulbos, tubérculos, raízes tuberosas, rebentos e rizomas, em repouso vegetativo, em vegetação ou em flor; mudas, plantas e raízes de chicória, exceto as raízes da posição 12.12.
+0602;Outras plantas vivas (incluindo as suas raízes), estacas e enxertos; micélios de cogumelos.
+0603;Flores e botões de flores, cortados, para buquês (ramos*) ou para ornamentação, frescos, secos, branqueados, tingidos, impregnados ou preparados de outro modo.
+0604;Folhagem, folhas, ramos e outras partes de plantas, sem flores nem botões de flores, e ervas, musgos e líquenes, para buquês (ramos de flores*) ou para ornamentação, frescos, secos, branqueados, tingidos, impregnados ou preparados de outro modo.
+0701;Batatas, frescas ou refrigeradas.
+07020000;Tomates, frescos ou refrigerados.
+0703;Cebolas, chalotas, alhos, alhos-porros e outros produtos hortícolas aliáceos, frescos ou refrigerados.
+0704;Couves, couve-flor, repolho ou couve frisada, couve-rábano e produtos comestíveis semelhantes do gênero <I>Brassica</I>, frescos ou refrigerados.
+0705;Alface (<I>Lactuca sativa</I>) e chicórias (<I>Cichorium</I> spp.), frescas ou refrigeradas.
+0706;Cenouras, nabos, beterrabas para salada, cercefi, aipo-rábano, rabanetes e raízes comestíveis semelhantes, frescos ou refrigerados.
+07070000;Pepinos e pepininhos (<I>cornichons</I>), frescos ou refrigerados.
+0708;Legumes de vagem, mesmo com vagem, frescos ou refrigerados.
+0709;Outros produtos hortícolas, frescos ou refrigerados.
+0710;Produtos hortícolas, não cozidos ou cozidos em água ou vapor, congelados.
+0711;Produtos hortícolas conservados transitoriamente (por exemplo, com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas impróprios para alimentação nesse estado.
+0712;Produtos hortícolas secos, mesmo cortados em pedaços ou fatias, ou ainda triturados ou em pó, mas sem qualquer outro preparo.
+0713;Legumes de vagem, secos, em grão, mesmo pelados ou partidos.
+0714;Raízes de mandioca, de araruta e de salepo, tupinambos, batatas-doces e raízes ou tubérculos semelhantes, com elevado teor de fécula ou de inulina, frescos, refrigerados, congelados ou secos, mesmo cortados em pedaços ou em <I>pellets</I>; medula de sagueiro.
+0801;Cocos, castanha-do-brasil (castanha-do-pará) e castanha de caju, frescos ou secos, mesmo com casca ou pelados.
+0802;Outra fruta de casca rija, fresca ou seca, mesmo com casca ou pelada.
+0803;Bananas, incluindo as bananas-da-terra (bananas-pão*) (plátanos*), frescas ou secas.
+0804;Tâmaras, figos, abacaxis (ananases), abacates, goiabas, mangas e mangostões, frescos ou secos.
+0805;Citros (Citrinos*), frescos ou secos.
+0806;Uvas frescas ou secas (passas).
+0807;Melões, melancias e mamões (papaias), frescos.
+0808;Maçãs, peras e marmelos, frescos.
+0809;Damascos, cerejas, pêssegos (incluindo as nectarinas), ameixas e abrunhos, frescos.
+0810;Outra fruta fresca.
+0811;Fruta, não cozida ou cozida em água ou vapor, congelada, mesmo adicionada de açúcar ou de outros edulcorantes.
+0812;Fruta conservada transitoriamente (por exemplo, com gás sulfuroso ou água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação), mas imprópria para alimentação nesse estado.
+0813;Fruta seca, exceto a das posições 08.01 a 08.06; misturas de fruta seca ou de fruta de casca rija, do presente Capítulo.
+08140000;Cascas de citros (citrinos*), de melões ou de melancias, frescas, secas, congeladas ou apresentadas em água salgada, sulfurada ou adicionada de outras substâncias destinadas a assegurar transitoriamente a sua conservação.
+0901;Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café que contenham café em qualquer proporção.
+0902;Chá, mesmo aromatizado.
+090300;Mate.
+0904;Pimenta do gênero <I>Piper</I>; pimentões e pimentas (pimentos*) do gênero <I>Capsicum</I> ou do gênero <I>Pimenta</I>, secos ou triturados ou em pó.
+0905;Baunilha.
+0906;Canela e flores de caneleira.
+0907;Cravo-da-índia (frutos, flores e pedúnculos).
+0908;Noz-moscada, macis, amomos e cardamomos.
+0909;Sementes de anis (erva-doce), badiana (anis-estrelado), funcho, coentro, cominho ou alcaravia; bagas de zimbro.
+0910;Gengibre, açafrão, cúrcuma, tomilho, louro, caril e outras especiarias.
+1001;Trigo e mistura de trigo com centeio (<I>méteil</I>).
+1002;Centeio.
+1003;Cevada.
+1004;Aveia.
+1005;Milho.
+1006;Arroz.
+1007;Sorgo de grão.
+1008;Trigo mourisco, painço e alpiste; outros cereais.
+110100;Farinhas de trigo ou de mistura de trigo com centeio (<I>méteil</I>).
+1102;Farinhas de cereais, exceto de trigo ou de mistura de trigo com centeio (<I>méteil</I>).
+1103;Grumos, sêmolas e <I>pellets</I>, de cereais.
+1104;Grãos de cereais trabalhados de outro modo (por exemplo, descascados, esmagados, em flocos, em pérolas, cortados ou partidos), com exclusão do arroz da posição 10.06; germes de cereais, inteiros, esmagados, em flocos ou moídos.
+1105;Farinha, sêmola, pó, flocos, grânulos e <I>pellets</I>, de batata.
+1106;Farinhas, sêmolas e pós, dos legumes de vagem, secos, da posição 07.13, de sagu ou das raízes ou tubérculos da posição 07.14 e dos produtos do Capítulo 8.
+1107;Malte, mesmo torrado.
+1108;Amidos e féculas; inulina.
+11090000;Glúten de trigo, mesmo seco.
+1201;Soja, mesmo triturada.
+1202;Amendoins não torrados nem de outro modo cozidos, mesmo descascados ou triturados.
+12030000;Copra.
+120400;Linhaça (sementes de linho), mesmo triturada.
+1205;Sementes de nabo silvestre ou de colza, mesmo trituradas.
+120600;Sementes de girassol, mesmo trituradas.
+1207;Outras sementes e frutos oleaginosos, mesmo triturados.
+1208;Farinhas de sementes ou de frutos oleaginosos, exceto farinha de mostarda.
+1209;Sementes, frutos e esporos, para semeadura (sementeira).
+1210;Cones de lúpulo, frescos ou secos, mesmo triturados ou moídos ou em <I>pellets</I>; lupulina.
+1211;Plantas, partes de plantas, sementes e frutos, das espécies utilizadas principalmente em perfumaria, medicina ou como inseticidas, parasiticidas e semelhantes, frescos, refrigerados, congelados ou secos, mesmo cortados, triturados ou em pó.
+1212;Alfarroba, algas, beterraba sacarina e cana-de-açúcar, frescas, refrigeradas, congeladas ou secas, mesmo em pó; caroços e amêndoas de frutos e outros produtos vegetais (incluindo as raízes de chicória não torradas, da variedade <I>Cichorium intybus sativum</I>) utilizados principalmente na alimentação humana, não especificados nem compreendidos noutras posições.
+12130000;Palhas e cascas de cereais, em bruto, mesmo picadas, moídas, prensadas ou em <I>pellets</I>.
+1214;Rutabagas, beterrabas forrageiras, raízes forrageiras, feno, alfafa (luzerna), trevo, sanfeno, couves forrageiras, tremoço, ervilhaca e produtos forrageiros semelhantes, mesmo em <I>pellets</I>.
+1301;Goma-laca; gomas, resinas, gomas-resinas e oleorresinas (bálsamos, por exemplo), naturais.
+1302;Sucos e extratos vegetais; matérias pécticas, pectinatos e pectatos; ágar-ágar e outros produtos mucilaginosos e espessantes, derivados dos vegetais, mesmo modificados.
+1401;Matérias vegetais das espécies principalmente utilizadas em cestaria ou espartaria (por exemplo, bambus, rotins, canas, juncos, vimes, ráfia, palha de cereais limpa, branqueada ou tingida, casca de tília).
+1404;Produtos vegetais não especificados nem compreendidos noutras posições.
+1501;Gorduras de porco (incluindo a banha) e gorduras de aves, exceto as das posições 02.09 ou 15.03.
+1502;Gorduras de animais das espécies bovina, ovina ou caprina, exceto as da posição 15.03.
+15030000;Estearina solar, óleo de banha de porco, óleo-estearina, óleo-margarina e óleo de sebo, não emulsionados nem misturados, nem preparados de outro modo.
+1504;Gorduras, óleos e respectivas frações, de peixes ou de mamíferos marinhos, mesmo refinados, mas não quimicamente modificados.
+150500;Suarda e substâncias gordas dela derivadas, incluindo a lanolina.
+15060000;Outras gorduras e óleos animais, e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+1507;Óleo de soja e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+1508;Óleo de amendoim e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+1509;Azeite de oliva (oliveira) e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+15100000;Outros óleos e respectivas frações, obtidos exclusivamente a partir de azeitonas, mesmo refinados, mas não quimicamente modificados, e misturas desses óleos ou frações com óleos ou frações da posição 15.09.
+1511;Óleo de dendê (palma) e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+1512;Óleos de girassol, de cártamo ou de algodão, e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+1513;Óleos de coco (copra), de amêndoa de palma (palmiste) (coconote) ou de babaçu, e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+1514;Óleos de nabo silvestre, de colza ou de mostarda, e respectivas frações, mesmo refinados, mas não quimicamente modificados.
+1515;Outras gorduras e óleos vegetais (incluindo o óleo de jojoba) e respectivas frações, fixos, mesmo refinados, mas não quimicamente modificados.
+1516;Gorduras e óleos animais ou vegetais e respectivas frações, parcial ou totalmente hidrogenados, interesterificados, reesterificados ou elaidinizados, mesmo refinados, mas não preparados de outro modo.
+1517;Margarina; misturas ou preparações alimentícias de gorduras ou de óleos animais ou vegetais ou de frações das diferentes gorduras ou óleos do presente Capítulo, exceto as gorduras e óleos alimentícios e respectivas frações da posição 15.16.
+151800;Gorduras e óleos animais ou vegetais e respectivas frações, cozidos, oxidados, desidratados, sulfurados, aerados (soprados*), estandolizados ou modificados quimicamente por qualquer outro processo, com exclusão dos da posição 15.16; misturas ou preparações não alimentícias, de gorduras ou de óleos animais ou vegetais ou de frações de diferentes gorduras ou óleos do presente Capítulo, não especificadas nem compreendidas noutras posições.
+152000;Glicerol em bruto; águas e lixívias, glicéricas.
+1521;Ceras vegetais (exceto os triglicéridos), ceras de abelha ou de outros insetos e espermacete, mesmo refinados ou corados.
+15220000;<I>Dégras</I>; resíduos provenientes do tratamento das substâncias gordas ou das ceras animais ou vegetais.
+16010000;Enchidos e produtos semelhantes, de carne, de miudezas ou de sangue; preparações alimentícias à base de tais produtos.
+1602;Outras preparações e conservas de carne, de miudezas ou de sangue.
+16030000;Extratos e sucos de carne, de peixes ou de crustáceos, de moluscos ou de outros invertebrados aquáticos.
+1604;Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe.
+1605;Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas.
+1701;Açúcares de cana ou de beterraba e sacarose quimicamente pura, no estado sólido.
+1702;Outros açúcares, incluindo a lactose, maltose, glicose e frutose (levulose), quimicamente puras, no estado sólido; xaropes de açúcares, sem adição de aromatizantes ou de corantes; sucedâneos do mel, mesmo misturados com mel natural; açúcares e melaços caramelizados.
+1703;Melaços resultantes da extração ou refinação do açúcar.
+1704;Produtos de confeitaria sem cacau (incluindo o chocolate branco).
+18010000;Cacau inteiro ou partido, em bruto ou torrado.
+18020000;Cascas, películas e outros desperdícios de cacau.
+1803;Pasta de cacau, mesmo desengordurada.
+18040000;Manteiga, gordura e óleo, de cacau.
+18050000;Cacau em pó, sem adição de açúcar ou de outros edulcorantes.
+1806;Chocolate e outras preparações alimentícias que contenham cacau.
+1901;Extratos de malte; preparações alimentícias de farinhas, grumos, sêmolas, amidos, féculas ou de extratos de malte, que não contenham cacau ou que contenham menos de 40 %, em peso, de cacau, calculado sobre uma base totalmente desengordurada, não especificadas nem compreendidas noutras posições; preparações alimentícias de produtos das posições 04.01 a 04.04, que não contenham cacau ou que contenham menos de 5 %, em peso, de cacau, calculado sobre uma base totalmente desengordurada, não especificadas nem compreendidas noutras posições.
+1902;Massas alimentícias, mesmo cozidas ou recheadas (de carne ou de outras substâncias) ou preparadas de outro modo, tais como espaguete, macarrão, aletria, lasanha, nhoque, ravioli e canelone; cuscuz, mesmo preparado.
+19030000;Tapioca e seus sucedâneos preparados a partir de féculas, em flocos, grumos, grãos, pérolas ou formas semelhantes.
+1904;Produtos à base de cereais, obtidos por expansão ou por torrefação (flocos de milho (<I>corn flakes</I>), por exemplo); cereais (exceto milho) em grãos ou sob a forma de flocos ou de outros grãos trabalhados (com exceção da farinha, do grumo e da sêmola), pré-cozidos ou preparados de outro modo, não especificados nem compreendidos noutras posições.
+1905;Produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos, mesmo adicionados de cacau; hóstias, cápsulas vazias para medicamentos, obreias, pastas secas de farinha, amido ou fécula, em folhas, e produtos semelhantes.
+2001;Produtos hortícolas, fruta e outras partes comestíveis de plantas, preparados ou conservados em vinagre ou em ácido acético.
+2002;Tomates preparados ou conservados, exceto em vinagre ou em ácido acético.
+2003;Cogumelos e trufas, preparados ou conservados, exceto em vinagre ou em ácido acético.
+2004;Outros produtos hortícolas preparados ou conservados, exceto em vinagre ou em ácido acético, congelados, com exceção dos produtos da posição 20.06.
+2005;Outros produtos hortícolas preparados ou conservados, exceto em vinagre ou em ácido acético, não congelados, com exceção dos produtos da posição 20.06.
+20060000;Produtos hortícolas, fruta, cascas de fruta e outras partes de plantas, conservados com açúcar (passados por calda, glaceados ou cristalizados).
+2007;Doces, geleias, <I>marmelades</I>, purês e pastas de fruta, obtidos por cozimento, mesmo com adição de açúcar ou de outros edulcorantes.
+2008;Fruta e outras partes comestíveis de plantas, preparadas ou conservadas de outro modo, mesmo com adição de açúcar ou de outros edulcorantes ou de álcool, não especificadas nem compreendidas noutras posições.
+2009;Sucos (sumos) de fruta (incluindo os mostos de uvas) ou de produtos hortícolas, não fermentados, sem adição de álcool, mesmo com adição de açúcar ou de outros edulcorantes.
+2101;Extratos, essências e concentrados de café, chá ou mate e preparações à base destes produtos ou à base de café, chá ou mate; chicória torrada e outros sucedâneos torrados do café e respectivos extratos, essências e concentrados.
+2102;Leveduras (vivas ou mortas); outros microrganismos monocelulares mortos (exceto as vacinas da posição 30.02); pós para levedar, preparados.
+2103;Preparações para molhos e molhos preparados; condimentos e temperos compostos; farinha de mostarda e mostarda preparada.
+2104;Preparações para caldos e sopas; caldos e sopas preparados; preparações alimentícias compostas homogeneizadas.
+210500;Sorvetes, mesmo que contenham cacau.
+2106;Preparações alimentícias não especificadas nem compreendidas noutras posições.
+2201;Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve.
+2202;Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, exceto sucos (sumos) de fruta ou de produtos hortícolas, da posição 20.09.
+22030000;Cervejas de malte.
+2204;Vinhos de uvas frescas, incluindo os vinhos enriquecidos com álcool; mostos de uvas, excluindo os da posição 20.09.
+2205;Vermutes e outros vinhos de uvas frescas aromatizados por plantas ou substâncias aromáticas.
+220600;Outras bebidas fermentadas (por exemplo, sidra, perada, hidromel, saquê); misturas de bebidas fermentadas e misturas de bebidas fermentadas com bebidas não alcoólicas, não especificadas nem compreendidas noutras posições.
+2207;Álcool etílico não desnaturado, com um teor alcoólico, em volume, igual ou superior a 80 % vol; álcool etílico e aguardentes, desnaturados, com qualquer teor alcoólico.
+2208;Álcool etílico não desnaturado, com um teor alcoólico, em volume, inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas.
+22090000;Vinagres e seus sucedâneos obtidos a partir do ácido acético, para usos alimentares.
+2301;Farinhas, pós e <I>pellets</I>, de carnes, de miudezas, de peixes ou crustáceos, de moluscos ou de outros invertebrados aquáticos, impróprios para alimentação humana; torresmos.
+2302;Sêmeas, farelos e outros resíduos, mesmo em <I>pellets</I>, da peneiração, moagem ou de outros tratamentos de cereais ou de leguminosas.
+2303;Resíduos da fabricação do amido e resíduos semelhantes, polpas de beterraba, bagaços de cana-de-açúcar e outros desperdícios da indústria do açúcar, borras e desperdícios da indústria da cerveja e das destilarias, mesmo em <I>pellets</I>.
+230400;Tortas (Bagaços*) e outros resíduos sólidos, mesmo triturados ou em <I>pellets</I>, da extração do óleo de soja.
+23050000;Tortas (Bagaços*) e outros resíduos sólidos, mesmo triturados ou em <I>pellets</I>, da extração do óleo de amendoim.
+2306;Tortas (Bagaços*) e outros resíduos sólidos, mesmo triturados ou em <I>pellets</I>, da extração de gorduras ou óleos vegetais, exceto os das posições 23.04 e 23.05.
+23070000;Borras de vinho; tártaro em bruto.
+23080000;Matérias vegetais e desperdícios vegetais, resíduos e subprodutos vegetais, mesmo em <I>pellets</I>, do tipo utilizado na alimentação de animais, não especificados nem compreendidos noutras posições.
+2309;Preparações do tipo utilizado na alimentação de animais.
+2401;Tabaco não manufaturado; desperdícios de tabaco.
+2402;Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos.
+2403;Outros produtos de tabaco e seus sucedâneos, manufaturados; tabaco "homogeneizado" ou "reconstituído"; extratos e molhos de tabaco.
+250100;Sal (incluindo o sal de mesa e o sal desnaturado) e cloreto de sódio puro, mesmo em solução aquosa ou adicionados de agentes antiaglomerantes ou de agentes que assegurem uma boa fluidez; água do mar.
+25020000;Piritas de ferro não ustuladas.
+250300;Enxofre de qualquer espécie, exceto o enxofre sublimado, o precipitado e o coloidal.
+2504;Grafita natural.
+2505;Areias naturais de qualquer espécie, mesmo coradas, exceto areias metalíferas do Capítulo 26.
+2506;Quartzo (exceto areias naturais); quartzitos, mesmo desbastados ou simplesmente cortados, à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular.
+250700;Caulim (caulino) e outras argilas caulínicas, mesmo calcinados.
+2508;Outras argilas (exceto argilas expandidas da posição 68.06), andaluzita, cianita, silimanita, mesmo calcinadas; mulita; barro cozido em pó (terra de <I>chamotte</I>) e terra de dinas.
+25090000;Cré.
+2510;Fosfatos de cálcio naturais, fosfatos aluminocálcicos naturais e cré fosfatado.
+2511;Sulfato de bário natural (baritina); carbonato de bário natural (<I>witherite</I>), mesmo calcinado, exceto o óxido de bário da posição 28.16.
+25120000;Farinhas siliciosas fósseis (por exemplo, <I>kieselguhr</I>, tripolita, diatomita) e outras terras siliciosas análogas de densidade aparente não superior a 1, mesmo calcinadas.
+2513;Pedra-pomes; esmeril; corindo natural, granada natural e outros abrasivos naturais, mesmo tratados termicamente.
+25140000;Ardósia, mesmo desbastada ou simplesmente cortada à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular.
+2515;Mármores, travertinos, granitos belgas e outras pedras calcárias de cantaria ou de construção, de densidade aparente igual ou superior a 2,5, e alabastro, mesmo desbastados ou simplesmente cortados à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular.
+2516;Granito, pórfiro, basalto, arenito e outras pedras de cantaria ou de construção, mesmo desbastados ou simplesmente cortados à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular.
+2517;Calhaus, cascalho, pedras britadas, do tipo normalmente utilizado em concreto (betão*) ou para empedramento de estradas, de vias férreas ou outros balastros, seixos rolados e sílex, mesmo tratados termicamente; macadame de escórias de altos-fornos, de outras escórias ou de resíduos industriais semelhantes, mesmo que contenham matérias incluídas na primeira parte do texto desta posição; tarmacadame; grânulos, lascas e pós, das pedras das posições 25.15 ou 25.16, mesmo tratados termicamente.
+2518;Dolomita, mesmo sinterizada ou calcinada, incluindo a dolomita desbastada ou simplesmente cortada à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular; aglomerados de dolomita.
+2519;Carbonato de magnésio natural (magnesita); magnésia eletrofundida; magnésia calcinada a fundo (sinterizada), mesmo que contenha pequenas quantidades de outros óxidos adicionados antes da sinterização; outro óxido de magnésio, mesmo puro.
+2520;Gipsita; anidrita; gesso, mesmo corado ou adicionado de pequenas quantidades de aceleradores ou retardadores.
+25210000;Castinas; pedras calcárias utilizadas na fabricação de cal ou de cimento.
+2522;Cal viva, cal apagada e cal hidráulica, com exclusão do óxido e do hidróxido de cálcio da posição 28.25.
+2523;Cimentos hidráulicos (incluindo os cimentos não pulverizados, denominados <I>clinkers</I>), mesmo corados.
+2524;Amianto.
+2525;Mica, incluindo a mica clivada em lamelas irregulares (<I>splittings</I>); desperdícios de mica.
+2526;Esteatita natural, mesmo desbastada ou simplesmente cortada à serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular; talco.
+25280000;Boratos naturais e seus concentrados (calcinados ou não), exceto boratos extraídos de salmouras naturais; ácido bórico natural com um teor máximo de 85 % de H<SUB>3</SUB>BO<SUB>3</SUB>, em produto seco.
+2529;Feldspato; leucita; nefelina e nefelina-sienito; espatoflúor.
+2530;Matérias minerais não especificadas nem compreendidas noutras posições.
+2601;Minérios de ferro e seus concentrados, incluindo as piritas de ferro ustuladas (cinzas de piritas).
+260200;Minérios de manganês e seus concentrados, incluindo os minérios de manganês ferruginosos e seus concentrados, de teor em manganês de 20 % ou mais, em peso, sobre o produto seco.
+260300;Minérios de cobre e seus concentrados.
+26040000;Minérios de níquel e seus concentrados.
+26050000;Minérios de cobalto e seus concentrados.
+260600;Minérios de alumínio e seus concentrados.
+26070000;Minérios de chumbo e seus concentrados.
+260800;Minérios de zinco e seus concentrados.
+26090000;Minérios de estanho e seus concentrados.
+261000;Minérios de cromo e seus concentrados.
+26110000;Minérios de tungstênio (volfrâmio) e seus concentrados.
+2612;Minérios de urânio ou de tório, e seus concentrados.
+2613;Minérios de molibdênio e seus concentrados.
+261400;Minérios de titânio e seus concentrados.
+2615;Minérios de nióbio, tântalo, vanádio ou de zircônio, e seus concentrados.
+2616;Minérios de metais preciosos e seus concentrados.
+2617;Outros minérios e seus concentrados.
+26180000;Escória de altos-fornos granulada (areia de escória) proveniente da fabricação de ferro fundido, ferro ou aço.
+26190000;Escórias (exceto escória de altos-fornos granulada) e outros desperdícios da fabricação de ferro fundido, ferro ou aço.
+2620;Escórias, cinzas e resíduos (exceto os provenientes da fabricação de ferro fundido, ferro ou aço), que contenham metais, arsênio, ou os seus compostos.
+2621;Outras escórias e cinzas, incluindo as cinzas de algas; cinzas e resíduos provenientes da incineração de resíduos municipais.
+2701;Hulhas; briquetes, bolas em aglomerados e combustíveis sólidos semelhantes, obtidos a partir da hulha.
+2702;Linhitas, mesmo aglomeradas, exceto azeviche.
+27030000;Turfa (incluindo a turfa para cama de animais), mesmo aglomerada.
+270400;Coques e semicoques, de hulha, de linhita ou de turfa, mesmo aglomerados; carvão de retorta.
+27050000;Gás de hulha, gás de água, gás pobre (gás de ar) e gases semelhantes, exceto gases de petróleo e outros hidrocarbonetos gasosos.
+27060000;Alcatrões de hulha, de linhita ou de turfa e outros alcatrões minerais, mesmo desidratados ou parcialmente destilados, incluindo os alcatrões reconstituídos.
+2707;Óleos e outros produtos provenientes da destilação dos alcatrões de hulha a alta temperatura; produtos análogos em que os constituintes aromáticos predominem, em peso, relativamente aos constituintes não aromáticos.
+2708;Breu e coque de breu obtidos a partir do alcatrão de hulha ou de outros alcatrões minerais.
+270900;Óleos brutos de petróleo ou de minerais betuminosos.
+2710;Óleos de petróleo ou de minerais betuminosos, exceto óleos brutos; preparações não especificadas nem compreendidas noutras posições, que contenham, como constituintes básicos, 70 % ou mais, em peso, de óleos de petróleo ou de minerais betuminosos; resíduos de óleos.
+2711;Gás de petróleo e outros hidrocarbonetos gasosos.
+2712;Vaselina; parafina, cera de petróleo microcristalina, <I>slack wax</I>, ozocerite, cera de linhita, cera de turfa, outras ceras minerais e produtos semelhantes obtidos por síntese ou por outros processos, mesmo corados.
+2713;Coque de petróleo, betume de petróleo e outros resíduos dos óleos de petróleo ou de minerais betuminosos.
+2714;Betumes e asfaltos, naturais; xistos e areias betuminosos; asfaltitas e rochas asfálticas.
+27150000;Misturas betuminosas à base de asfalto ou de betume naturais, de betume de petróleo, de alcatrão mineral ou de breu de alcatrão mineral (por exemplo, mástiques betuminosas e <I>cut-backs</I>).
+27160000;Energia elétrica.
+2801;Flúor, cloro, bromo e iodo.
+28020000;Enxofre sublimado ou precipitado; enxofre coloidal.
+280300;Carbono (negros de fumo e outras formas de carbono não especificadas nem compreendidas noutras posições).
+2804;Hidrogênio, gases raros e outros elementos não-metálicos.
+2805;Metais alcalinos ou alcalinoterrosos; metais de terras raras, escândio e ítrio, mesmo misturados ou ligados entre si; mercúrio.
+2806;Cloreto de hidrogênio (ácido clorídrico); ácido clorossulfúrico.
+280700;Ácido sulfúrico; ácido sulfúrico fumante (óleum).
+280800;Ácido nítrico; ácidos sulfonítricos.
+2809;Pentóxido de difósforo; ácido fosfórico; ácidos polifosfóricos, de constituição química definida ou não.
+281000;Óxidos de boro; ácidos bóricos.
+2811;Outros ácidos inorgânicos e outros compostos oxigenados inorgânicos dos elementos não-metálicos.
+2812;Halogenetos e oxialogenetos dos elementos não-metálicos.
+2813;Sulfetos dos elementos não-metálicos; trissulfeto de fósforo comercial.
+2814;Amoníaco anidro ou em solução aquosa (amônia).
+2815;Hidróxido de sódio (soda cáustica); hidróxido de potássio (potassa cáustica); peróxidos de sódio ou de potássio.
+2816;Hidróxido e peróxido de magnésio; óxidos, hidróxidos e peróxidos, de estrôncio ou de bário.
+281700;Óxido de zinco; peróxido de zinco.
+2818;Corindo artificial, de constituição química definida ou não; óxido de alumínio; hidróxido de alumínio.
+2819;Óxidos e hidróxidos de cromo.
+2820;Óxidos de manganês.
+2821;Óxidos e hidróxidos de ferro; terras corantes que contenham, em peso, 70 % ou mais de ferro combinado, expresso em Fe<SUB>2</SUB>O<SUB>3</SUB>.
+282200;Óxidos e hidróxidos de cobalto; óxidos de cobalto comerciais.
+282300;Óxidos de titânio.
+2824;Óxidos de chumbo; mínio (zarcão) e mínio-laranja (<I>mine-orange</I>).
+2825;Hidrazina e hidroxilamina, e seus sais inorgânicos; outras bases inorgânicas; outros óxidos, hidróxidos e peróxidos, de metais.
+2826;Fluoretos; fluorossilicatos, fluoraluminatos e outros sais complexos de flúor.
+2827;Cloretos, oxicloretos e hidroxicloretos; brometos e oxibrometos; iodetos e oxiiodetos.
+2828;Hipocloritos; hipoclorito de cálcio comercial; cloritos; hipobromitos.
+2829;Cloratos e percloratos; bromatos e perbromatos; iodatos e periodatos.
+2830;Sulfetos; polissulfetos, de constituição química definida ou não.
+2831;Ditionitos e sulfoxilatos.
+2832;Sulfitos; tiossulfatos.
+2833;Sulfatos; alumes; peroxossulfatos (persulfatos).
+2834;Nitritos; nitratos.
+2835;Fosfinatos (hipofosfitos), fosfonatos (fosfitos) e fosfatos; polifosfatos de constituição química definida ou não.
+2836;Carbonatos; peroxocarbonatos (percarbonatos); carbonato de amônio comercial que contenha carbamato de amônio.
+2837;Cianetos, oxicianetos e cianetos complexos.
+2839;Silicatos; silicatos dos metais alcalinos comerciais.
+2840;Boratos; peroxoboratos (perboratos).
+2841;Sais dos ácidos oxometálicos ou peroxometálicos.
+2842;Outros sais dos ácidos ou peroxoácidos inorgânicos (incluindo os aluminossilicatos de constituição química definida ou não), exceto as azidas.
+2843;Metais preciosos no estado coloidal; compostos inorgânicos ou orgânicos de metais preciosos, de constituição química definida ou não; amálgamas de metais preciosos.
+2844;Elementos químicos radioativos e isótopos radioativos (incluindo os elementos químicos e isótopos físseis (cindíveis) ou férteis), e seus compostos; misturas e resíduos que contenham esses produtos.
+2845;Isótopos não incluídos na posição 28.44; seus compostos, inorgânicos ou orgânicos, de constituição química definida ou não.
+2846;Compostos, inorgânicos ou orgânicos, dos metais das terras raras, de ítrio ou de escândio ou das misturas destes metais.
+28470000;Peróxido de hidrogênio (água oxigenada), mesmo solidificado com ureia.
+2849;Carbonetos de constituição química definida ou não.
+285000;Hidretos, nitretos, azidas, silicietos e boretos, de constituição química definida ou não, exceto os compostos que constituam igualmente carbonetos da posição 28.49.
+2852;Compostos, inorgânicos ou orgânicos, de mercúrio, de constituição química definida ou não, exceto as amálgamas.
+2853;Fosfetos, de constituição química definida ou não, exceto ferrofósforos; outros compostos inorgânicos (incluindo as águas destiladas ou de condutibilidade e águas de igual grau de pureza); ar líquido (incluindo o ar líquido cujos gases raros foram eliminados); ar comprimido; amálgamas, exceto de metais preciosos.
+2901;Hidrocarbonetos acíclicos.
+2902;Hidrocarbonetos cíclicos.
+2903;Derivados halogenados dos hidrocarbonetos.
+2904;Derivados sulfonados, nitrados ou nitrosados dos hidrocarbonetos, mesmo halogenados.
+2905;Álcoois acíclicos e seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2906;Álcoois cíclicos e seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2907;Fenóis; fenóis-álcoois.
+2908;Derivados halogenados, sulfonados, nitrados ou nitrosados dos fenóis ou dos fenóis-álcoois.
+2909;Éteres, éteres-álcoois, éteres-fenóis, éteres-álcoois-fenóis, peróxidos de álcoois, peróxidos de éteres, peróxidos de cetonas (de constituição química definida ou não), e seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2910;Epóxidos, epoxiálcoois, epoxifenóis e epoxiéteres, com três átomos no ciclo, e seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+291100;Acetais e hemiacetais, mesmo que contenham outras funções oxigenadas, e seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2912;Aldeídos, mesmo que contenham outras funções oxigenadas; polímeros cíclicos dos aldeídos; paraformaldeído.
+291300;Derivados halogenados, sulfonados, nitrados ou nitrosados dos produtos da posição 29.12.
+2914;Cetonas e quinonas, mesmo que contenham outras funções oxigenadas, e seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2915;Ácidos monocarboxílicos acíclicos saturados e seus anidridos, halogenetos, peróxidos e peroxiácidos; seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2916;Ácidos monocarboxílicos acíclicos não saturados e ácidos monocarboxílicos cíclicos, seus anidridos, halogenetos, peróxidos e peroxiácidos; seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2917;Ácidos policarboxílicos, seus anidridos, halogenetos, peróxidos e peroxiácidos; seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2918;Ácidos carboxílicos que contenham funções oxigenadas suplementares e seus anidridos, halogenetos, peróxidos e peroxiácidos; seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2919;Ésteres fosfóricos e seus sais, incluindo os lactofosfatos; seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2920;Ésteres dos outros ácidos inorgânicos de não-metais (exceto os ésteres de halogenetos de hidrogênio) e seus sais; seus derivados halogenados, sulfonados, nitrados ou nitrosados.
+2921;Compostos de função amina.
+2922;Compostos aminados de funções oxigenadas.
+2923;Sais e hidróxidos de amônio quaternários; lecitinas e outros fosfoaminolipídios, de constituição química definida ou não.
+2924;Compostos de função carboxiamida; compostos de função amida do ácido carbônico.
+2925;Compostos de função carboxiimida (incluindo a sacarina e seus sais) ou de função imina.
+2926;Compostos de função nitrila.
+292700;Compostos diazóicos, azóicos ou azóxicos.
+292800;Derivados orgânicos da hidrazina e da hidroxilamina.
+2929;Compostos de outras funções nitrogenadas (azotadas).
+2930;Tiocompostos orgânicos.
+2931;Outros compostos organo-inorgânicos.
+2932;Compostos heterocíclicos exclusivamente de heteroátomo(s) de oxigênio.
+2933;Compostos heterocíclicos exclusivamente de heteroátomo(s) de nitrogênio (azoto).
+2934;Ácidos nucleicos e seus sais, de constituição química definida ou não; outros compostos heterocíclicos.
+2935;Sulfonamidas.
+2936;Provitaminas e vitaminas, naturais ou reproduzidas por síntese (incluindo os concentrados naturais), bem como os seus derivados utilizados principalmente como vitaminas, misturados ou não entre si, mesmo em quaisquer soluções.
+2937;Hormônios, prostaglandinas, tromboxanas e leucotrienos, naturais ou reproduzidos por síntese; seus derivados e análogos estruturais, incluindo os polipeptídios de cadeia modificada, utilizados principalmente como hormônios.
+2938;Heterosídios, naturais ou reproduzidos por síntese, seus sais, éteres, ésteres e outros derivados.
+2939;Alcaloides, naturais ou reproduzidos por síntese, seus sais, éteres, ésteres e outros derivados.
+294000;Açúcares quimicamente puros, exceto sacarose, lactose, maltose, glicose e frutose (levulose); éteres, acetais e ésteres de açúcares, e seus sais, exceto os produtos das posições 29.37, 29.38 ou 29.39.
+2941;Antibióticos.
+29420000;Outros compostos orgânicos.
+3001;Glândulas e outros órgãos para usos opoterápicos, dessecados, mesmo em pó; extratos de glândulas ou de outros órgãos ou das suas secreções, para usos opoterápicos; heparina e seus sais; outras substâncias humanas ou animais preparadas para fins terapêuticos ou profiláticos, não especificadas nem compreendidas noutras posições.
+3002;Sangue humano; sangue animal preparado para usos terapêuticos, profiláticos ou de diagnóstico; antissoros, outras frações do sangue e produtos imunológicos, mesmo modificados ou obtidos por via biotecnológica; vacinas, toxinas, culturas de microrganismos (exceto leveduras) e produtos semelhantes.
+3003;Medicamentos (exceto os produtos das posições 30.02, 30.05 ou 30.06) constituídos por produtos misturados entre si, preparados para fins terapêuticos ou profiláticos, mas não apresentados em doses nem acondicionados para venda a retalho.
+3004;Medicamentos (exceto os produtos das posições 30.02, 30.05 ou 30.06) constituídos por produtos misturados ou não misturados, preparados para fins terapêuticos ou profiláticos, apresentados em doses (incluindo os destinados a serem administrados por via percutânea) ou acondicionados para venda a retalho.
+3005;Pastas (<I>ouates</I>), gazes, ataduras e artigos análogos (por exemplo, curativos (pensos), esparadrapos, sinapismos), impregnados ou recobertos de substâncias farmacêuticas ou acondicionados para venda a retalho para usos medicinais, cirúrgicos, odontológicos ou veterinários.
+3006;Preparações e artigos farmacêuticos indicados na Nota 4 deste Capítulo.
+31010000;Adubos (fertilizantes) de origem animal ou vegetal, mesmo misturados entre si ou tratados quimicamente; adubos (fertilizantes) resultantes da mistura ou do tratamento químico de produtos de origem animal ou vegetal.
+3102;Adubos (fertilizantes) minerais ou químicos, nitrogenados (azotados).
+3103;Adubos (fertilizantes) minerais ou químicos, fosfatados.
+3104;Adubos (fertilizantes) minerais ou químicos, potássicos.
+3105;Adubos (fertilizantes) minerais ou químicos, que contenham dois ou três dos seguintes elementos fertilizantes: nitrogênio (azoto), fósforo e potássio; outros adubos (fertilizantes); produtos do presente Capítulo apresentados em tabletes ou formas semelhantes, ou ainda em embalagens de peso bruto não superior a 10 kg.
+3201;Extratos tanantes de origem vegetal; taninos e seus sais, éteres, ésteres e outros derivados.
+3202;Produtos tanantes orgânicos sintéticos; produtos tanantes inorgânicos; preparações tanantes, mesmo que contenham produtos tanantes naturais; preparações enzimáticas para a pré-curtimenta.
+320300;Matérias corantes de origem vegetal ou animal (incluindo os extratos tintoriais, mas excluindo os negros de origem animal), mesmo de constituição química definida; preparações indicadas na Nota 3 do presente Capítulo, à base de matérias corantes de origem vegetal ou animal.
+3204;Matérias corantes orgânicas sintéticas, mesmo de constituição química definida; preparações indicadas na Nota 3 do presente Capítulo, à base de matérias corantes orgânicas sintéticas; produtos orgânicos sintéticos do tipo utilizado como agentes de avivamento fluorescentes ou como luminóforos, mesmo de constituição química definida.
+32050000;Lacas corantes; preparações indicadas na Nota 3 do presente Capítulo, à base de lacas corantes.
+3206;Outras matérias corantes; preparações indicadas na Nota 3 do presente Capítulo, exceto das posições 32.03, 32.04 ou 32.05; produtos inorgânicos do tipo utilizado como luminóforos, mesmo de constituição química definida.
+3207;Pigmentos, opacificantes e cores preparados, composições vitrificáveis, engobos, polimentos (esmaltes metálicos*) líquidos e preparações semelhantes, do tipo utilizado nas indústrias da cerâmica, do esmalte e do vidro; fritas de vidro e outros vidros, em pó, em grânulos, em lamelas ou em flocos.
+3208;Tintas e vernizes, à base de polímeros sintéticos ou de polímeros naturais modificados, dispersos ou dissolvidos em meio não aquoso; soluções definidas na Nota 4 do presente Capítulo.
+3209;Tintas e vernizes, à base de polímeros sintéticos ou de polímeros naturais modificados, dispersos ou dissolvidos num meio aquoso.
+321000;Outras tintas e vernizes; pigmentos de água preparados, do tipo utilizado para acabamento de couros.
+32110000;Secantes preparados.
+3212;Pigmentos (incluindo os pós e flocos metálicos) dispersos em meios não aquosos, no estado líquido ou pastoso, do tipo utilizado na fabricação de tintas; folhas para marcar a ferro; tinturas e outras matérias corantes apresentadas em formas próprias ou em embalagens para venda a retalho.
+3213;Cores para pintura artística, atividades educativas, pintura de tabuletas, modificação de tonalidades, recreação e cores semelhantes, em pastilhas, tubos, potes, frascos, godês ou acondicionamentos semelhantes.
+3214;Mástique de vidraceiro, cimentos de resina e outras mástiques; indutos utilizados em pintura; indutos não refratários do tipo utilizado em alvenaria.
+3215;Tintas de impressão, tintas de escrever ou de desenhar e outras tintas, mesmo concentradas ou no estado sólido.
+3301;Óleos essenciais (desterpenados ou não), incluindo os chamados "concretos" ou "absolutos"; resinoides; oleorresinas de extração; soluções concentradas de óleos essenciais em gorduras, em óleos fixos, em ceras ou em matérias análogas, obtidas por tratamento de flores através de substâncias gordas ou por maceração; subprodutos terpênicos residuais da desterpenação dos óleos essenciais; águas destiladas aromáticas e soluções aquosas de óleos essenciais.
+3302;Misturas de substâncias odoríferas e misturas (incluindo as soluções alcoólicas) à base de uma ou mais destas substâncias, do tipo utilizado como matérias básicas para a indústria; outras preparações à base de substâncias odoríferas, do tipo utilizado para a fabricação de bebidas.
+330300;Perfumes e águas-de-colônia.
+3304;Produtos de beleza ou de maquiagem preparados e preparações para conservação ou cuidados da pele (exceto medicamentos), incluindo as preparações antissolares e os bronzeadores; preparações para manicuros e pedicuros.
+3305;Preparações capilares.
+3306;Preparações para higiene bucal ou dentária, incluindo os pós e cremes para facilitar a aderência de dentaduras; fios utilizados para limpar os espaços interdentais (fios dentais), em embalagens individuais para venda a retalho.
+3307;Preparações para barbear (antes, durante ou após), desodorantes (desodorizantes) corporais, preparações para banhos, depilatórios, outros produtos de perfumaria ou de toucador preparados e outras preparações cosméticas, não especificados nem compreendidos noutras posições; desodorantes (desodorizantes) de ambiente, preparados, mesmo não perfumados, mesmo com propriedades desinfetantes.
+3401;Sabões; produtos e preparações orgânicos tensoativos utilizados como sabão, em barras, pães, pedaços ou figuras moldadas, mesmo que contenham sabão; produtos e preparações orgânicos tensoativos para lavagem da pele, em forma de líquido ou de creme, acondicionados para venda a retalho, mesmo que contenham sabão; papel, pastas (<I>ouates</I>), feltros e falsos tecidos, impregnados, revestidos ou recobertos de sabão ou de detergentes.
+3402;Agentes orgânicos de superfície (exceto sabões); preparações tensoativas, preparações para lavagem (incluindo as preparações auxiliares para lavagem) e preparações para limpeza, mesmo que contenham sabão, exceto as da posição 34.01.
+3403;Preparações lubrificantes (incluindo os óleos de corte, as preparações antiaderentes de porcas e parafusos, as preparações antiferrugem ou anticorrosão e as preparações para desmoldagem, à base de lubrificantes) e preparações do tipo utilizado para lubrificar e amaciar matérias têxteis, para untar couros, peles com pelo e outras matérias, exceto as que contenham, como constituintes de base, 70 % ou mais, em peso, de óleos de petróleo ou de minerais betuminosos.
+3404;Ceras artificiais e ceras preparadas.
+3405;Pomadas e cremes para calçado, encáusticas, preparações para dar brilho a pinturas de carroçarias, vidros ou metais, pastas e pós para arear e preparações semelhantes (mesmo apresentados em papel, pastas (<I>ouates</I>), feltros, falsos tecidos, plástico alveolar ou borracha alveolar, impregnados, revestidos ou recobertos daquelas preparações), com exclusão das ceras da posição 34.04.
+34060000;Velas, pavios, círios e artigos semelhantes.
+340700;Massas ou pastas para modelar, incluindo as próprias para recreação de crianças; "ceras para dentistas" apresentadas em sortidos, em embalagens para venda a retalho ou em placas, ferraduras, varetas ou formas semelhantes; outras composições para dentistas à base de gesso.
+3501;Caseínas, caseinatos e outros derivados das caseínas; colas de caseína.
+3502;Albuminas (incluindo os concentrados de várias proteínas de soro de leite, que contenham, em peso, calculado sobre a matéria seca, mais de 80 % de proteínas de soro de leite), albuminatos e outros derivados das albuminas.
+350300;Gelatinas (incluindo as apresentadas em folhas de forma quadrada ou retangular, mesmo trabalhadas na superfície ou coradas) e seus derivados; ictiocola; outras colas de origem animal, exceto colas de caseína da posição 35.01.
+350400;Peptonas e seus derivados; outras matérias proteicas e seus derivados, não especificados nem compreendidos noutras posições; pó de peles, tratado ou não pelo cromo.
+3505;Dextrina e outros amidos e féculas modificados (por exemplo, amidos e féculas pré-gelatinizados ou esterificados); colas à base de amidos ou de féculas, de dextrina ou de outros amidos ou féculas modificados.
+3506;Colas e outros adesivos preparados, não especificados nem compreendidos noutras posições; produtos de qualquer espécie utilizados como colas ou adesivos, acondicionados para venda a retalho como colas ou adesivos, de peso líquido não superior a 1 kg.
+3507;Enzimas; enzimas preparadas não especificadas nem compreendidas noutras posições.
+36010000;Pólvoras propulsivas.
+36020000;Explosivos preparados, exceto pólvoras propulsivas.
+360300;Estopins e rastilhos, de segurança; cordéis (cordões) detonantes; escorvas e cápsulas fulminantes; inflamadores; detonadores elétricos.
+3604;Fogos de artifício, foguetes de sinalização ou contra o granizo e semelhantes, bombas, petardos e outros artigos de pirotecnia.
+36050000;Fósforos, exceto os artigos de pirotecnia da posição 36.04.
+3606;Ferrocério e outras ligas pirofóricas, sob quaisquer formas; artigos de matérias inflamáveis indicados na Nota 2 do presente Capítulo.
+3701;Chapas e filmes planos, fotográficos, sensibilizados, não impressionados, de matérias diferentes do papel, do cartão ou dos têxteis; filmes fotográficos planos, de revelação e cópia instantâneas, sensibilizados, não impressionados, mesmo em cartuchos.
+3702;Filmes fotográficos sensibilizados, não impressionados, em rolos, de matérias diferentes do papel, do cartão ou dos têxteis; filmes fotográficos de revelação e cópia instantâneas, em rolos, sensibilizados, não impressionados.
+3703;Papéis, cartões e têxteis, fotográficos, sensibilizados, não impressionados.
+37040000;Chapas, filmes, papéis, cartões e têxteis, fotográficos, impressionados, mas não revelados.
+370500;Chapas e filmes, fotográficos, impressionados e revelados, exceto os filmes cinematográficos.
+3706;Filmes cinematográficos impressionados e revelados, que contenham ou não gravação de som ou que contenham apenas gravação de som.
+3707;Preparações químicas para usos fotográficos, exceto vernizes, colas, adesivos e preparações semelhantes; produtos não misturados, quer doseados tendo em vista usos fotográficos, quer acondicionados para venda a retalho para esses mesmos usos e prontos para utilização.
+3801;Grafita artificial; grafita coloidal ou semicoloidal; preparações à base de grafita ou de outros carbonos, em pastas, blocos, lamelas ou outros produtos intermediários.
+3802;Carvões ativados; matérias minerais naturais ativadas; negros de origem animal, incluindo o negro animal esgotado.
+380300;<I>Tall oil</I>, mesmo refinado.
+380400;Lixívias residuais da fabricação das pastas de celulose, mesmo concentradas, desaçucaradas ou tratadas quimicamente, incluindo os lignossulfonatos, mas excluindo o <I>tall oil</I> da posição 38.03.
+3805;Essências de terebintina, de pinheiro ou provenientes da fabricação da pasta de papel ao sulfato e outras essências terpênicas provenientes da destilação ou de outros tratamentos das madeiras de coníferas; dipenteno em bruto; essência proveniente da fabricação da pasta de papel ao bissulfito e outros paracimenos em bruto; óleo de pinho que contenha alfa-terpineol como constituinte principal.
+3806;Colofônias e ácidos resínicos, e seus derivados; essência de colofônia e óleos de colofônia; gomas fundidas.
+38070000;Alcatrões de madeira; óleos de alcatrão de madeira; creosoto de madeira; metileno; breu (pez) vegetal; breu (pez) para a indústria da cerveja e preparações semelhantes à base de colofônias, de ácidos resínicos ou de breu (pez) vegetal.
+3808;Inseticidas, rodenticidas, fungicidas, herbicidas, inibidores de germinação e reguladores de crescimento para plantas, desinfetantes e produtos semelhantes, apresentados em formas ou embalagens para venda a retalho ou como preparações ou ainda sob a forma de artigos, tais como fitas, mechas e velas sulfuradas e papel mata-moscas.
+3809;Agentes de apresto ou de acabamento, aceleradores de tingimento ou de fixação de matérias corantes e outros produtos e preparações (por exemplo, aprestos preparados e preparações mordentes) do tipo utilizado na indústria têxtil, na indústria do papel, na indústria do couro ou em indústrias semelhantes, não especificados nem compreendidos noutras posições.
+3810;Preparações para decapagem de metais; fluxos para soldar e outras preparações auxiliares para soldar metais; pastas e pós para soldar, compostos de metal e de outras matérias; preparações do tipo utilizado para enchimento ou revestimento de eletrodos ou de varetas para soldar.
+3811;Preparações antidetonantes, inibidores de oxidação, aditivos peptizantes, beneficiadores de viscosidade, aditivos anticorrosivos e outros aditivos preparados, para óleos minerais (incluindo a gasolina) ou para outros líquidos utilizados para os mesmos fins que os óleos minerais.
+3812;Preparações denominadas "aceleradores de vulcanização"; plastificantes compostos para borracha ou plástico, não especificados nem compreendidos noutras posições; preparações antioxidantes e outros estabilizadores compostos, para borracha ou plástico.
+381300;Composições e cargas para aparelhos extintores; granadas e bombas extintoras.
+381400;Solventes e diluentes orgânicos compostos, não especificados nem compreendidos noutras posições; preparações concebidas para remover tintas ou vernizes.
+3815;Iniciadores de reação, aceleradores de reação e preparações catalíticas, não especificados nem compreendidos noutras posições.
+381600;Cimentos, argamassas, concretos (betões*) e composições semelhantes, refratários, exceto os produtos da posição 38.01.
+381700;Misturas de alquilbenzenos ou de alquilnaftalenos, exceto as das posições 27.07 ou 29.02.
+381800;Elementos químicos dopados, próprios para utilização em eletrônica, em forma de discos, <I>wafers</I> ou formas análogas; compostos químicos dopados, próprios para utilização em eletrônica.
+38190000;Fluidos para freios (travões) hidráulicos e outros líquidos preparados para transmissões hidráulicas, que não contenham óleos de petróleo nem de minerais betuminosos, ou que os contenham em proporção inferior a 70 %, em peso.
+38200000;Preparações anticongelantes e líquidos preparados para descongelamento.
+38210000;Meios de cultura preparados para o desenvolvimento e a manutenção de microrganismos (incluindo os vírus e os organismos similares) ou de células vegetais, humanas ou animais.
+382200;Reagentes de diagnóstico ou de laboratório em qualquer suporte e reagentes de diagnóstico ou de laboratório preparados, mesmo apresentados num suporte, exceto os das posições 30.02 ou 30.06; materiais de referência certificados.
+3823;Ácidos graxos (gordos) monocarboxílicos industriais; óleos ácidos de refinação; álcoois graxos (gordos) industriais.
+3824;Aglutinantes preparados para moldes ou para núcleos de fundição; produtos químicos e preparações das indústrias químicas ou das indústrias conexas (incluindo os constituídos por misturas de produtos naturais), não especificados nem compreendidos noutras posições.
+3825;Produtos residuais das indústrias químicas ou das indústrias conexas, não especificados nem compreendidos noutras posições; resíduos municipais; lamas de tratamento de esgotos (lamas de depuração*); outros resíduos mencionados na Nota 6 deste Capítulo.
+38260000;Biodiesel e suas misturas, que não contenham ou que contenham menos de 70 %, em peso, de óleos de petróleo ou de óleos minerais betuminosos.
+3901;Polímeros de etileno, em formas primárias.
+3902;Polímeros de propileno ou de outras olefinas, em formas primárias.
+3903;Polímeros de estireno, em formas primárias.
+3904;Polímeros de cloreto de vinila ou de outras olefinas halogenadas, em formas primárias.
+3905;Polímeros de acetato de vinila ou de outros ésteres de vinila, em formas primárias; outros polímeros de vinila, em formas primárias.
+3906;Polímeros acrílicos, em formas primárias.
+3907;Poliacetais, outros poliéteres e resinas epóxidas, em formas primárias; policarbonatos, resinas alquídicas, poliésteres alílicos e outros poliésteres, em formas primárias.
+3908;Poliamidas em formas primárias.
+3909;Resinas amínicas, resinas fenólicas e poliuretanos, em formas primárias.
+391000;Silicones em formas primárias.
+3911;Resinas de petróleo, resinas de cumarona-indeno, politerpenos, polissulfetos, polissulfonas e outros produtos mencionados na Nota 3 do presente Capítulo, não especificados nem compreendidos noutras posições, em formas primárias.
+3912;Celulose e seus derivados químicos, não especificados nem compreendidos noutras posições, em formas primárias.
+3913;Polímeros naturais (ácido algínico, por exemplo) e polímeros naturais modificados (por exemplo, proteínas endurecidas, derivados químicos da borracha natural), não especificados nem compreendidos noutras posições, em formas primárias.
+391400;Permutadores de íons à base de polímeros das posições 39.01 a 39.13, em formas primárias.
+3915;Desperdícios, resíduos e aparas, de plástico.
+3916;Monofilamentos cuja maior dimensão da seção transversal seja superior a 1 mm (monofios), varas, bastões e perfis, mesmo trabalhados à superfície, mas não trabalhados de outro modo, de plástico.
+3917;Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plástico.
+3918;Revestimentos de pisos (pavimentos), de plástico, mesmo auto-adesivos, em rolos ou em forma de ladrilhos ou de mosaicos; revestimentos de paredes ou de tetos, de plástico, definidos na Nota 9 do presente Capítulo.
+3919;Chapas, folhas, tiras, fitas, películas e outras formas planas, auto-adesivas, de plástico, mesmo em rolos.
+3920;Outras chapas, folhas, películas, tiras e lâminas, de plástico não alveolar, não reforçadas nem estratificadas, sem suporte, nem associadas de forma semelhante a outras matérias.
+3921;Outras chapas, folhas, películas, tiras e lâminas, de plástico.
+3922;Banheiras, boxes para chuveiros (polibãs*), pias, lavatórios, bidés, sanitários e seus assentos e tampas, caixas de descarga (autoclismos*) e artigos semelhantes para usos sanitários ou higiênicos, de plástico.
+3923;Artigos de transporte ou de embalagem, de plástico; rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes, de plástico.
+3924;Serviços de mesa, artigos de cozinha, outros artigos de uso doméstico e artigos de higiene ou de toucador, de plástico.
+3925;Artigos para apetrechamento de construções, de plástico, não especificados nem compreendidos noutras posições.
+3926;Outras obras de plástico e obras de outras matérias das posições 39.01 a 39.14.
+4001;Borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais análogas, em formas primárias ou em chapas, folhas ou tiras.
+4002;Borracha sintética e borracha artificial derivada dos óleos, em formas primárias ou em chapas, folhas ou tiras; misturas dos produtos da posição 40.01 com produtos da presente posição, em formas primárias ou em chapas, folhas ou tiras.
+40030000;Borracha regenerada, em formas primárias ou em chapas, folhas ou tiras.
+40040000;Desperdícios, resíduos e aparas, de borracha não endurecida, mesmo reduzidos a pó ou a grânulos.
+4005;Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras.
+4006;Outras formas (por exemplo, varetas, tubos, perfis) e artigos (por exemplo, discos, arruelas (anilhas)), de borracha não vulcanizada.
+400700;Fios e cordas, de borracha vulcanizada.
+4008;Chapas, folhas, tiras, varetas e perfis, de borracha vulcanizada não endurecida.
+4009;Tubos de borracha vulcanizada não endurecida, mesmo providos dos respectivos acessórios (por exemplo, juntas, cotovelos, flanges, uniões).
+4010;Correias transportadoras ou de transmissão, de borracha vulcanizada.
+4011;Pneumáticos novos, de borracha.
+4012;Pneumáticos recauchutados ou usados, de borracha; pneus maciços ou ocos, bandas de rodagem para pneumáticos e <I>flaps</I>, de borracha.
+4013;Câmaras de ar de borracha.
+4014;Artigos de higiene ou de farmácia (incluindo as chupetas), de borracha vulcanizada não endurecida, mesmo com partes de borracha endurecida.
+4015;Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes), de borracha vulcanizada não endurecida, para quaisquer usos.
+4016;Outras obras de borracha vulcanizada não endurecida.
+40170000;Borracha endurecida (ebonite, por exemplo) sob qualquer forma, incluindo os desperdícios e resíduos; obras de borracha endurecida.
+4101;Couros e peles em bruto de bovinos (incluindo os búfalos) ou de equídeos (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos.
+4102;Peles em bruto de ovinos (frescas ou salgadas, secas, tratadas pela cal, piqueladas ou conservadas de outro modo, mas não curtidas, nem apergaminhadas, nem preparadas de outro modo), mesmo depiladas ou divididas, com exceção das excluídas pela Nota 1 c) do presente Capítulo.
+4103;Outros couros e peles em bruto (frescos ou salgados, secos, tratados pela cal, piquelados ou conservados de outro modo, mas não curtidos, nem apergaminhados, nem preparados de outro modo), mesmo depilados ou divididos, com exceção dos excluídos pelas Notas 1 b) ou 1 c) do presente Capítulo.
+4104;Couros e peles curtidos ou <I>crust</I>, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, mas não preparados de outro modo.
+4105;Peles curtidas ou <I>crust</I> de ovinos, depiladas, mesmo divididas, mas não preparadas de outro modo.
+4106;Couros e peles, depilados, de outros animais e peles de animais desprovidos de pelos, curtidos ou <I>crust</I>, mesmo divididos, mas não preparados de outro modo.
+4107;Couros preparados após curtimenta ou após secagem (<I>crusting</I>) e couros e peles apergaminhados, de bovinos (incluindo os búfalos) ou de equídeos, depilados, mesmo divididos, exceto os da posição 41.14.
+41120000;Couros preparados após curtimenta ou após secagem (<I>crusting</I>) e couros e peles apergaminhados, de ovinos, depilados, mesmo divididos, exceto os da posição 41.14.
+4113;Couros preparados após curtimenta ou após secagem (<I>crusting</I>) e couros e peles apergaminhados, de outros animais, depilados, e couros preparados após curtimenta e couros e peles apergaminhados, de animais desprovidos de pelos, mesmo divididos, exceto os da posição 41.14.
+4114;Couros e peles acamurçados (incluindo a camurça combinada); couros e peles envernizados ou revestidos; couros e peles metalizados.
+4115;Couro reconstituído, à base de couro ou de fibras de couro, em chapas, folhas ou tiras, mesmo enroladas; aparas e outros desperdícios de couros ou de peles preparados ou de couro reconstituído, não utilizáveis para fabricação de obras de couro; serragem, pó e farinha, de couro.
+420100;Artigos de seleiro ou de correeiro, para quaisquer animais (incluindo as trelas, joelheiras, focinheiras, mantas de sela, alforjes, agasalhos para cães e artigos semelhantes), de quaisquer matérias.
+4202;Baús (arcas) para viagem, malas e maletas, incluindo as maletas de toucador e as maletas e pastas de documentos e para estudantes, os estojos para óculos, binóculos, câmeras fotográficas e de filmar, instrumentos musicais, armas e artigos semelhantes; sacos de viagem, sacos isolantes para gêneros alimentícios e bebidas, bolsas de toucador, mochilas, bolsas, sacolas (sacos para compras), carteiras, porta-moedas, porta-cartões, cigarreiras, tabaqueiras, estojos para ferramentas, bolsas e sacos para artigos de esporte, estojos para frascos ou para joias, caixas para pó-de-arroz, estojos para ourivesaria e artigos semelhantes, de couro natural ou reconstituído, de folhas de plástico, de matérias têxteis, de fibra vulcanizada ou de cartão, ou recobertos, no todo ou na maior parte, dessas mesmas matérias ou de papel.
+4203;Vestuário e seus acessórios, de couro natural ou reconstituído.
+42050000;Outras obras de couro natural ou reconstituído.
+42060000;Obras de tripa, de <I>baudruches</I>, de bexiga ou de tendões.
+4301;Peles com pelo em bruto (incluindo as cabeças, caudas, patas e outras partes utilizáveis na indústria de peles), exceto as peles em bruto das posições 41.01, 41.02 ou 41.03.
+4302;Peles com pelo curtidas ou acabadas (incluindo as cabeças, caudas, patas e outras partes, desperdícios e aparas), não reunidas (não montadas) ou reunidas (montadas) sem adição de outras matérias, com exceção das da posição 43.03.
+4303;Vestuário, seus acessórios e outros artigos de peles com pelo.
+43040000;Peles com pelo artificiais, e suas obras.
+4401;Lenha em qualquer forma; madeira em estilhas ou em partículas; serragem (serradura), desperdícios e resíduos, de madeira, mesmo aglomerados em toras (toros), briquetes, <I>pellets</I> ou em formas semelhantes.
+4402;Carvão vegetal (incluindo o carvão de cascas ou de caroços), mesmo aglomerado.
+4403;Madeira em bruto, mesmo descascada, desalburnada ou esquadriada.
+4404;Arcos de madeira; estacas fendidas; estacas aguçadas, não serradas longitudinalmente; madeira simplesmente desbastada ou arredondada, não torneada, não recurvada nem trabalhada de qualquer outro modo, para fabricação de bengalas, guarda-chuvas, cabos de ferramentas e semelhantes; madeira em fasquias, lâminas, fitas e semelhantes.
+44050000;Lã de madeira; farinha de madeira.
+4406;Dormentes de madeira para vias férreas ou semelhantes.
+4407;Madeira serrada ou fendida longitudinalmente, cortada transversalmente ou desenrolada, mesmo aplainada, lixada ou unida pelas extremidades, de espessura superior a 6 mm.
+4408;Folhas para folheados (incluindo as obtidas por corte de madeira estratificada), folhas para compensados (contraplacados*) ou para madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas transversalmente ou desenroladas, mesmo aplainadas, lixadas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6 mm.
+4409;Madeira (incluindo os tacos e frisos de parquê, não montados) perfilada (com espigas, ranhuras, filetes, entalhes, chanfrada, com juntas em V, com cercadura, boleada ou semelhantes) ao longo de uma ou mais bordas, faces ou extremidades, mesmo aplainada, lixada ou unida pelas extremidades.
+4410;Painéis de partículas, painéis denominados <I>oriented strand board</I> (OSB) e painéis semelhantes (<I>waferboard</I>, por exemplo), de madeira ou de outras matérias lenhosas, mesmo aglomeradas com resinas ou com outros aglutinantes orgânicos.
+4411;Painéis de fibras de madeira ou de outras matérias lenhosas, mesmo aglomeradas com resinas ou com outros aglutinantes orgânicos.
+4412;Madeira compensada (contraplacada*), madeira folheada, e madeiras estratificadas semelhantes.
+44130000;Madeira densificada, em blocos, pranchas, lâminas ou perfis.
+44140000;Molduras de madeira para quadros, fotografias, espelhos ou objetos semelhantes.
+4415;Caixotes, caixas, engradados, barricas e embalagens semelhantes, de madeira; carretéis para cabos, de madeira; paletes simples, paletes-caixas e outros estrados para carga, de madeira; taipais de paletes de madeira.
+441600;Barris, cubas, balsas, dornas, selhas e outras obras de tanoeiro e respectivas partes de madeira, incluindo as aduelas.
+441700;Ferramentas, armações e cabos, de ferramentas, de escovas e de vassouras, de madeira; formas, alargadeiras e esticadores, para calçado, de madeira.
+4418;Obras de marcenaria e peças de carpintaria para construções, incluindo os painéis celulares, os painéis montados para revestimento de pisos (pavimentos) e as fasquias para telhados (<I>shingles</I> e <I>shakes</I>), de madeira.
+4419;Artigos de madeira para mesa ou cozinha.
+4420;Madeira marchetada e madeira incrustada; estojos e guarda-joias para joalheria e ourivesaria, e obras semelhantes, de madeira; estatuetas e outros objetos de ornamentação, de madeira; artigos de mobiliário, de madeira, que não se incluam no Capítulo 94.
+4421;Outras obras em madeira.
+4501;Cortiça natural, em bruto ou simplesmente preparada; desperdícios de cortiça; cortiça triturada, granulada ou pulverizada.
+45020000;Cortiça natural, sem a crosta ou simplesmente esquadriada, ou em cubos, chapas, folhas ou tiras, de forma quadrada ou retangular (incluindo os esboços com arestas vivas, para rolhas).
+4503;Obras de cortiça natural.
+4504;Cortiça aglomerada (mesmo com aglutinantes) e suas obras.
+4601;Tranças e artigos semelhantes, de matérias para entrançar, mesmo reunidos em tiras; matérias para entrançar, tranças e artigos semelhantes de matérias para entrançar, tecidos ou paralelizados, em formas planas, mesmo acabados (por exemplo, esteiras, capachos e divisórias).
+4602;Obras de cestaria obtidas diretamente na sua forma a partir de matérias para entrançar ou fabricadas com artigos da posição 46.01; obras de bucha (lufa*).
+47010000;Pastas mecânicas de madeira.
+47020000;Pastas químicas de madeira, para dissolução.
+4703;Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução.
+4704;Pastas químicas de madeira, ao bissulfito, exceto pastas para dissolução.
+47050000;Pastas de madeira obtidas por combinação de um tratamento mecânico com um tratamento químico.
+4706;Pastas de fibras obtidas a partir de papel ou de cartão reciclados (desperdícios e aparas) ou de outras matérias fibrosas celulósicas.
+4707;Papel ou cartão para reciclar (desperdícios e aparas).
+480100;Papel de jornal, em rolos ou em folhas.
+4802;Papel e cartão, não revestidos, do tipo utilizado para escrita, impressão ou outros fins gráficos, e papel e cartão para fabricar cartões ou tiras perfurados, não perfurados, em rolos ou em folhas de forma quadrada ou retangular, de qualquer dimensão, com exclusão do papel das posições 48.01 ou 48.03; papel e cartão feitos à mão (folha a folha).
+480300;Papel do tipo utilizado para papel de toucador, toalhas, guardanapos ou para papéis semelhantes de uso doméstico, higiênico ou toucador, pasta (<I>ouate</I>) de celulose e mantas de fibras de celulose, mesmo encrespados, plissados, gofrados, estampados, perfurados, coloridos à superfície, decorados à superfície ou impressos, em rolos ou em folhas.
+4804;Papel e cartão, <I>Kraft</I>, não revestidos, em rolos ou em folhas, exceto os das posições 48.02 e 48.03.
+4805;Outros papéis e cartões, não revestidos, em rolos ou em folhas, não tendo sofrido trabalho complementar nem tratamentos, exceto os especificados na Nota 3 do presente Capítulo.
+4806;Papel-pergaminho e cartão-pergaminho (sulfurizados), papel impermeável a gorduras, papel vegetal, papel cristal e outros papéis calandrados transparentes ou translúcidos, em rolos ou em folhas.
+48070000;Papel e cartão obtidos por colagem de folhas sobrepostas, não revestidos na superfície nem impregnados, mesmo reforçados interiormente, em rolos ou em folhas.
+4808;Papel e cartão ondulados (canelados*) (mesmo recobertos por colagem), encrespados, plissados, gofrados, estampados ou perfurados, em rolos ou em folhas, exceto o papel do tipo descrito no texto da posição 48.03.
+4809;Papel-carbono (papel químico), papel autocopiativo e outros papéis para cópia ou duplicação (incluindo os revestidos ou impregnados, para estênceis ou para chapas ofsete), mesmo impressos, em rolos ou em folhas.
+4810;Papel e cartão revestidos de caulim (caulino) ou de outras substâncias inorgânicas numa ou nas duas faces, mesmo com aglutinantes, sem qualquer outro revestimento, mesmo coloridos à superfície, decorados à superfície ou impressos, em rolos ou em folhas de forma quadrada ou retangular, de qualquer dimensão.
+4811;Papel, cartão, pasta (<I>ouate</I>) de celulose e mantas de fibras de celulose, revestidos, impregnados, recobertos, coloridos à superfície, decorados à superfície ou impressos, em rolos ou em folhas de forma quadrada ou retangular, de qualquer dimensão, exceto os produtos do tipo descrito nos textos das posições 48.03, 48.09 ou 48.10.
+48120000;Blocos e chapas, filtrantes, de pasta de papel.
+4813;Papel para cigarros, mesmo cortado nas dimensões próprias, em cadernos ou em tubos.
+4814;Papel de parede e revestimentos de parede semelhantes; papel para vitrais.
+4816;Papel-carbono (papel químico), papel autocopiativo e outros papéis para cópia ou duplicação (exceto os da posição 48.09), estênceis completos e chapas ofsete, de papel, mesmo acondicionados em caixas.
+4817;Envelopes, aerogramas, bilhetes-postais não ilustrados e cartões para correspondência, de papel ou cartão; caixas, sacos e semelhantes, de papel ou cartão, que contenham um sortido de artigos para correspondência.
+4818;Papel higiênico e papéis semelhantes, pasta (<I>ouate</I>) de celulose ou mantas de fibras de celulose, do tipo utilizado para fins domésticos ou sanitários, em rolos de largura não superior a 36 cm, ou cortados em formas próprias; lenços, incluindo os de desmaquiar, toalhas de mão, toalhas de mesa, guardanapos, lençóis e artigos semelhantes, de uso doméstico, de toucador, higiênicos ou hospitalares, vestuário e seus acessórios, de pasta de papel, papel, pasta (<I>ouate</I>) de celulose ou de mantas de fibras de celulose.
+4819;Caixas, sacos, bolsas, cartuchos e outras embalagens, de papel, cartão, pasta (<I>ouate</I>) de celulose ou de mantas de fibras de celulose; cartonagens para escritórios, lojas e estabelecimentos semelhantes.
+4820;Livros de registro e de contabilidade, blocos de notas, de encomendas, de recibos, de apontamentos, de papel para cartas, agendas e artigos semelhantes, cadernos, pastas para documentos, classificadores, capas para encadernação (de folhas soltas ou outras), capas de processos e outros artigos escolares, de escritório ou de papelaria, incluindo os formulários em blocos tipo <I>manifold</I>, mesmo com folhas intercaladas de papel-carbono (papel químico), de papel ou cartão; álbuns para amostras ou para coleções e capas para livros, de papel ou cartão.
+4821;Etiquetas de qualquer espécie, de papel ou cartão, impressas ou não.
+4822;Carretéis, bobinas, canelas e suportes semelhantes, de pasta de papel, papel ou cartão, mesmo perfurados ou endurecidos.
+4823;Outros papéis, cartões, pasta (<I>ouate</I>) de celulose e mantas de fibras de celulose, cortados em forma própria; outras obras de pasta de papel, papel, cartão, pasta (<I>ouate</I>) de celulose ou de mantas de fibras de celulose.
+4901;Livros, brochuras e impressos semelhantes, mesmo em folhas soltas.
+4902;Jornais e publicações periódicas, impressos, mesmo ilustrados ou que contenham publicidade.
+49030000;Álbuns ou livros de ilustrações e álbuns para desenhar ou colorir, para crianças.
+49040000;Música manuscrita ou impressa, ilustrada ou não, mesmo encadernada.
+4905;Obras cartográficas de qualquer espécie, incluindo as cartas murais, as plantas topográficas e os globos, impressos.
+49060000;Planos, plantas e desenhos, de arquitetura, de engenharia e outros planos e desenhos industriais, comerciais, topográficos ou semelhantes, originais, feitos à mão; textos manuscritos; reproduções fotográficas em papel sensibilizado e cópias a papel-carbono (papel químico) dos planos, plantas, desenhos ou textos acima referidos.
+490700;Selos postais, fiscais e semelhantes, não obliterados, tendo ou destinando-se a ter curso legal no país em que têm, ou terão, um valor facial reconhecido; papel selado; notas; cheques; certificados de ações ou de obrigações e títulos semelhantes.
+4908;Decalcomanias de qualquer espécie.
+49090000;Cartões-postais impressos ou ilustrados; cartões impressos com votos ou mensagens pessoais, mesmo ilustrados, mesmo com envelopes, guarnições ou aplicações.
+49100000;Calendários de qualquer espécie, impressos, incluindo os blocos-calendários para desfolhar.
+4911;Outros impressos, incluindo as estampas, gravuras e fotografias.
+50010000;Casulos de bicho-da-seda próprios para dobar.
+50020000;Seda crua (não fiada).
+500300;Desperdícios de seda (incluindo os casulos de bicho-da-seda impróprios para dobar, os desperdícios de fios e os fiapos).
+50040000;Fios de seda (exceto fios de desperdícios de seda) não acondicionados para venda a retalho.
+50050000;Fios de desperdícios de seda, não acondicionados para venda a retalho.
+50060000;Fios de seda ou de desperdícios de seda, acondicionados para venda a retalho; pelo de Messina (crina de Florença).
+5007;Tecidos de seda ou de desperdícios de seda.
+5101;Lã não cardada nem penteada.
+5102;Pelos finos ou grosseiros, não cardados nem penteados.
+5103;Desperdícios de lã ou de pelos finos ou grosseiros, incluindo os desperdícios de fios e excluindo os fiapos.
+51040000;Fiapos de lã ou de pelos finos ou grosseiros.
+5105;Lã, pelos finos ou grosseiros, cardados ou penteados (incluindo a "lã penteada a granel").
+5106;Fios de lã cardada, não acondicionados para venda a retalho.
+5107;Fios de lã penteada, não acondicionados para venda a retalho.
+5108;Fios de pelos finos, cardados ou penteados, não acondicionados para venda a retalho.
+5109;Fios de lã ou de pelos finos, acondicionados para venda a retalho.
+51100000;Fios de pelos grosseiros ou de crina (incluindo os fios de crina revestidos por enrolamento), mesmo acondicionados para venda a retalho.
+5111;Tecidos de lã cardada ou de pelos finos cardados.
+5112;Tecidos de lã penteada ou de pelos finos penteados.
+511300;Tecidos de pelos grosseiros ou de crina.
+520100;Algodão não cardado nem penteado.
+5202;Desperdícios de algodão (incluindo os desperdícios de fios e os fiapos).
+52030000;Algodão cardado ou penteado.
+5204;Linhas para costurar, de algodão, mesmo acondicionadas para venda a retalho.
+5205;Fios de algodão (exceto linhas para costurar) que contenham pelo menos 85 %, em peso, de algodão, não acondicionados para venda a retalho.
+5206;Fios de algodão (exceto linhas para costurar) que contenham menos de 85 %, em peso, de algodão, não acondicionados para venda a retalho.
+5207;Fios de algodão (exceto linhas para costurar) acondicionados para venda a retalho.
+5208;Tecidos de algodão que contenham pelo menos 85 %, em peso, de algodão, de peso não superior a 200 g/m<SUP>2</SUP>.
+5209;Tecidos de algodão que contenham pelo menos 85 %, em peso, de algodão, de peso superior a 200 g/m<SUP>2</SUP>.
+5210;Tecidos de algodão que contenham menos de 85 %, em peso, de algodão, combinados, principal ou unicamente, com fibras sintéticas ou artificiais, de peso não superior a 200 g/m<SUP>2</SUP>.
+5211;Tecidos de algodão que contenham menos de 85 %, em peso, de algodão, combinados, principal ou unicamente, com fibras sintéticas ou artificiais, de peso superior a 200 g/m<SUP>2</SUP>.
+5212;Outros tecidos de algodão.
+5301;Linho em bruto ou trabalhado, mas não fiado; estopas e desperdícios de linho (incluindo os desperdícios de fios e os fiapos).
+5302;Cânhamo (<I>Cannabis sativa L.</I>), em bruto ou trabalhado, mas não fiado; estopas e desperdícios de cânhamo (incluindo os desperdícios de fios e os fiapos).
+5303;Juta e outras fibras têxteis liberianas (exceto linho, cânhamo e rami), em bruto ou trabalhadas, mas não fiadas; estopas e desperdícios destas fibras (incluindo os desperdícios de fios e os fiapos).
+530500;Cairo (fibra de coco), abacá (cânhamo-de-manilha ou <I>Musa textilis Nee</I>), rami e outras fibras têxteis vegetais não especificadas nem compreendidas noutras posições, em bruto ou trabalhados, mas não fiados; estopas e desperdícios destas fibras (incluindo os desperdícios de fios e os fiapos).
+5306;Fios de linho.
+5307;Fios de juta ou de outras fibras têxteis liberianas da posição 53.03.
+5308;Fios de outras fibras têxteis vegetais; fios de papel.
+5309;Tecidos de linho.
+5310;Tecidos de juta ou de outras fibras têxteis liberianas da posição 53.03.
+53110000;Tecidos de outras fibras têxteis vegetais; tecidos de fios de papel.
+5401;Linhas para costurar de filamentos sintéticos ou artificiais, mesmo acondicionadas para venda a retalho.
+5402;Fios de filamentos sintéticos (exceto linhas para costurar), não acondicionados para venda a retalho, incluindo os monofilamentos sintéticos de título inferior a 67 decitex.
+5403;Fios de filamentos artificiais (exceto linhas para costurar), não acondicionados para venda a retalho, incluindo os monofilamentos artificiais de título inferior a 67 decitex.
+5404;Monofilamentos sintéticos, de título igual ou superior a 67 decitex e cuja maior dimensão da seção transversal não seja superior a 1 mm; lâminas e formas semelhantes (palha artificial, por exemplo) de matérias têxteis sintéticas, cuja largura aparente não seja superior a 5 mm.
+54050000;Monofilamentos artificiais, de título igual ou superior a 67 decitex e cuja maior dimensão da seção transversal não seja superior a 1 mm; lâminas e formas semelhantes (palha artificial, por exemplo) de matérias têxteis artificiais, cuja largura aparente não seja superior a 5 mm.
+540600;Fios de filamentos sintéticos ou artificiais (exceto linhas para costurar), acondicionados para venda a retalho.
+5407;Tecidos de fios de filamentos sintéticos, incluindo os tecidos obtidos a partir dos produtos da posição 54.04.
+5408;Tecidos de fios de filamentos artificiais, incluindo os tecidos obtidos a partir dos produtos da posição 54.05.
+5501;Cabos de filamentos sintéticos.
+5502;Cabos de filamentos artificiais.
+5503;Fibras sintéticas descontínuas, não cardadas, não penteadas nem transformadas de outro modo para fiação.
+5504;Fibras artificiais descontínuas, não cardadas, não penteadas nem transformadas de outro modo para fiação.
+5505;Desperdícios de fibras sintéticas ou artificiais (incluindo os desperdícios da penteação, os de fios e os fiapos).
+5506;Fibras sintéticas descontínuas, cardadas, penteadas ou transformadas de outro modo para fiação.
+55070000;Fibras artificiais descontínuas, cardadas, penteadas ou transformadas de outro modo para fiação.
+5508;Linhas para costurar, de fibras sintéticas ou artificiais descontínuas, mesmo acondicionadas para venda a retalho.
+5509;Fios de fibras sintéticas descontínuas (exceto linhas para costurar), não acondicionados para venda a retalho.
+5510;Fios de fibras artificiais descontínuas (exceto linhas para costurar), não acondicionados para venda a retalho.
+5511;Fios de fibras sintéticas ou artificiais, descontínuas (exceto linhas para costurar), acondicionados para venda a retalho.
+5512;Tecidos de fibras sintéticas descontínuas, que contenham pelo menos 85 %, em peso, destas fibras.
+5513;Tecidos de fibras sintéticas descontínuas, que contenham menos de 85 %, em peso, destas fibras, combinados, principal ou unicamente, com algodão, de peso não superior a 170 g/m<SUP>2</SUP>.
+5514;Tecidos de fibras sintéticas descontínuas, que contenham menos de 85 %, em peso, destas fibras, combinados, principal ou unicamente, com algodão, de peso superior a 170 g/m<SUP>2</SUP>.
+5515;Outros tecidos de fibras sintéticas descontínuas.
+5516;Tecidos de fibras artificiais descontínuas.
+5601;Pastas (<I>ouates</I>) de matérias têxteis e artigos destas pastas (<I>ouates</I>); fibras têxteis de comprimento não superior a 5 mm (<I>tontisses</I>), nós e bolotas (borbotos*) de matérias têxteis.
+5602;Feltros, mesmo impregnados, revestidos, recobertos ou estratificados.
+5603;Falsos tecidos, mesmo impregnados, revestidos, recobertos ou estratificados.
+5604;Fios e cordas, de borracha, recobertos de têxteis; fios têxteis, lâminas e formas semelhantes das posições 54.04 ou 54.05, impregnados, revestidos, recobertos ou embainhados de borracha ou de plástico.
+560500;Fios metálicos e fios metalizados, mesmo revestidos por enrolamento, constituídos por fios têxteis, lâminas ou formas semelhantes das posições 54.04 ou 54.05, combinados com metal sob a forma de fios, de lâminas ou de pós, ou recobertos de metal.
+56060000;Fios revestidos por enrolamento, lâminas e formas semelhantes das posições 54.04 ou 54.05, revestidas por enrolamento, exceto os da posição 56.05 e os fios de crina revestidos por enrolamento; fios de froco (<I>chenille</I>); fios denominados "de cadeia" (<I>chaînette</I>).
+5607;Cordéis, cordas e cabos, entrançados ou não, mesmo impregnados, revestidos, recobertos ou embainhados de borracha ou de plástico.
+5608;Redes de malhas com nós, em panos ou em peça, obtidas a partir de cordéis, cordas ou cabos; redes confeccionadas para a pesca e outras redes confeccionadas, de matérias têxteis.
+560900;Artigos de fios, lâminas ou formas semelhantes das posições 54.04 ou 54.05, cordéis, cordas ou cabos, não especificados nem compreendidos noutras posições.
+5701;Tapetes de matérias têxteis, de pontos nodados ou enrolados, mesmo confeccionados.
+5702;Tapetes e outros revestimentos para pisos (pavimentos), de matérias têxteis, tecidos, não tufados nem flocados, mesmo confeccionados, incluindo os tapetes denominados <I>Kelim</I> ou <I>Kilim</I>, <I>Schumacks</I> ou <I>Soumak</I>, <I>Karamanie</I> e tapetes semelhantes tecidos à mão.
+5703;Tapetes e outros revestimentos para pisos (pavimentos), de matérias têxteis, tufados, mesmo confeccionados.
+5704;Tapetes e outros revestimentos para pisos (pavimentos), de feltro, exceto os tufados e os flocados, mesmo confeccionados.
+57050000;Outros tapetes e revestimentos para pisos (pavimentos), de matérias têxteis, mesmo confeccionados.
+5801;Veludos e pelúcias tecidos e tecidos de froco (<I>chenille</I>), exceto os artigos das posições 58.02 ou 58.06.
+5802;Tecidos atoalhados (turcos*), exceto os artigos da posição 58.06; tecidos tufados, exceto os artigos da posição 57.03.
+580300;Tecidos em ponto de gaze, exceto os artigos da posição 58.06.
+5804;Tules, filó e tecidos de malhas com nós; rendas em peça, em tiras ou em motivos, para aplicar, exceto os produtos das posições 60.02 a 60.06.
+580500;Tapeçarias tecidas à mão (gênero gobelino, flandres, <I>aubusson</I>, <I>beauvais</I> e semelhantes) e tapeçarias feitas a agulha (por exemplo, em <I>petit point</I>, ponto de cruz), mesmo confeccionadas.
+5806;Fitas, exceto os artigos da posição 58.07; fitas sem trama, de fios ou fibras paralelizados e colados (<I>bolducs</I>).
+5807;Etiquetas, emblemas e artigos semelhantes de matérias têxteis, em peça, em fitas ou recortados em forma própria, não bordados.
+5808;Tranças em peça; artigos de passamanaria e artigos ornamentais análogos, em peça, não bordados, exceto de malha; borlas, pompons e artigos semelhantes.
+58090000;Tecidos de fios de metal e tecidos de fios metálicos ou de fios têxteis metalizados da posição 56.05, do tipo utilizado em vestuário, para guarnição de interiores ou usos semelhantes, não especificados nem compreendidos noutras posições.
+5810;Bordados em peça, em tiras ou em motivos.
+58110000;Artigos têxteis matelassês (acolchoados*) em peça, constituídos por uma ou várias camadas de matérias têxteis associadas a uma matéria de enchimento ou estofamento, acolchoados por qualquer processo, exceto os bordados da posição 58.10.
+5901;Tecidos revestidos de cola ou de matérias amiláceas, do tipo utilizado na encadernação, cartonagem ou usos semelhantes; telas para decalque e telas transparentes para desenho; telas preparadas para pintura; entretelas e tecidos rígidos semelhantes, do tipo utilizado em chapéus e artigos de uso semelhante.
+5902;Telas para pneumáticos fabricadas com fios de alta tenacidade de náilon ou de outras poliamidas, de poliésteres ou de raiom viscose.
+5903;Tecidos impregnados, revestidos, recobertos ou estratificados, com plástico, exceto os da posição 59.02.
+5904;Linóleos, mesmo recortados; revestimentos para pisos (pavimentos) constituídos por um induto ou recobrimento aplicado sobre suporte têxtil, mesmo recortados.
+59050000;Revestimentos para paredes, de matérias têxteis.
+5906;Tecidos com borracha, exceto os da posição 59.02.
+59070000;Outros tecidos impregnados, revestidos ou recobertos; telas pintadas para cenários teatrais, para fundos de estúdio ou para usos semelhantes.
+59080000;Mechas de matérias têxteis, tecidas, entrançadas ou tricotadas, para candeeiros, fogareiros, isqueiros, velas e semelhantes; camisas de incandescência e tecidos tubulares tricotados para a sua fabricação, mesmo impregnados.
+59090000;Mangueiras e tubos semelhantes, de matérias têxteis, mesmo com reforço ou acessórios de outras matérias.
+59100000;Correias transportadoras ou de transmissão, de matérias têxteis, mesmo impregnadas, revestidas ou recobertas, de plástico, ou estratificadas com plástico ou reforçadas com metal ou com outras matérias.
+5911;Produtos e artigos, de matérias têxteis, para usos técnicos, indicados na Nota 7 do presente Capítulo.
+6001;Veludos e pelúcias (incluindo os tecidos denominados de "felpa longa" ou "pelo comprido") e tecidos de anéis, de malha.
+6002;Tecidos de malha de largura não superior a 30 cm, que contenham, em peso, 5 % ou mais de fios de elastômeros ou de fios de borracha, exceto os da posição 60.01.
+6003;Tecidos de malha de largura não superior a 30 cm, exceto os das posições 60.01 e 60.02.
+6004;Tecidos de malha de largura superior a 30 cm, que contenham, em peso, 5 % ou mais de fios de elastômeros ou de fios de borracha, exceto os da posição 60.01.
+6005;Tecidos de malha-urdidura (incluindo os fabricados em teares para galões), exceto os das posições 60.01 a 60.04.
+6006;Outros tecidos de malha.
+6101;Sobretudos, japonas, gabões, capas, anoraques, casacos (blusões*) e semelhantes, de malha, de uso masculino, exceto os artigos da posição 61.03.
+6102;Mantôs (Casacos compridos*), capas, anoraques, casacos (blusões*) e semelhantes, de malha, de uso feminino, exceto os artigos da posição 61.04.
+6103;Ternos (Fatos*), conjuntos, paletós (casacos*), calças, jardineiras, bermudas e <I>shorts</I> (calções) (exceto de banho), de malha, de uso masculino.
+6104;<I>Tailleurs</I> (Fatos de saia-casaco*), conjuntos, <I>blazers</I> (casacos*), vestidos, saias, saias-calças, calças, jardineiras, bermudas e <I>shorts</I> (calções) (exceto de banho), de malha, de uso feminino.
+6105;Camisas de malha, de uso masculino.
+6106;Camisas (Camiseiros*), blusas, blusas <I>chemisiers</I> (blusas-camiseiros*), de malha, de uso feminino.
+6107;Cuecas, ceroulas, camisolões (camisas de noite*), pijamas, roupões de banho, robes e semelhantes, de malha, de uso masculino.
+6108;Combinações, anáguas (saiotes), calcinhas, camisolas (camisas de noite*), pijamas, <I>déshabillés</I>, roupões de banho, penhoares (robes de quarto*) e semelhantes, de malha, de uso feminino.
+6109;Camisetas (T-shirts*), camisetas interiores (camisolas interiores*), e artigos semelhantes, de malha.
+6110;Suéteres (Camisolas*), pulôveres, cardigãs, coletes e artigos semelhantes, de malha.
+6111;Vestuário e seus acessórios, de malha, para bebês.
+6112;Abrigos para esporte (Fatos de treino para desporto*), macacões (fatos-macacos*) e conjuntos, de esqui, maiôs (fatos de banho*), biquinis, <I>shorts</I> (calções) e sungas (slips*) de banho, de malha.
+61130000;Vestuário confeccionado com tecidos de malha das posições 59.03, 59.06 ou 59.07.
+6114;Outro vestuário de malha.
+6115;Meias-calças, meias acima do joelho, meias até o joelho e artigos semelhantes, incluindo as meias-calças, meias acima do joelho e meias até o joelho, de compressão degressiva (as meias para varizes, por exemplo), de malha.
+6116;Luvas, mitenes e semelhantes, de malha.
+6117;Outros acessórios de vestuário, confeccionados, de malha; partes de vestuário ou de seus acessórios, de malha.
+6201;Sobretudos, japonas, gabões, capas, anoraques, casacos (blusões*) e semelhantes, de uso masculino, exceto os artigos da posição 62.03.
+6202;Mantôs (Casacos compridos*), capas, anoraques, casacos (blusões*) e semelhantes, de uso feminino, exceto os artigos da posição 62.04.
+6203;Ternos (Fatos*), conjuntos, paletós (casacos*), calças, jardineiras, bermudas e <I>shorts</I> (calções) (exceto de banho), de uso masculino.
+6204;<I>Tailleurs</I> (Fatos de saia-casaco*), conjuntos, <I>blazers</I> (casacos*), vestidos, saias, saias-calças, calças, jardineiras, bermudas e <I>shorts</I> (calções) (exceto de banho), de uso feminino.
+6205;Camisas de uso masculino.
+6206;Camisas (Camiseiros*), blusas, blusas <I>chemisiers</I> (blusas-camiseiros*), de uso feminino.
+6207;Camisetas interiores (Camisolas interiores*), cuecas, ceroulas, camisolões (camisas de noite*), pijamas, roupões de banho, robes, e artigos semelhantes, de uso masculino.
+6208;Corpetes (Camisolas interiores*), combinações, anáguas (saiotes), calcinhas, camisolas (camisas de noite*), pijamas, <I>déshabillés</I>, roupões de banho, penhoares (robes de quarto*), e artigos semelhantes, de uso feminino.
+6209;Vestuário e seus acessórios, para bebês.
+6210;Vestuário confeccionado com as matérias das posições 56.02, 56.03, 59.03, 59.06 ou 59.07.
+6211;Abrigos para esporte (Fatos de treino para desporto*), macacões (fatos-macacos*) e conjuntos de esqui, maiôs (fatos de banho*), biquinis, <I>shorts</I> (calções) e sungas (slips*) de banho; outro vestuário.
+6212;Sutiãs, cintas, espartilhos, suspensórios, ligas e artigos semelhantes, e suas partes, mesmo de malha.
+6213;Lenços de assoar e de bolso.
+6214;Xales, echarpes, lenços de pescoço, cachenês, cachecóis, mantilhas, véus e artigos semelhantes.
+6215;Gravatas, gravatas-borboletas (laços*) e <I>plastrons</I> (plastrãos*).
+62160000;Luvas, mitenes e semelhantes.
+6217;Outros acessórios confeccionados de vestuário; partes de vestuário ou dos seus acessórios, exceto as da posição 62.12.
+6301;Cobertores e mantas.
+6302;Roupas de cama, mesa, toucador ou cozinha.
+6303;Cortinados, cortinas, reposteiros e estores; sanefas.
+6304;Outros artigos para guarnição de interiores, exceto os da posição 94.04.
+6305;Sacos de quaisquer dimensões, para embalagem.
+6306;Encerados e toldos; tendas; velas para embarcações, para pranchas à vela ou para carros à vela; artigos para acampamento.
+6307;Outros artigos confeccionados, incluindo os moldes para vestuário.
+63080000;Sortidos constituídos por cortes de tecido e fios, mesmo com acessórios, para confecção de tapetes, tapeçarias, toalhas de mesa ou guardanapos, bordados, ou artigos têxteis semelhantes, em embalagens para venda a retalho.
+630900;Artigos de matérias têxteis e artigos de uso semelhante, usados.
+6310;Trapos, cordéis, cordas e cabos, de matérias têxteis, em forma de desperdícios ou de artigos inutilizados.
+6401;Calçado impermeável de sola exterior e parte superior de borracha ou plástico, em que a parte superior não tenha sido reunida à sola exterior por costura ou por meio de rebites, pregos, parafusos, espigões ou dispositivos semelhantes, nem formada por diferentes partes reunidas pelos mesmos processos.
+6402;Outro calçado com sola exterior e parte superior de borracha ou plástico.
+6403;Calçado com sola exterior de borracha, plástico, couro natural ou reconstituído e parte superior de couro natural.
+6404;Calçado com sola exterior de borracha, plástico, couro natural ou reconstituído e parte superior de matérias têxteis.
+6405;Outro calçado.
+6406;Partes de calçado (incluindo as partes superiores, mesmo fixadas a solas que não sejam as solas exteriores); palmilhas, reforços interiores e artigos semelhantes, amovíveis; polainas, perneiras e artigos semelhantes, e suas partes.
+65010000;Esboços não enformados nem na copa nem na aba, discos e cilindros, mesmo cortados no sentido da altura, de feltro, para chapéus.
+650200;Esboços de chapéus, entrançados ou obtidos por reunião de tiras de qualquer matéria, sem copa nem aba enformadas e sem guarnições.
+650400;Chapéus e outros artigos de uso semelhante, entrançados ou obtidos por reunião de tiras, de qualquer matéria, mesmo guarnecidos.
+650500;Chapéus e outros artigos de uso semelhante, de malha ou confeccionados com rendas, feltro ou outros produtos têxteis, em peça (mas não em tiras), mesmo guarnecidos; coifas e redes, para o cabelo, de qualquer matéria, mesmo guarnecidas.
+6506;Outros chapéus e artigos de uso semelhante, mesmo guarnecidos.
+65070000;Carneiras, forros, capas, armações, palas e barbicachos (francaletes*), para chapéus e artigos de uso semelhante.
+6601;Guarda-chuvas, sombrinhas e guarda-sóis (incluindo as bengalas-guarda-chuvas e os guarda-sóis de jardim e semelhantes).
+66020000;Bengalas, bengalas-assentos, chicotes, pingalins e artigos semelhantes.
+6603;Partes, guarnições e acessórios, para os artigos das posições 66.01 ou 66.02.
+67010000;Peles e outras partes de aves, com as suas penas ou penugem, penas, partes de penas, penugem e artigos destas matérias, exceto os produtos da posição 05.05, bem como os cálamos e outros canos de penas, trabalhados.
+6702;Flores, folhagem e frutos, artificiais, e suas partes; artigos confeccionados com flores, folhagem e frutos, artificiais.
+67030000;Cabelo disposto no mesmo sentido, adelgaçado, branqueado ou preparado de outro modo; lã, pelos e outras matérias têxteis, preparados para a fabricação de perucas ou de artigos semelhantes.
+6704;Perucas, barbas, sobrancelhas, pestanas, madeixas e artigos semelhantes, de cabelo, pelos ou de matérias têxteis; outras obras de cabelo não especificadas nem compreendidas noutras posições.
+68010000;Pedras para calcetar, meios-fios (lancis*) e placas (lajes) para pavimentação, de pedra natural (exceto a ardósia).
+6802;Pedras de cantaria ou de construção (exceto de ardósia) trabalhadas e obras destas pedras, exceto as da posição 68.01; cubos, pastilhas e artigos semelhantes, para mosaicos, de pedra natural (incluindo a ardósia), mesmo com suporte; grânulos, fragmentos e pós, de pedra natural (incluindo a ardósia), corados artificialmente.
+68030000;Ardósia natural trabalhada e obras de ardósia natural ou aglomerada.
+6804;Mós e artigos semelhantes, sem armação, para moer, desfibrar, triturar, amolar, polir, retificar ou cortar; pedras para amolar ou para polir, manualmente, e suas partes, de pedras naturais, de abrasivos naturais ou artificiais aglomerados ou de cerâmica, mesmo com partes de outras matérias.
+6805;Abrasivos naturais ou artificiais, em pó ou em grãos, aplicados sobre matérias têxteis, papel, cartão ou outras matérias, mesmo recortados, costurados ou reunidos de outro modo.
+6806;Lãs de escórias de altos-fornos, lãs de outras escórias, lã de rocha e lãs minerais semelhantes; vermiculita e argilas, expandidas, espuma de escórias e produtos minerais semelhantes, expandidos; misturas e obras de matérias minerais para isolamento do calor e do som ou para absorção do som, exceto as das posições 68.11, 68.12 ou do Capítulo 69.
+6807;Obras de asfalto ou de produtos semelhantes (por exemplo, breu ou pez).
+68080000;Painéis, chapas, ladrilhos, blocos e semelhantes, de fibras vegetais, palha ou aparas, partículas, serragem (serradura) ou outros desperdícios de madeira, aglomerados com cimento, gesso ou outros aglutinantes minerais.
+6809;Obras de gesso ou de composições à base de gesso.
+6810;Obras de cimento, de concreto (betão*) ou de pedra artificial, mesmo armadas.
+6811;Obras de fibrocimento, cimento-celulose ou produtos semelhantes.
+6812;Amianto trabalhado, em fibras; misturas à base de amianto ou à base de amianto e carbonato de magnésio; obras destas misturas ou de amianto (por exemplo, fios, tecidos, vestuário, chapéus e artigos de uso semelhante, calçado, juntas), mesmo armadas, exceto as das posições 68.11 ou 68.13.
+6813;Guarnições de fricção (por exemplo, placas, rolos, tiras, segmentos, discos, anéis, pastilhas), não montadas, para freios (travões), embreagens ou qualquer outro mecanismo de fricção, à base de amianto, de outras substâncias minerais ou de celulose, mesmo combinadas com têxteis ou outras matérias.
+6814;Mica trabalhada e obras de mica, incluindo a mica aglomerada ou reconstituída, mesmo com suporte de papel, de cartão ou de outras matérias.
+6815;Obras de pedra ou de outras matérias minerais (incluindo as fibras de carbono, as obras destas matérias e as de turfa), não especificadas nem compreendidas noutras posições.
+69010000;Tijolos, placas (lajes), ladrilhos e outras peças cerâmicas de farinhas siliciosas fósseis (por exemplo, <I>kieselguhr</I>, tripolita, diatomita) ou de terras siliciosas semelhantes.
+6902;Tijolos, placas (lajes), ladrilhos e peças cerâmicas semelhantes, para construção, refratários, que não sejam de farinhas siliciosas fósseis nem de terras siliciosas semelhantes.
+6903;Outros produtos cerâmicos refratários (por exemplo, retortas, cadinhos, muflas, bocais, tampões, suportes, copelas, tubos, mangas, varetas) que não sejam de farinhas siliciosas fósseis nem de terras siliciosas semelhantes.
+6904;Tijolos para construção, tijoleiras, tapa-vigas e produtos semelhantes, de cerâmica.
+6905;Telhas, elementos de chaminés, condutores de fumaça (fumo*), ornamentos arquitetônicos, de cerâmica, e outros produtos cerâmicos para construção.
+69060000;Tubos, calhas ou algerozes e acessórios para canalizações, de cerâmica.
+6907;Ladrilhos e placas (lajes), para pavimentação ou revestimento, de cerâmica; cubos, pastilhas e artigos semelhantes, para mosaicos, de cerâmica, mesmo com suporte; peças de acabamento, de cerâmica.
+6909;Aparelhos e artigos para usos químicos ou para outros usos técnicos, de cerâmica; alguidares, gamelas e outros recipientes semelhantes para usos rurais, de cerâmica; bilhas e outras vasilhas próprias para transporte ou embalagem, de cerâmica.
+6910;Pias, lavatórios, colunas para lavatórios, banheiras, bidés, sanitários, caixas de descarga (autoclismos*), mictórios e aparelhos fixos semelhantes para usos sanitários, de cerâmica.
+6911;Serviços de mesa, artigos de cozinha, outros artigos de uso doméstico e artigos de higiene ou de toucador, de porcelana.
+69120000;Serviços de mesa, artigos de cozinha, outros artigos de uso doméstico e artigos de higiene ou de toucador, de cerâmica, exceto de porcelana.
+6913;Estatuetas e outros objetos de ornamentação, de cerâmica.
+6914;Outras obras de cerâmica.
+70010000;Cacos, fragmentos e outros desperdícios e resíduos de vidro; vidro em blocos ou massas.
+7002;Vidro em esferas (exceto as microsferas da posição 70.18), barras, varetas ou tubos, não trabalhado.
+7003;Vidro vazado ou laminado, em chapas, folhas ou perfis, mesmo com camada absorvente, refletora ou não, mas não trabalhado de outro modo.
+7004;Vidro estirado ou soprado, em folhas, mesmo com camada absorvente, refletora ou não, mas não trabalhado de outro modo.
+7005;Vidro flotado e vidro desbastado ou polido numa ou em ambas as faces, em chapas ou em folhas, mesmo com camada absorvente, refletora ou não, mas não trabalhado de outro modo.
+70060000;Vidro das posições 70.03, 70.04 ou 70.05, recurvado, biselado, gravado, brocado, esmaltado ou trabalhado de outro modo, mas não emoldurado nem associado a outras matérias.
+7007;Vidros de segurança consistindo em vidros temperados ou formados por folhas contracoladas.
+70080000;Vidros isolantes de paredes múltiplas.
+7009;Espelhos de vidro, mesmo emoldurados, incluindo os espelhos retrovisores.
+7010;Garrafões, garrafas, frascos, boiões, vasos, embalagens tubulares, ampolas e outros recipientes de vidro próprios para transporte ou embalagem; boiões de vidro para conservas; rolhas, tampas e outros dispositivos para fechar recipientes, de vidro.
+7011;Ampolas e invólucros, mesmo tubulares, abertos, e suas partes, de vidro, sem guarnições, para lâmpadas elétricas, tubos catódicos ou semelhantes.
+7013;Objetos de vidro para serviço de mesa, cozinha, toucador, escritório, ornamentação de interiores ou usos semelhantes (exceto os das posições 70.10 ou 70.18).
+70140000;Artigos de vidro para sinalização e elementos de óptica de vidro (exceto os da posição 70.15), não trabalhados opticamente.
+7015;Vidros de relojoaria e vidros semelhantes, vidros para lentes, mesmo corretivas, curvos ou arqueados, ocos ou semelhantes, não trabalhados opticamente; esferas ocas e segmentos de esferas, de vidro, para fabricação desses vidros.
+7016;Blocos, placas, tijolos, ladrilhos, telhas e outros artigos, de vidro prensado ou moldado, mesmo armado, para construção; cubos, pastilhas e outros artigos semelhantes, de vidro, mesmo com suporte, para mosaicos ou decorações semelhantes; vitrais de vidro; vidro denominado "multicelular" ou "espuma" de vidro, em blocos, painéis, chapas e conchas ou formas semelhantes.
+7017;Artigos de vidro para laboratório, higiene ou farmácia, mesmo graduados ou calibrados.
+7018;Contas, imitações de pérolas naturais ou cultivadas, imitações de pedras preciosas ou semipreciosas e artigos semelhantes, de vidro e suas obras, exceto bijuterias; olhos de vidro, exceto de prótese; estatuetas e outros objetos de ornamentação, de vidro trabalhado a maçarico, exceto bijuterias; microsferas de vidro, de diâmetro não superior a 1 mm.
+7019;Fibras de vidro (incluindo a lã de vidro) e suas obras (por exemplo, fios, tecidos).
+702000;Outras obras de vidro.
+7101;Pérolas naturais ou cultivadas, mesmo trabalhadas ou combinadas, mas não enfiadas, nem montadas, nem engastadas; pérolas naturais ou cultivadas, enfiadas temporariamente para facilidade de transporte.
+7102;Diamantes, mesmo trabalhados, mas não montados nem engastados.
+7103;Pedras preciosas (exceto diamantes) ou semipreciosas, mesmo trabalhadas ou combinadas, mas não enfiadas, nem montadas, nem engastadas; pedras preciosas (exceto diamantes) ou semipreciosas, não combinadas, enfiadas temporariamente para facilidade de transporte.
+7104;Pedras sintéticas ou reconstituídas, mesmo trabalhadas ou combinadas, mas não enfiadas, nem montadas, nem engastadas; pedras sintéticas ou reconstituídas, não combinadas, enfiadas temporariamente para facilidade de transporte.
+7105;Pó de diamantes, de pedras preciosas ou semipreciosas ou de pedras sintéticas.
+7106;Prata (incluindo a prata dourada ou platinada), em formas brutas ou semimanufaturadas, ou em pó.
+71070000;Metais comuns folheados ou chapeados (plaquê) de prata, em formas brutas ou semimanufaturadas.
+7108;Ouro (incluindo o ouro platinado), em formas brutas ou semimanufaturadas, ou em pó.
+71090000;Metais comuns ou prata, folheados ou chapeados (plaquê) de ouro, em formas brutas ou semimanufaturadas.
+7110;Platina, em formas brutas ou semimanufaturadas, ou em pó.
+71110000;Metais comuns, prata ou ouro, folheados ou chapeados (plaquê) de platina, em formas brutas ou semimanufaturadas.
+7112;Desperdícios e resíduos de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê); outros desperdícios e resíduos que contenham metais preciosos ou compostos de metais preciosos, do tipo utilizado principalmente para a recuperação de metais preciosos.
+7113;Artigos de joalheria e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê).
+7114;Artigos de ourivesaria e suas partes, de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê).
+7115;Outras obras de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê).
+7116;Obras de pérolas naturais ou cultivadas, de pedras preciosas ou semipreciosas ou de pedras sintéticas ou reconstituídas.
+7117;Bijuterias.
+7118;Moedas.
+7201;Ferro fundido bruto e ferro <I>spiegel</I> (especular), em lingotes, linguados ou outras formas primárias.
+7202;Ferro-ligas.
+7203;Produtos ferrosos obtidos por redução direta dos minérios de ferro e outros produtos ferrosos esponjosos, em pedaços, esferas ou formas semelhantes; ferro de pureza mínima, em peso, de 99,94 %, em pedaços, esferas ou formas semelhantes.
+7204;Desperdícios e resíduos, e sucata, de ferro fundido, ferro ou aço; desperdícios e resíduos, em lingotes, de ferro ou aço.
+7205;Granalhas e pós de ferro fundido bruto, de ferro <I>spiegel</I> (especular), de ferro ou aço.
+7206;Ferro e aço não ligado, em lingotes ou outras formas primárias, exceto o ferro da posição 72.03.
+7207;Produtos semimanufaturados de ferro ou aço não ligado.
+7208;Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 600 mm, laminados a quente, não folheados ou chapeados, nem revestidos.
+7209;Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 600 mm, laminados a frio, não folheados ou chapeados, nem revestidos.
+7210;Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 600 mm, folheados ou chapeados, ou revestidos.
+7211;Produtos laminados planos, de ferro ou aço não ligado, de largura inferior a 600 mm, não folheados ou chapeados, nem revestidos.
+7212;Produtos laminados planos, de ferro ou aço não ligado, de largura inferior a 600 mm, folheados ou chapeados, ou revestidos.
+7213;Fio-máquina de ferro ou aço não ligado.
+7214;Barras de ferro ou aço não ligado, simplesmente forjadas, laminadas, estiradas ou extrudadas, a quente, incluindo as que tenham sido submetidas a torção após laminagem.
+7215;Outras barras de ferro ou aço não ligado.
+7216;Perfis de ferro ou aço não ligado.
+7217;Fios de ferro ou aço não ligado.
+7218;Aço inoxidável em lingotes ou outras formas primárias; produtos semimanufaturados de aço inoxidável.
+7219;Produtos laminados planos de aço inoxidável, de largura igual ou superior a 600 mm.
+7220;Produtos laminados planos de aço inoxidável, de largura inferior a 600 mm.
+72210000;Fio-máquina de aço inoxidável.
+7222;Barras e perfis, de aço inoxidável.
+72230000;Fios de aço inoxidável.
+7224;Outras ligas de aço, em lingotes ou outras formas primárias; produtos semimanufaturados, de outras ligas de aço.
+7225;Produtos laminados planos, de outras ligas de aço, de largura igual ou superior a 600 mm.
+7226;Produtos laminados planos, de outras ligas de aço, de largura inferior a 600 mm.
+7227;Fio-máquina de outras ligas de aço.
+7228;Barras e perfis, de outras ligas de aço; barras ocas para perfuração, de ligas de aço ou de aço não ligado.
+7229;Fios de outras ligas de aço.
+7301;Estacas-pranchas de ferro ou aço, mesmo perfuradas ou feitas com elementos montados; perfis obtidos por soldadura, de ferro ou aço.
+7302;Elementos de vias férreas, de ferro fundido, ferro ou aço: trilhos (carris*), contratrilhos (contracarris*) e cremalheiras, agulhas, cróssimas, alavancas para comando de agulhas e outros elementos de cruzamentos e desvios, dormentes, talas de junção (eclissas*), coxins de trilho (carril*), cantoneiras, placas de apoio ou assentamento, placas de aperto, placas e tirantes de separação e outras peças próprias para a fixação, articulação, apoio ou junção de trilhos (carris*).
+73030000;Tubos e perfis ocos, de ferro fundido.
+7304;Tubos e perfis ocos, sem costura, de ferro ou aço.
+7305;Outros tubos (por exemplo, soldados ou rebitados), de seção circular, de diâmetro exterior superior a 406,4 mm, de ferro ou aço.
+7306;Outros tubos e perfis ocos (por exemplo, soldados, rebitados, agrafados ou com os bordos simplesmente aproximados), de ferro ou aço.
+7307;Acessórios para tubos (por exemplo, uniões, cotovelos, luvas (mangas*)), de ferro fundido, ferro ou aço.
+7308;Construções e suas partes (por exemplo, pontes e elementos de pontes, comportas, torres, pórticos, pilares, colunas, armações, estruturas para telhados, portas e janelas, e seus caixilhos, alizares e soleiras, portas de correr, balaustradas), de ferro fundido, ferro ou aço, exceto as construções pré-fabricadas da posição 94.06; chapas, barras, perfis, tubos e semelhantes, de ferro fundido, ferro ou aço, próprios para construções.
+730900;Reservatórios, tonéis, cubas e recipientes semelhantes para quaisquer matérias (exceto gases comprimidos ou liquefeitos), de ferro fundido, ferro ou aço, de capacidade superior a 300 l, sem dispositivos mecânicos ou térmicos, mesmo com revestimento interior ou calorífugo.
+7310;Reservatórios, barris, tambores, latas, caixas e recipientes semelhantes para quaisquer matérias (exceto gases comprimidos ou liquefeitos), de ferro fundido, ferro ou aço, de capacidade não superior a 300 l, sem dispositivos mecânicos ou térmicos, mesmo com revestimento interior ou calorífugo.
+73110000;Recipientes para gases comprimidos ou liquefeitos, de ferro fundido, ferro ou aço.
+7312;Cordas, cabos, tranças (entrançados*), lingas e artigos semelhantes, de ferro ou aço, não isolados para usos elétricos.
+73130000;Arame farpado, de ferro ou aço; arames ou tiras, retorcidos, mesmo farpados, de ferro ou aço, do tipo utilizado em cercas.
+7314;Telas metálicas (incluindo as telas contínuas ou sem fim), grades e redes, de fios de ferro ou aço; chapas e tiras, distendidas, de ferro ou aço.
+7315;Correntes, cadeias, e suas partes, de ferro fundido, ferro ou aço.
+73160000;Âncoras, fateixas, e suas partes, de ferro fundido, ferro ou aço.
+731700;Tachas, pregos, percevejos, escápulas, grampos ondulados ou biselados e artigos semelhantes, de ferro fundido, ferro ou aço, mesmo com a cabeça de outra matéria, exceto cobre.
+7318;Parafusos, pinos ou pernos, roscados, porcas, tira-fundos, ganchos roscados, rebites, chavetas, cavilhas, contrapinos ou troços, arruelas (anilhas) (incluindo as de pressão) e artigos semelhantes, de ferro fundido, ferro ou aço.
+7319;Agulhas de costura, agulhas de tricô, agulhas-passadoras, agulhas de crochê, furadores para bordar e artigos semelhantes, para uso manual, de ferro ou aço; alfinetes de segurança e outros alfinetes, de ferro ou aço, não especificados nem compreendidos noutras posições.
+7320;Molas e folhas de molas, de ferro ou aço.
+7321;Aquecedores de ambiente (fogões de sala), caldeiras de fornalha, fogões de cozinha (incluindo os que possam ser utilizados acessoriamente no aquecimento central), churrasqueiras (grelhadores), braseiras, fogareiros a gás, aquecedores de pratos, e aparelhos não elétricos semelhantes, de uso doméstico, e suas partes, de ferro fundido, ferro ou aço.
+7322;Radiadores para aquecimento central, não elétricos, e suas partes, de ferro fundido, ferro ou aço; geradores e distribuidores de ar quente (incluindo os distribuidores que possam também funcionar como distribuidores de ar frio ou condicionado), não elétricos, munidos de ventilador ou fole com motor, e suas partes, de ferro fundido, ferro ou aço.
+7323;Serviços de mesa, artigos de cozinha e outros artigos de uso doméstico, e suas partes, de ferro fundido, ferro ou aço; palha de ferro ou aço; esponjas, esfregões, luvas e artigos semelhantes para limpeza, polimento ou usos semelhantes, de ferro ou aço.
+7324;Artigos de higiene ou de toucador, e suas partes, de ferro fundido, ferro ou aço.
+7325;Outras obras moldadas, de ferro fundido, ferro ou aço.
+7326;Outras obras de ferro ou aço.
+74010000;Mates de cobre; cobre de cementação (precipitado de cobre).
+74020000;Cobre não refinado (afinado); ânodos de cobre para refinação (afinação) eletrolítica.
+7403;Cobre refinado (afinado) e ligas de cobre em formas brutas.
+74040000;Desperdícios e resíduos, e sucata, de cobre.
+74050000;Ligas-mãe de cobre.
+7406;Pós e escamas, de cobre.
+7407;Barras e perfis, de cobre.
+7408;Fios de cobre.
+7409;Chapas e tiras de cobre, de espessura superior a 0,15 mm.
+7410;Folhas e tiras, delgadas, de cobre (mesmo impressas ou com suporte de papel, cartão, plástico ou semelhantes), de espessura não superior a 0,15 mm (excluindo o suporte).
+7411;Tubos de cobre.
+7412;Acessórios para tubos (por exemplo, uniões, cotovelos, luvas (mangas*)), de cobre.
+74130000;Cordas, cabos, tranças (entrançados*) e artigos semelhantes, de cobre, não isolados para usos elétricos.
+7415;Tachas, pregos, percevejos, escápulas e artigos semelhantes, de cobre ou de ferro ou aço com cabeça de cobre; parafusos, pinos ou pernos, roscados, porcas, ganchos roscados, rebites, chavetas, cavilhas, contrapinos ou troços, arruelas (anilhas) (incluindo as de pressão), e artigos semelhantes, de cobre.
+7418;Serviços de mesa, artigos de cozinha e outros artigos de uso doméstico, e suas partes, de cobre; esponjas, esfregões, luvas e artigos semelhantes, para limpeza, polimento ou usos semelhantes, de cobre; artigos de higiene ou de toucador, e suas partes, de cobre.
+7419;Outras obras de cobre.
+7501;Mates de níquel, <I>sinters</I> de óxidos de níquel e outros produtos intermediários da metalurgia do níquel.
+7502;Níquel em formas brutas.
+75030000;Desperdícios e resíduos, e sucata, de níquel.
+750400;Pós e escamas, de níquel.
+7505;Barras, perfis e fios, de níquel.
+7506;Chapas, tiras e folhas, de níquel.
+7507;Tubos e seus acessórios (por exemplo, uniões, cotovelos, luvas (mangas*)), de níquel.
+7508;Outras obras de níquel.
+7601;Alumínio em formas brutas.
+76020000;Desperdícios e resíduos, e sucata, de alumínio.
+7603;Pós e escamas, de alumínio.
+7604;Barras e perfis, de alumínio.
+7605;Fios de alumínio.
+7606;Chapas e tiras, de alumínio, de espessura superior a 0,2 mm.
+7607;Folhas e tiras, delgadas, de alumínio (mesmo impressas ou com suporte de papel, cartão, plástico ou semelhantes), de espessura não superior a 0,2 mm (excluindo o suporte).
+7608;Tubos de alumínio.
+76090000;Acessórios para tubos (por exemplo, uniões, cotovelos, luvas (mangas*)), de alumínio.
+7610;Construções e suas partes (por exemplo, pontes e elementos de pontes, torres, pórticos ou pilones, pilares, colunas, armações, estruturas para telhados, portas e janelas, e seus caixilhos, alizares e soleiras, balaustradas), de alumínio, exceto as construções pré-fabricadas da posição 94.06; chapas, barras, perfis, tubos e semelhantes, de alumínio, próprios para construções.
+76110000;Reservatórios, tonéis, cubas e recipientes semelhantes para quaisquer matérias (exceto gases comprimidos ou liquefeitos), de alumínio, de capacidade superior a 300 l, sem dispositivos mecânicos ou térmicos, mesmo com revestimento interior ou calorífugo.
+7612;Reservatórios, barris, tambores, latas, caixas e recipientes semelhantes (incluindo os recipientes tubulares, rígidos ou flexíveis) para quaisquer matérias (exceto gases comprimidos ou liquefeitos), de alumínio, de capacidade não superior a 300 l, sem dispositivos mecânicos ou térmicos, mesmo com revestimento interior ou calorífugo.
+76130000;Recipientes para gases comprimidos ou liquefeitos, de alumínio.
+7614;Cordas, cabos, tranças (entrançados*) e semelhantes, de alumínio, não isolados para usos elétricos.
+7615;Serviços de mesa, artigos de cozinha e outros artigos de uso doméstico, e suas partes, de alumínio; esponjas, esfregões, luvas e artigos semelhantes, para limpeza, polimento ou usos semelhantes, de alumínio; artigos de higiene ou de toucador, e suas partes, de alumínio.
+7616;Outras obras de alumínio.
+7801;Chumbo em formas brutas.
+78020000;Desperdícios e resíduos, e sucata, de chumbo.
+7804;Chapas, folhas e tiras, de chumbo; pós e escamas, de chumbo.
+780600;Outras obras de chumbo.
+7901;Zinco em formas brutas.
+79020000;Desperdícios e resíduos, e sucata, de zinco.
+7903;Poeiras, pós e escamas, de zinco.
+79040000;Barras, perfis e fios, de zinco.
+79050000;Chapas, folhas e tiras, de zinco.
+790700;Outras obras de zinco.
+8001;Estanho em formas brutas.
+80020000;Desperdícios e resíduos, e sucata, de estanho.
+80030000;Barras, perfis e fios, de estanho.
+800700;Outras obras de estanho.
+8101;Tungstênio (volfrâmio) e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8102;Molibdênio e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8103;Tântalo e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8104;Magnésio e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8105;Mates de cobalto e outros produtos intermediários da metalurgia do cobalto; cobalto e suas obras, incluindo os desperdícios e resíduos, e sucata.
+810600;Bismuto e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8107;Cádmio e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8108;Titânio e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8109;Zircônio e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8110;Antimônio e suas obras, incluindo os desperdícios e resíduos, e sucata.
+811100;Manganês e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8112;Berílio, cromo, germânio, vanádio, gálio, háfnio (céltio), índio, nióbio (colômbio), rênio e tálio, e suas obras, incluindo os desperdícios e resíduos, e sucata.
+811300;<I>Cermets</I> e suas obras, incluindo os desperdícios e resíduos, e sucata.
+8201;Pás, alviões, picaretas, enxadas, sachos, forcados, forquilhas, ancinhos e raspadeiras; machados, podões e ferramentas semelhantes com gume; tesouras de podar de todos os tipos; foices e foicinhas, facas para feno ou para palha, tesouras para sebes, cunhas e outras ferramentas manuais para agricultura, horticultura ou silvicultura.
+8202;Serras manuais; folhas de serras de todos os tipos (incluindo as fresas-serras e as folhas não dentadas para serrar).
+8203;Limas, grosas, alicates (mesmo cortantes), tenazes, pinças, cisalhas para metais, corta-tubos, corta-pinos, saca-bocados e ferramentas semelhantes, manuais.
+8204;Chaves de porcas, manuais (incluindo as chaves dinamométricas); chaves de caixa intercambiáveis, mesmo com cabos.
+8205;Ferramentas manuais (incluindo os corta-vidros (diamantes de vidraceiro)) não especificadas nem compreendidas noutras posições; lâmpadas ou lamparinas, de soldar (maçaricos) e semelhantes; tornos de apertar, sargentos e semelhantes, exceto os acessórios ou partes de máquinas-ferramentas ou de máquinas de corte a jato de água; bigornas; forjas portáteis; mós com armação, manuais ou de pedal.
+82060000;Ferramentas de pelo menos duas das posições 82.02 a 82.05, acondicionadas em sortidos para venda a retalho.
+8207;Ferramentas intercambiáveis para ferramentas manuais, mesmo mecânicas, ou para máquinas-ferramentas (por exemplo, de embutir, estampar, puncionar, roscar (incluindo atarraxar), furar, escarear, mandrilar, brochar, fresar, tornear, aparafusar), incluindo as fieiras de estiramento ou de extrusão, para metais, e as ferramentas de perfuração ou de sondagem.
+8208;Facas e lâminas cortantes, para máquinas ou para aparelhos mecânicos.
+820900;Plaquetas, varetas, pontas e objetos semelhantes para ferramentas, não montados, de <I>cermets</I>.
+821000;Aparelhos mecânicos de acionamento manual, pesando até 10 kg, utilizados para preparar, acondicionar ou servir alimentos ou bebidas.
+8211;Facas (exceto as da posição 82.08) de lâmina cortante ou serrilhada, incluindo as podadeiras de lâmina móvel, e suas lâminas.
+8212;Navalhas e aparelhos, de barbear, e suas lâminas (incluindo os esboços em tiras).
+82130000;Tesouras e suas lâminas.
+8214;Outros artigos de cutelaria (por exemplo, máquinas de cortar o cabelo ou tosquiar, fendeleiras, cutelos, incluindo os de açougue e de cozinha, e espátulas (corta-papéis)); utensílios e sortidos de utensílios de manicuros ou de pedicuros (incluindo as limas para unhas).
+8215;Colheres, garfos, conchas, escumadeiras, pás para tortas, facas especiais para peixe ou para manteiga, pinças para açúcar e artigos semelhantes.
+8301;Cadeados, fechaduras e ferrolhos (de chave, de segredo ou elétricos), de metais comuns; fechos e armações com fecho, com fechadura, de metais comuns; chaves para estes artigos, de metais comuns.
+8302;Guarnições, ferragens e artigos semelhantes, de metais comuns, para móveis, portas, escadas, janelas, persianas, carroçarias, artigos de seleiro, malas, cofres, caixas de segurança e outras obras semelhantes; pateras, porta-chapéus, cabides e artigos semelhantes, de metais comuns; rodízios com armação de metais comuns; fechos automáticos para portas, de metais comuns.
+83030000;Cofres-fortes, portas blindadas e compartimentos para casas-fortes, cofres e caixas de segurança e artigos semelhantes, de metais comuns.
+83040000;Classificadores, fichários (ficheiros), caixas de classificação, porta-cópias, porta-canetas, porta-carimbos e artigos semelhantes, de escritório, de metais comuns, excluindo os móveis de escritório da posição 94.03.
+8305;Ferragens para encadernação de folhas móveis ou para classificadores, molas para papéis, cantos para cartas, clipes, indicadores para fichas ou cavaleiros e objetos semelhantes de escritório, de metais comuns; grampos apresentados em barretas (por exemplo, de escritório, para atapetar, para embalagem), de metais comuns.
+8306;Sinos, campainhas, gongos e artigos semelhantes, não elétricos, de metais comuns; estatuetas e outros objetos de ornamentação, de metais comuns; molduras para fotografias, gravuras ou semelhantes, de metais comuns; espelhos de metais comuns.
+8307;Tubos flexíveis de metais comuns, mesmo com acessórios.
+8308;Fechos, armações com fecho, fivelas, fivelas-fecho, grampos, colchetes, ilhoses e artigos semelhantes, de metais comuns, para vestuário ou acessórios de vestuário, calçado, joalheria, relógios de pulso, livros, encerados, artigos de couro, artigos de seleiro, artigos de viagem, ou para outras confecções; rebites tubulares ou de haste fendida, de metais comuns; contas e lantejoulas, de metais comuns.
+8309;Rolhas, tampas e cápsulas para garrafas (incluindo as cápsulas de coroa, as rolhas e cápsulas, de rosca, e as rolhas vertedoras), batoques ou tampões roscados, protetores de batoques ou de tampões, selos de garantia e outros acessórios para embalagem, de metais comuns.
+83100000;Placas indicadoras, placas sinalizadoras, placas-endereços e placas semelhantes, números, letras e sinais diversos, de metais comuns, exceto os da posição 94.05.
+8311;Fios, varetas, tubos, chapas, eletrodos e artigos semelhantes, de metais comuns ou de carbonetos metálicos, revestidos interior ou exteriormente de decapantes ou de fundentes, para soldadura ou depósito de metal ou de carbonetos metálicos; fios e varetas, de pós de metais comuns aglomerados, para metalização por projeção.
+8401;Reatores nucleares; elementos combustíveis (cartuchos) não irradiados, para reatores nucleares; máquinas e aparelhos para a separação de isótopos.
+8402;Caldeiras de vapor (geradores de vapor), excluindo as caldeiras para aquecimento central concebidas para produção de água quente e vapor de baixa pressão; caldeiras denominadas "de água superaquecida".
+8403;Caldeiras para aquecimento central, exceto as da posição 84.02.
+8404;Aparelhos auxiliares para caldeiras das posições 84.02 ou 84.03 (por exemplo, economizadores, superaquecedores, aparelhos de limpeza de tubos ou de recuperação de gás); condensadores para máquinas a vapor.
+8405;Geradores de gás de ar (gás pobre) ou de gás de água, mesmo com depuradores; geradores de acetileno e geradores semelhantes de gás, operados a água, mesmo com depuradores.
+8406;Turbinas a vapor.
+8407;Motores de pistão, alternativo ou rotativo, de ignição por centelha (faísca*) (motores de explosão).
+8408;Motores de pistão, de ignição por compressão (motores diesel ou semidiesel).
+8409;Partes reconhecíveis como exclusiva ou principalmente destinadas aos motores das posições 84.07 ou 84.08.
+8410;Turbinas hidráulicas, rodas hidráulicas, e seus reguladores.
+8411;Turborreatores, turbopropulsores e outras turbinas a gás.
+8412;Outros motores e máquinas motrizes.
+8413;Bombas para líquidos, mesmo com dispositivo medidor; elevadores de líquidos.
+8414;Bombas de ar ou de vácuo, compressores de ar ou de outros gases e ventiladores; coifas aspirantes (exaustores*) para extração ou reciclagem, com ventilador incorporado, mesmo filtrantes.
+8415;Máquinas e aparelhos de ar-condicionado que contenham um ventilador motorizado e dispositivos próprios para modificar a temperatura e a umidade, incluindo as máquinas e aparelhos em que a umidade não seja regulável separadamente.
+8416;Queimadores para alimentação de fornalhas de combustíveis líquidos, combustíveis sólidos pulverizados ou de gás; fornalhas automáticas, incluindo as antefornalhas, grelhas mecânicas, descarregadores mecânicos de cinzas e dispositivos semelhantes.
+8417;Fornos industriais ou de laboratório, incluindo os incineradores, não elétricos.
+8418;Refrigeradores, congeladores (<I>freezers</I>) e outros materiais, máquinas e aparelhos, para a produção de frio, com equipamento elétrico ou outro; bombas de calor, excluindo as máquinas e aparelhos de ar-condicionado da posição 84.15.
+8419;Aparelhos, dispositivos ou equipamentos de laboratório, mesmo aquecidos eletricamente (exceto os fornos e outros aparelhos da posição 85.14), para tratamento de matérias por meio de operações que impliquem mudança de temperatura, tais como aquecimento, cozimento, torrefação, destilação, retificação, esterilização, pasteurização, estufagem, secagem, evaporação, vaporização, condensação ou arrefecimento, exceto os de uso doméstico; aquecedores de água não elétricos, de aquecimento instantâneo ou de acumulação.
+8420;Calandras e laminadores, exceto os destinados ao tratamento de metais ou vidro, e seus cilindros.
+8421;Centrifugadores, incluindo os secadores centrífugos; aparelhos para filtrar ou depurar líquidos ou gases.
+8422;Máquinas de lavar louça; máquinas e aparelhos para limpar ou secar garrafas ou outros recipientes; máquinas e aparelhos para encher, fechar, arrolhar ou rotular garrafas, caixas, latas, sacos ou outros recipientes; máquinas e aparelhos para capsular garrafas, vasos, tubos e recipientes semelhantes; outras máquinas e aparelhos para empacotar ou embalar mercadorias (incluindo as máquinas e aparelhos para embalar com película termo-retrátil); máquinas e aparelhos para gaseificar bebidas.
+8423;Aparelhos e instrumentos de pesagem, incluindo as básculas e balanças para verificar peças usinadas (fabricadas*), excluindo as balanças sensíveis a pesos não superiores a 5 cg; pesos para quaisquer balanças.
+8424;Aparelhos mecânicos (mesmo manuais) para projetar, dispersar ou pulverizar líquidos ou pós; extintores, mesmo carregados; pistolas aerográficas e aparelhos semelhantes; máquinas e aparelhos de jato de areia, de jato de vapor e aparelhos de jato semelhantes.
+8425;Talhas, cadernais e moitões; guinchos e cabrestantes; macacos.
+8426;Cábreas; guindastes, incluindo os de cabo; pontes rolantes, pórticos de descarga ou de movimentação, pontes-guindastes, carros-pórticos e carros-guindastes.
+8427;Empilhadeiras; outros veículos para movimentação de carga e semelhantes, equipados com dispositivos de elevação.
+8428;Outras máquinas e aparelhos de elevação, de carga, de descarga ou de movimentação (por exemplo, elevadores, escadas rolantes, transportadores, teleféricos).
+8429;<I>Bulldozers</I>, <I>angledozers</I>, niveladores, raspo-transportadores (<I>scrapers</I>), pás mecânicas, escavadores, carregadoras e pás carregadoras, compactadores e rolos ou cilindros compressores, autopropulsados.
+8430;Outras máquinas e aparelhos de terraplenagem, nivelamento, raspagem, escavação, compactação, extração ou perfuração da terra, de minerais ou minérios; bate-estacas e arranca-estacas; limpa-neves.
+8431;Partes reconhecíveis como exclusiva ou principalmente destinadas às máquinas e aparelhos das posições 84.25 a 84.30.
+8432;Máquinas e aparelhos de uso agrícola, hortícola ou florestal, para preparação ou trabalho do solo ou para cultura; rolos para gramados (relvados*) ou para campos de esporte.
+8433;Máquinas e aparelhos para colheita ou debulha de produtos agrícolas, incluindo as enfardadeiras de palha ou forragem; cortadores de grama (relva*) e ceifeiras; máquinas para limpar ou selecionar ovos, fruta ou outros produtos agrícolas, exceto as da posição 84.37.
+8434;Máquinas de ordenhar e máquinas e aparelhos para a indústria de lacticínios.
+8435;Prensas, esmagadores e máquinas e aparelhos semelhantes, para fabricação de vinho, sidra, sucos (sumos) de fruta ou bebidas semelhantes.
+8436;Outras máquinas e aparelhos para agricultura, horticultura, silvicultura, avicultura ou apicultura, incluindo os germinadores equipados com dispositivos mecânicos ou térmicos e as chocadeiras e criadeiras para avicultura.
+8437;Máquinas para limpeza, seleção ou peneiração de grãos ou de produtos hortícolas secos; máquinas e aparelhos para a indústria de moagem ou tratamento de cereais ou de produtos hortícolas secos, exceto do tipo utilizado em fazendas.
+8438;Máquinas e aparelhos não especificados nem compreendidos noutras posições do presente Capítulo, para preparação ou fabricação industrial de alimentos ou de bebidas, exceto as máquinas e aparelhos para extração ou preparação de óleos ou gorduras vegetais fixos ou de óleos ou gorduras animais.
+8439;Máquinas e aparelhos para fabricação de pasta de matérias fibrosas celulósicas ou para fabricação ou acabamento de papel ou cartão.
+8440;Máquinas e aparelhos para brochura ou encadernação, incluindo as máquinas de costurar cadernos.
+8441;Outras máquinas e aparelhos para o trabalho de pasta de papel, papel ou cartão, incluindo as cortadeiras de todos os tipos.
+8442;Máquinas, aparelhos e equipamentos (exceto as máquinas das posições 84.56 a 84.65), para preparação ou fabricação de clichês, blocos, cilindros ou outros elementos de impressão; clichês, blocos, cilindros e outros elementos de impressão; pedras litográficas, blocos, placas e cilindros, preparados para impressão (por exemplo, aplainados, granulados ou polidos).
+8443;Máquinas e aparelhos de impressão por meio de blocos, cilindros e outros elementos de impressão da posição 84.42; outras impressoras, aparelhos de copiar e aparelhos de telecopiar (fax), mesmo combinados entre si; partes e acessórios.
+844400;Máquinas para extrudar, estirar, texturizar ou cortar matérias têxteis sintéticas ou artificiais.
+8445;Máquinas para preparação de matérias têxteis; máquinas para fiação, dobragem ou torção, de matérias têxteis e outras máquinas e aparelhos para fabricação de fios têxteis; máquinas de bobinar (incluindo as bobinadeiras de trama) ou de dobar matérias têxteis e máquinas para preparação de fios têxteis para sua utilização nas máquinas das posições 84.46 ou 84.47.
+8446;Teares para tecidos.
+8447;Teares para fabricar malhas, máquinas de costura por entrelaçamento (<I>couture-tricotage</I>), máquinas para fabricar guipuras, tules, rendas, bordados, passamanarias, galões ou redes e máquinas para inserir tufos.
+8448;Máquinas e aparelhos auxiliares para as máquinas das posições 84.44, 84.45, 84.46 ou 84.47 (por exemplo, ratieras (teares maquinetas*), mecanismos <I>Jacquard</I>, quebra-urdiduras e quebra-tramas, mecanismos troca-lançadeiras); partes e acessórios reconhecíveis como exclusiva ou principalmente destinados às máquinas da presente posição ou das posições 84.44, 84.45, 84.46 ou 84.47 (por exemplo, fusos, aletas, guarnições de cardas, pentes, barras, fieiras, lançadeiras, liços e quadros de liços, agulhas, platinas, ganchos).
+844900;Máquinas e aparelhos para fabricação ou acabamento de feltro ou de falsos tecidos, em peça ou em formas determinadas, incluindo as máquinas e aparelhos para fabricação de chapéus de feltro; formas para chapelaria.
+8450;Máquinas de lavar roupa, mesmo com dispositivos de secagem.
+8451;Máquinas e aparelhos (exceto as máquinas da posição 84.50) para lavar, limpar, espremer, secar, passar, prensar (incluindo as prensas de transferência térmica ou de fusão), branquear, tingir, para apresto e acabamento, para revestir ou impregnar fios, tecidos ou obras de matérias têxteis e máquinas para revestir tecidos-base ou outros suportes utilizados na fabricação de revestimentos para pisos (pavimentos), tais como linóleo; máquinas para enrolar, desenrolar, dobrar, cortar ou dentear tecidos.
+8452;Máquinas de costura, exceto as de costurar cadernos da posição 84.40; móveis, bases e tampas, próprios para máquinas de costura; agulhas para máquinas de costura.
+8453;Máquinas e aparelhos para preparar, curtir ou trabalhar couros ou peles, ou para fabricar ou consertar calçado e outras obras de couro ou de pele, exceto máquinas de costura.
+8454;Conversores, cadinhos ou colheres de fundição, lingoteiras e máquinas de vazar (moldar), para metalurgia, aciaria ou fundição.
+8455;Laminadores de metais e seus cilindros.
+8456;Máquinas-ferramentas que trabalhem por eliminação de qualquer matéria, que operem por laser ou por outro feixe de luz ou de fótons, por ultrassom, por eletroerosão, por processos eletroquímicos, por feixes de elétrons, por feixes iônicos ou por jato de plasma; máquinas de corte a jato de água.
+8457;Centros de usinagem (fabricação*), máquinas de sistema monostático (<I>single station</I>) e máquinas de estações múltiplas, para trabalhar metais.
+8458;Tornos (incluindo os centros de torneamento) para metais.
+8459;Máquinas-ferramentas (incluindo as unidades com cabeça deslizante) para furar, mandrilar (escarear*), fresar, roscar interior ou exteriormente metais, por eliminação de matéria, exceto os tornos (incluindo os centros de torneamento) da posição 84.58.
+8460;Máquinas-ferramentas para rebarbar, afiar, amolar, retificar, brunir, polir ou realizar outras operações de acabamento em metais ou <I>cermets</I> por meio de mós, de abrasivos ou de produtos polidores, exceto as máquinas de cortar ou acabar engrenagens da posição 84.61.
+8461;Máquinas-ferramentas para aplainar, plainas-limadoras, máquinas-ferramentas para escatelar, brochar (mandrilar*), cortar ou acabar engrenagens, serrar, seccionar e outras máquinas-ferramentas que trabalhem por eliminação de metal ou de <I>cermets</I>, não especificadas nem compreendidas noutras posições.
+8462;Máquinas-ferramentas (incluindo as prensas) para forjar ou estampar, martelos, martelos-pilões e martinetes, para trabalhar metais; máquinas-ferramentas (incluindo as prensas) para enrolar, arquear, dobrar, endireitar, aplanar, cisalhar, puncionar ou chanfrar metais; prensas para trabalhar metais ou carbonetos metálicos, não especificadas acima.
+8463;Outras máquinas-ferramentas para trabalhar metais ou <I>cermets</I>, que trabalhem sem eliminação de matéria.
+8464;Máquinas-ferramentas para trabalhar pedra, produtos cerâmicos, concreto (betão*), fibrocimento ou matérias minerais semelhantes, ou para o trabalho a frio do vidro.
+8465;Máquinas-ferramentas (incluindo as máquinas para pregar, grampear, colar ou reunir por qualquer outro modo) para trabalhar madeira, cortiça, osso, borracha endurecida, plástico duro ou matérias duras semelhantes.
+8466;Partes e acessórios reconhecíveis como exclusiva ou principalmente destinados às máquinas das posições 84.56 a 84.65, incluindo os porta-peças e porta-ferramentas, as fieiras de abertura automática, os dispositivos divisores e outros dispositivos especiais, para estas máquinas; porta-ferramentas para ferramentas manuais de todos os tipos.
+8467;Ferramentas pneumáticas, hidráulicas ou com motor (elétrico ou não elétrico) incorporado, de uso manual.
+8468;Máquinas e aparelhos para soldar, mesmo de corte, exceto os da posição 85.15; máquinas e aparelhos a gás, para têmpera superficial.
+8470;Máquinas de calcular e máquinas de bolso que permitam gravar, reproduzir e visualizar informações, com função de cálculo incorporada; máquinas de contabilidade, máquinas de franquear, de emitir bilhetes e máquinas semelhantes, com dispositivo de cálculo incorporado; caixas registradoras.
+8471;Máquinas automáticas para processamento de dados e suas unidades; leitores magnéticos ou ópticos, máquinas para registrar dados em suporte sob forma codificada, e máquinas para processamento desses dados, não especificadas nem compreendidas noutras posições.
+8472;Outras máquinas e aparelhos de escritório (por exemplo, duplicadores hectográficos ou a estêncil, máquinas para imprimir endereços, distribuidores automáticos de notas, máquinas para selecionar, contar ou empacotar moedas, máquinas para apontar lápis (afiadores mecânicos de lápis*), perfuradores ou grampeadores (agrafadores*)).
+8473;Partes e acessórios (exceto estojos, capas e semelhantes) reconhecíveis como exclusiva ou principalmente destinados às máquinas ou aparelhos das posições 84.70 a 84.72.
+8474;Máquinas e aparelhos para selecionar, peneirar, separar, lavar, esmagar, moer, misturar ou amassar terras, pedras, minérios ou outras substâncias minerais sólidas (incluindo os pós e pastas); máquinas para aglomerar ou moldar combustíveis minerais sólidos, pastas cerâmicas, cimento, gesso ou outras matérias minerais em pó ou em pasta; máquinas para fazer moldes de areia para fundição.
+8475;Máquinas para montagem de lâmpadas, tubos ou válvulas, elétricos ou eletrônicos, ou de lâmpadas de luz-relâmpago (flash), que tenham invólucro de vidro; máquinas para fabricação ou trabalho a quente do vidro ou das suas obras.
+8476;Máquinas automáticas de venda de produtos (por exemplo, selos, cigarros, alimentos ou bebidas), incluindo as máquinas de trocar dinheiro.
+8477;Máquinas e aparelhos para trabalhar borracha ou plástico ou para fabricação de produtos dessas matérias, não especificados nem compreendidos noutras posições deste Capítulo.
+8478;Máquinas e aparelhos para preparar ou transformar tabaco, não especificados nem compreendidos noutras posições deste Capítulo.
+8479;Máquinas e aparelhos mecânicos com função própria, não especificados nem compreendidos noutras posições deste Capítulo.
+8480;Caixas de fundição; placas de fundo para moldes; modelos para moldes; moldes para metais (exceto lingoteiras), carbonetos metálicos, vidro, matérias minerais, borracha ou plástico.
+8481;Torneiras, válvulas (incluindo as redutoras de pressão e as termostáticas) e dispositivos semelhantes, para canalizações, caldeiras, reservatórios, cubas e outros recipientes.
+8482;Rolamentos de esferas, de roletes ou de agulhas.
+8483;Árvores (veios) de transmissão (incluindo as árvores de cames e virabrequins (cambotas)) e manivelas; mancais (chumaceiras) e "bronzes"; engrenagens e rodas de fricção; eixos de esferas ou de roletes; redutores, multiplicadores, caixas de transmissão e variadores de velocidade, incluindo os conversores de torque (binários*); volantes e polias, incluindo as polias para cadernais; embreagens e dispositivos de acoplamento, incluindo as juntas de articulação.
+8484;Juntas metaloplásticas; jogos ou sortidos de juntas de composições diferentes, apresentados em bolsas, envelopes ou embalagens semelhantes; juntas de vedação mecânicas.
+8486;Máquinas e aparelhos do tipo utilizado exclusiva ou principalmente na fabricação de <I>boules</I> ou <I>wafers</I> de material semicondutor, dispositivos semicondutores, circuitos integrados eletrônicos ou de dispositivos de visualização de tela (ecrã*) plana; máquinas e aparelhos especificados na Nota 9 C) do presente Capítulo; partes e acessórios.
+8487;Partes de máquinas ou de aparelhos, não especificadas nem compreendidas noutras posições do presente Capítulo, que não contenham conexões elétricas, partes isoladas eletricamente, bobinas, contatos nem quaisquer outros elementos com características elétricas.
+8501;Motores e geradores, elétricos, exceto os grupos eletrogêneos.
+8502;Grupos eletrogêneos e conversores rotativos elétricos.
+850300;Partes reconhecíveis como exclusiva ou principalmente destinadas às máquinas das posições 85.01 ou 85.02.
+8504;Transformadores elétricos, conversores elétricos estáticos (retificadores, por exemplo), bobinas de reatância e de auto-indução.
+8505;Eletroímãs; ímãs permanentes e artigos destinados a tornarem-se ímãs permanentes após magnetização; placas, mandris e dispositivos semelhantes, magnéticos ou eletromagnéticos, de fixação; acoplamentos, embreagens, variadores de velocidade e freios (travões), eletromagnéticos; cabeças de elevação eletromagnéticas.
+8506;Pilhas e baterias de pilhas, elétricas.
+8507;Acumuladores elétricos e seus separadores, mesmo de forma quadrada ou retangular.
+8508;Aspiradores.
+8509;Aparelhos eletromecânicos com motor elétrico incorporado, de uso doméstico, exceto os aspiradores da posição 85.08.
+8510;Aparelhos ou máquinas de barbear, máquinas de cortar o cabelo ou de tosquiar e aparelhos de depilar, com motor elétrico incorporado.
+8511;Aparelhos e dispositivos elétricos de ignição ou de arranque para motores de ignição por centelha (faísca*) ou por compressão (por exemplo, magnetos, dínamos-magnetos, bobinas de ignição, velas de ignição ou de aquecimento, motores de arranque); geradores (por exemplo, dínamos e alternadores) e conjuntores-disjuntores utilizados com estes motores.
+8512;Aparelhos elétricos de iluminação ou de sinalização (exceto os da posição 85.39), limpadores de para-brisas, degeladores e desembaçadores elétricos, do tipo utilizado em ciclos ou automóveis.
+8513;Lanternas elétricas portáteis destinadas a funcionar por meio de sua própria fonte de energia (por exemplo, de pilhas, de acumuladores, de magnetos), excluindo os aparelhos de iluminação da posição 85.12.
+8514;Fornos elétricos industriais ou de laboratório, incluindo os que funcionam por indução ou por perdas dielétricas; outros aparelhos industriais ou de laboratório para tratamento térmico de matérias por indução ou por perdas dielétricas.
+8515;Máquinas e aparelhos para soldar (mesmo de corte) elétricos (incluindo os a gás aquecido eletricamente), a laser ou outros feixes de luz ou de fótons, a ultrassom, a feixes de elétrons, a impulsos magnéticos ou a jato de plasma; máquinas e aparelhos elétricos para projeção a quente de metais ou de <I>cermets</I>.
+8516;Aquecedores elétricos de água, incluindo os de imersão; aparelhos elétricos para aquecimento de ambientes, do solo ou para usos semelhantes; aparelhos eletrotérmicos para arranjos do cabelo (por exemplo, secadores de cabelo, frisadores, aquecedores de ferros de frisar) ou para secar as mãos; ferros elétricos de passar; outros aparelhos eletrotérmicos de uso doméstico; resistências de aquecimento, exceto as da posição 85.45.
+8517;Aparelhos telefônicos, incluindo os telefones para redes celulares e para outras redes sem fio; outros aparelhos para a transmissão ou recepção de voz, imagens ou outros dados, incluindo os aparelhos para comunicação em redes por fio ou redes sem fio (tal como uma rede local (LAN) ou uma rede de área estendida (alargada*) (WAN)), exceto os aparelhos das posições 84.43, 85.25, 85.27 ou 85.28.
+8518;Microfones e seus suportes; alto-falantes (altifalantes), mesmo montados nas suas caixas (colunas); fones de ouvido (auscultadores e auriculares*), mesmo combinados com um microfone, e conjuntos ou sortidos constituídos por um microfone e um ou mais alto-falantes (altifalantes); amplificadores elétricos de audiofrequência; aparelhos elétricos de amplificação de som.
+8519;Aparelhos de gravação de som; aparelhos de reprodução de som; aparelhos de gravação e de reprodução de som.
+8521;Aparelhos de gravação ou de reprodução de vídeo, mesmo incorporando um receptor de televisão.
+8522;Partes e acessórios reconhecíveis como sendo exclusiva ou principalmente destinados aos aparelhos das posições 85.19 ou 85.21.
+8523;Discos, fitas, dispositivos de armazenamento de dados não voláteis à base de semicondutores, "cartões inteligentes" e outros suportes para gravação de som ou para gravações semelhantes, mesmo gravados, incluindo as matrizes e moldes galvânicos para fabricação de discos, exceto os produtos do Capítulo 37.
+8525;Aparelhos transmissores (emissores) para radiodifusão ou televisão, mesmo que incorporem um aparelho receptor ou um aparelho de gravação ou de reprodução de som; câmeras de televisão, câmeras fotográficas digitais e câmeras de vídeo.
+8526;Aparelhos de radiodetecção e de radiossondagem (radar), aparelhos de radionavegação e aparelhos de radiotelecomando.
+8527;Aparelhos receptores para radiodifusão, mesmo combinados num mesmo invólucro, com um aparelho de gravação ou de reprodução de som, ou com um relógio.
+8528;Monitores e projetores, que não incorporem aparelho receptor de televisão; aparelhos receptores de televisão, mesmo que incorporem um aparelho receptor de radiodifusão ou um aparelho de gravação ou de reprodução de som ou de imagens.
+8529;Partes reconhecíveis como exclusiva ou principalmente destinadas aos aparelhos das posições 85.25 a 85.28.
+8530;Aparelhos elétricos de sinalização (excluindo os de transmissão de mensagens), de segurança, de controle e de comando, para vias férreas ou semelhantes, vias terrestres ou fluviais, para áreas ou parques de estacionamento, instalações portuárias ou para aeródromos (exceto os da posição 86.08).
+8531;Aparelhos elétricos de sinalização acústica ou visual (por exemplo, campainhas, sirenes, painéis indicadores, aparelhos de alarme para proteção contra roubo ou incêndio), exceto os das posições 85.12 ou 85.30.
+8532;Condensadores elétricos, fixos, variáveis ou ajustáveis.
+8533;Resistências elétricas (incluindo os reostatos e os potenciômetros), exceto de aquecimento.
+853400;Circuitos impressos.
+8535;Aparelhos para interrupção, seccionamento, proteção, derivação, ligação ou conexão de circuitos elétricos (por exemplo, interruptores, comutadores, corta-circuitos, para-raios, limitadores de tensão, supressores de picos de tensão (eliminadores de onda), tomadas de corrente e outros conectores, caixas de junção), para uma tensão superior a 1.000 V.
+8536;Aparelhos para interrupção, seccionamento, proteção, derivação, ligação ou conexão de circuitos elétricos (por exemplo, interruptores, comutadores, relés, corta-circuitos, supressores de picos de tensão (eliminadores de onda), plugues (fichas*) e tomadas de corrente, suportes para lâmpadas e outros conectores, caixas de junção), para uma tensão não superior a 1.000 V; conectores para fibras ópticas, feixes ou cabos de fibras ópticas.
+8537;Quadros, painéis, consoles, cabinas, armários e outros suportes com dois ou mais aparelhos das posições 85.35 ou 85.36, para comando elétrico ou distribuição de energia elétrica, incluindo os que incorporem instrumentos ou aparelhos do Capítulo 90, bem como os aparelhos de comando numérico, exceto os aparelhos de comutação da posição 85.17.
+8538;Partes reconhecíveis como exclusiva ou principalmente destinadas aos aparelhos das posições 85.35, 85.36 ou 85.37.
+8539;Lâmpadas e tubos elétricos de incandescência ou de descarga, incluindo os artigos denominados "faróis e projetores, em unidades seladas" e as lâmpadas e tubos de raios ultravioleta ou infravermelhos; lâmpadas de arco; lâmpadas e tubos de diodos emissores de luz (LED).
+8540;Lâmpadas, tubos e válvulas, eletrônicos, de cátodo quente, cátodo frio ou fotocátodo (por exemplo, lâmpadas, tubos e válvulas, de vácuo, de vapor ou de gás, ampolas retificadoras de vapor de mercúrio, tubos catódicos, tubos e válvulas para câmeras de televisão), exceto os da posição 85.39.
+8541;Diodos, transistores e dispositivos semelhantes semicondutores; dispositivos fotossensíveis semicondutores, incluindo as células fotovoltaicas, mesmo montadas em módulos ou em painéis; diodos emissores de luz (LED); cristais piezelétricos montados.
+8542;Circuitos integrados eletrônicos.
+8543;Máquinas e aparelhos elétricos com função própria, não especificados nem compreendidos noutras posições do presente Capítulo.
+8544;Fios, cabos (incluindo os cabos coaxiais) e outros condutores, isolados para usos elétricos (incluindo os envernizados ou oxidados anodicamente), mesmo com peças de conexão; cabos de fibras ópticas, constituídos por fibras embainhadas individualmente, mesmo com condutores elétricos ou munidos de peças de conexão.
+8545;Eletrodos de carvão, escovas de carvão, carvões para lâmpadas ou para pilhas e outros artigos de grafita ou de outro carvão, mesmo com metal, para usos elétricos.
+8546;Isoladores elétricos de qualquer matéria.
+8547;Peças isolantes inteiramente de matérias isolantes, ou com simples peças metálicas de montagem (suportes roscados, por exemplo) incorporadas na massa, para máquinas, aparelhos e instalações elétricas, exceto os isoladores da posição 85.46; tubos isoladores e suas peças de ligação, de metais comuns, isolados interiormente.
+8548;Desperdícios e resíduos de pilhas, de baterias de pilhas e de acumuladores, elétricos; pilhas, baterias de pilhas e acumuladores, elétricos, inservíveis; partes elétricas de máquinas e aparelhos, não especificadas nem compreendidas noutras posições do presente Capítulo.
+8601;Locomotivas e locotratores, de fonte externa de eletricidade ou de acumuladores elétricos.
+8602;Outras locomotivas e locotratores; tênderes.
+8603;Litorinas (Automotoras*), mesmo para circulação urbana, exceto as da posição 86.04.
+860400;Veículos para inspeção e manutenção de vias férreas ou semelhantes, mesmo autopropulsados (por exemplo, vagões-oficinas, vagões-guindastes, vagões equipados com batedores de balastro, alinhadores de vias, viaturas para testes e dresinas).
+860500;Vagões de passageiros, furgões para bagagem, vagões-postais e outros vagões especiais, para vias férreas ou semelhantes (excluindo as viaturas da posição 86.04).
+8606;Vagões para transporte de mercadorias sobre vias férreas.
+8607;Partes de veículos para vias férreas ou semelhantes.
+860800;Material fixo de vias férreas ou semelhantes; aparelhos mecânicos (incluindo os eletromecânicos) de sinalização, de segurança, de controle ou de comando para vias férreas ou semelhantes, rodoviárias ou fluviais, para áreas ou parques de estacionamento, instalações portuárias ou para aeródromos; suas partes.
+86090000;Contêineres (Contentores*), incluindo os de transporte de fluidos, especialmente concebidos e equipados para um ou vários meios de transporte.
+8701;Tratores (exceto os carros-tratores da posição 87.09).
+8702;Veículos automóveis para transporte de dez pessoas ou mais, incluindo o motorista.
+8703;Automóveis de passageiros e outros veículos automóveis principalmente concebidos para transporte de pessoas (exceto os da posição 87.02), incluindo os veículos de uso misto (<I>station wagons</I>) e os automóveis de corrida.
+8704;Veículos automóveis para transporte de mercadorias.
+8705;Veículos automóveis para usos especiais (por exemplo, auto-socorros, caminhões-guindastes, veículos de combate a incêndio, caminhões-betoneiras, veículos para varrer, veículos para espalhar, veículos-oficinas, veículos radiológicos), exceto os concebidos principalmente para transporte de pessoas ou de mercadorias.
+870600;Chassis com motor para os veículos automóveis das posições 87.01 a 87.05.
+8707;Carroçarias para os veículos automóveis das posições 87.01 a 87.05, incluindo as cabinas.
+8708;Partes e acessórios dos veículos automóveis das posições 87.01 a 87.05.
+8709;Veículos automóveis sem dispositivo de elevação, do tipo utilizado em fábricas, armazéns, portos ou aeroportos, para transporte de mercadorias a curtas distâncias; carros-tratores do tipo utilizado nas estações ferroviárias; suas partes.
+87100000;Veículos e carros blindados de combate, armados ou não, e suas partes.
+8711;Motocicletas (incluindo os ciclomotores) e outros ciclos equipados com motor auxiliar, mesmo com carro lateral; carros laterais.
+871200;Bicicletas e outros ciclos (incluindo os triciclos), sem motor.
+8713;Cadeiras de rodas e outros veículos para pessoas com incapacidade, mesmo com motor ou outro mecanismo de propulsão.
+8714;Partes e acessórios dos veículos das posições 87.11 a 87.13.
+87150000;Carrinhos e veículos semelhantes para transporte de crianças, e suas partes.
+8716;Reboques e semirreboques, para quaisquer veículos; outros veículos não autopropulsados; suas partes.
+88010000;Balões e dirigíveis; planadores, asas voadoras e outros veículos aéreos, não concebidos para propulsão a motor.
+8802;Outros veículos aéreos (por exemplo, helicópteros, aviões); veículos espaciais (incluindo os satélites) e seus veículos de lançamento, e veículos suborbitais.
+8803;Partes dos veículos e aparelhos das posições 88.01 ou 88.02.
+88040000;Paraquedas (incluindo os paraquedas dirigíveis e os parapentes) e os paraquedas giratórios; suas partes e acessórios.
+8805;Aparelhos e dispositivos para lançamento de veículos aéreos; aparelhos e dispositivos para aterrissagem (aterragem*) de veículos aéreos em porta-aviões e aparelhos e dispositivos semelhantes; aparelhos de treinamento de voo em terra; suas partes.
+8901;Transatlânticos, barcos de excursão, <I>ferryboats</I>, cargueiros, chatas e embarcações semelhantes, para o transporte de pessoas ou de mercadorias.
+890200;Barcos de pesca; navios-fábricas e outras embarcações para o tratamento ou conservação de produtos da pesca.
+8903;Iates e outros barcos e embarcações de recreio ou de esporte; barcos a remos e canoas.
+89040000;Rebocadores e barcos concebidos para empurrar outras embarcações.
+8905;Barcos-faróis, barcos-bombas, dragas, guindastes flutuantes e outras embarcações em que a navegação é acessória da função principal; docas flutuantes; plataformas de perfuração ou de exploração, flutuantes ou submersíveis.
+8906;Outras embarcações, incluindo os navios de guerra e os barcos salva-vidas, exceto os barcos a remos.
+8907;Outras estruturas flutuantes (por exemplo, balsas, reservatórios, caixões, boias de amarração, boias de sinalização e semelhantes).
+89080000;Embarcações e outras estruturas flutuantes, para desmantelar.
+9001;Fibras ópticas e feixes de fibras ópticas; cabos de fibras ópticas, exceto os da posição 85.44; matérias polarizantes em folhas ou em placas; lentes (incluindo as de contato), prismas, espelhos e outros elementos de óptica, de qualquer matéria, não montados, exceto os de vidro não trabalhado opticamente.
+9002;Lentes, prismas, espelhos e outros elementos de óptica, de qualquer matéria, montados, para instrumentos ou aparelhos, exceto os de vidro não trabalhado opticamente.
+9003;Armações para óculos e artigos semelhantes, e suas partes.
+9004;Óculos para correção, proteção ou outros fins, e artigos semelhantes.
+9005;Binóculos, lunetas, incluindo as astronômicas, telescópios ópticos, e suas armações; outros instrumentos de astronomia e suas armações, exceto os aparelhos de radioastronomia.
+9006;Câmeras fotográficas; aparelhos e dispositivos, incluindo as lâmpadas e tubos, de luz-relâmpago (flash), para fotografia, exceto as lâmpadas e tubos de descarga da posição 85.39.
+9007;Câmeras e projetores, cinematográficos, mesmo com aparelhos de gravação ou de reprodução de som incorporados.
+9008;Aparelhos de projeção fixa; aparelhos fotográficos de ampliação ou de redução.
+9010;Aparelhos e equipamento do tipo utilizado nos laboratórios fotográficos ou cinematográficos, não especificados nem compreendidos noutras posições do presente Capítulo; negatoscópios; telas para projeção.
+9011;Microscópios ópticos, incluindo os microscópios para fotomicrografia, cinefotomicrografia ou microprojeção.
+9012;Microscópios, exceto ópticos; difratógrafos.
+9013;Dispositivos de cristais líquidos que não constituam artigos compreendidos mais especificamente noutras posições; lasers, exceto diodos laser; outros aparelhos e instrumentos de óptica, não especificados nem compreendidos noutras posições do presente Capítulo.
+9014;Bússolas, incluindo as agulhas de marear; outros instrumentos e aparelhos de navegação.
+9015;Instrumentos e aparelhos de geodésia, topografia, agrimensura, nivelamento, fotogrametria, hidrografia, oceanografia, hidrologia, meteorologia ou de geofísica, exceto bússolas; telêmetros.
+901600;Balanças sensíveis a pesos inferiores ou iguais a 5 cg, mesmo com pesos.
+9017;Instrumentos de desenho, de traçado ou de cálculo (por exemplo, máquinas de desenhar, pantógrafos, transferidores, estojos de desenho, réguas de cálculo e discos de cálculo); instrumentos de medida de distâncias de uso manual (por exemplo, metros, micrômetros, paquímetros e calibres), não especificados nem compreendidos noutras posições do presente Capítulo.
+9018;Instrumentos e aparelhos para medicina, cirurgia, odontologia e veterinária, incluindo os aparelhos para cintilografia e outros aparelhos eletromédicos, bem como os aparelhos para testes visuais.
+9019;Aparelhos de mecanoterapia; aparelhos de massagem; aparelhos de psicotécnica; aparelhos de ozonoterapia, de oxigenoterapia, de aerossolterapia, aparelhos respiratórios de reanimação e outros aparelhos de terapia respiratória.
+902000;Outros aparelhos respiratórios e máscaras contra gases, exceto as máscaras de proteção desprovidas de mecanismo e de elemento filtrante amovível.
+9021;Artigos e aparelhos ortopédicos, incluindo as cintas e fundas (ligaduras*) médico-cirúrgicas e as muletas; talas, goteiras e outros artigos e aparelhos para fraturas; artigos e aparelhos de prótese; aparelhos para facilitar a audição dos surdos e outros aparelhos para compensar uma deficiência ou uma incapacidade, destinados a serem transportados à mão ou sobre as pessoas ou a serem implantados no organismo.
+9022;Aparelhos de raios X e aparelhos que utilizem radiações alfa, beta ou gama, mesmo para usos médicos, cirúrgicos, odontológicos ou veterinários, incluindo os aparelhos de radiofotografia ou de radioterapia, os tubos de raios X e outros dispositivos geradores de raios X, os geradores de tensão, as mesas de comando, as telas de visualização, as mesas, poltronas e suportes semelhantes para exame ou tratamento.
+90230000;Instrumentos, aparelhos e modelos, concebidos para demonstração (por exemplo, no ensino e nas exposições), não suscetíveis de outros usos.
+9024;Máquinas e aparelhos para ensaios de dureza, tração, compressão, elasticidade ou de outras propriedades mecânicas de materiais (por exemplo, metais, madeira, têxteis, papel, plástico).
+9025;Densímetros, areômetros, pesa-líquidos e instrumentos flutuantes semelhantes, termômetros, pirômetros, barômetros, higrômetros e psicrômetros, registradores ou não, mesmo combinados entre si.
+9026;Instrumentos e aparelhos para medida ou controle da vazão (do caudal), do nível, da pressão ou de outras características variáveis dos líquidos ou gases (por exemplo, medidores de vazão (caudal), indicadores de nível, manômetros, contadores de calor), exceto os instrumentos e aparelhos das posições 90.14, 90.15, 90.28 ou 90.32.
+9027;Instrumentos e aparelhos para análises físicas ou químicas (por exemplo, polarímetros, refratômetros, espectrômetros, analisadores de gases ou de fumaça (fumos*)); instrumentos e aparelhos para ensaios de viscosidade, porosidade, dilatação, tensão superficial ou semelhantes ou para medidas calorimétricas, acústicas ou fotométricas (incluindo os indicadores de tempo de exposição); micrótomos.
+9028;Contadores de gases, de líquidos ou de eletricidade, incluindo os aparelhos para sua aferição.
+9029;Outros contadores (por exemplo, contadores de voltas, contadores de produção, taxímetros, totalizadores de caminho percorrido, podômetros); indicadores de velocidade e tacômetros, exceto os das posições 90.14 ou 90.15; estroboscópios.
+9030;Osciloscópios, analisadores de espectro e outros instrumentos e aparelhos para medida ou controle de grandezas elétricas; instrumentos e aparelhos para medida ou detecção de radiações alfa, beta, gama, X, cósmicas ou outras radiações ionizantes.
+9031;Instrumentos, aparelhos e máquinas de medida ou controle, não especificados nem compreendidos noutras posições do presente Capítulo; projetores de perfis.
+9032;Instrumentos e aparelhos para regulação ou controle, automáticos.
+90330000;Partes e acessórios não especificados nem compreendidos noutras posições do presente Capítulo, para máquinas, aparelhos, instrumentos ou artigos do Capítulo 90.
+9101;Relógios de pulso, relógios de bolso e relógios semelhantes (incluindo os contadores de tempo dos mesmos tipos), com caixa de metais preciosos ou de metais folheados ou chapeados de metais preciosos (plaquê).
+9102;Relógios de pulso, relógios de bolso e relógios semelhantes (incluindo os contadores de tempo dos mesmos tipos), exceto os da posição 91.01.
+9103;Despertadores e outros relógios, com mecanismo de pequeno volume.
+91040000;Relógios para painéis de instrumentos e relógios semelhantes, para automóveis, veículos aéreos, embarcações ou para outros veículos.
+9105;Despertadores, outros relógios e artigos de relojoaria semelhantes, exceto os com mecanismo de pequeno volume.
+9106;Aparelhos de controle do tempo e contadores de tempo, com mecanismo de artigos de relojoaria ou com motor síncrono (por exemplo, relógios de ponto, relógios datadores, contadores de horas).
+910700;Interruptores horários e outros aparelhos que permitam acionar um mecanismo em tempo determinado, munidos de mecanismo de artigos de relojoaria ou com motor síncrono.
+9108;Mecanismos de pequeno volume para relógios, completos e montados.
+9109;Mecanismos de artigos de relojoaria, completos e montados, exceto de pequeno volume.
+9110;Mecanismos de artigos de relojoaria completos, não montados ou parcialmente montados (<I>chablons</I>); mecanismos de artigos de relojoaria incompletos, montados; esboços de mecanismos de artigos de relojoaria.
+9111;Caixas de relógios das posições 91.01 ou 91.02, e suas partes.
+9112;Caixas e semelhantes de artigos de relojoaria, e suas partes.
+9113;Pulseiras de relógios, e suas partes.
+9114;Outras partes de artigos de relojoaria.
+9201;Pianos, mesmo automáticos; cravos e outros instrumentos de cordas, com teclado.
+9202;Outros instrumentos musicais de cordas (por exemplo, violões (guitarras*), violinos, harpas).
+9205;Instrumentos musicais de sopro (por exemplo, órgãos de tubos e teclado, acordeões, clarinetes, trompetes, gaitas de foles), exceto os órgãos mecânicos de feira e os realejos.
+92060000;Instrumentos musicais de percussão (por exemplo, tambores, caixas, xilofones, pratos, castanholas, maracás).
+9207;Instrumentos musicais cujo som é produzido ou amplificado por meios elétricos (por exemplo, órgãos, guitarras, acordeões).
+9208;Caixas de música, órgãos mecânicos de feira, realejos, pássaros cantores mecânicos, serrotes musicais e outros instrumentos musicais não especificados noutra posição do presente Capítulo; chamarizes de qualquer tipo; apitos, berrantes (cornetas*) e outros instrumentos, de boca, para chamada ou sinalização.
+9209;Partes (mecanismos de caixas de música, por exemplo) e acessórios (por exemplo, cartões, discos e rolos para instrumentos mecânicos) de instrumentos musicais; metrônomos e diapasões de todos os tipos.
+9301;Armas de guerra, exceto revólveres, pistolas e armas brancas.
+93020000;Revólveres e pistolas, exceto os das posições 93.03 ou 93.04.
+9303;Outras armas de fogo e aparelhos semelhantes que utilizem a deflagração da pólvora (por exemplo, espingardas e carabinas, de caça, armas de fogo carregáveis exclusivamente pela boca, pistolas lança-foguetes e outros aparelhos concebidos apenas para lançar foguetes de sinalização, pistolas e revólveres para tiro de festim (tiro sem bala*), pistolas de êmbolo cativo para abater animais, canhões lança-amarras).
+930400;OUTRAS ARMAS (POR EXEMPLO, ESPINGARDAS, CARABINAS E PISTOLAS, DE MOLA,DE AR COMPRIMIDO OU DE GÁS, CASSETETES), EXCETO AS DA POSIÇÃO 93.07.
+9305;Partes e acessórios dos artigos das posições 93.01 a 93.04.
+9306;Bombas, granadas, torpedos, minas, mísseis, cartuchos e outras munições e projéteis, e suas partes, incluindo os zagalotes, chumbos de caça e buchas para cartuchos.
+93070000;Sabres, espadas, baionetas, lanças e outras armas brancas, suas partes e bainhas.
+9401;Assentos (exceto os da posição 94.02), mesmo transformáveis em camas, e suas partes.
+9402;Mobiliário para medicina, cirurgia, odontologia ou veterinária (por exemplo, mesas de operação, mesas de exames, camas dotadas de mecanismos para usos clínicos, cadeiras de dentista); cadeiras para salões de cabeleireiro e cadeiras semelhantes, com dispositivos de orientação e de elevação; suas partes.
+9403;Outros móveis e suas partes.
+9404;Suportes para camas (somiês); colchões, edredões, almofadas, pufes, travesseiros e artigos semelhantes, equipados com molas ou guarnecidos interiormente de quaisquer matérias, compreendendo esses artigos de borracha alveolar ou de plástico alveolar, mesmo recobertos.
+9405;Aparelhos de iluminação (incluindo os projetores) e suas partes, não especificados nem compreendidos noutras posições; anúncios, cartazes ou tabuletas e placas indicadoras, luminosos, e artigos semelhantes, que contenham uma fonte luminosa fixa permanente, e suas partes não especificadas nem compreendidas noutras posições.
+9406;Construções pré-fabricadas.
+950300;Triciclos, patinetes (trotinetas*), carros de pedais e outros brinquedos semelhantes de rodas; carrinhos para bonecos; bonecos; outros brinquedos; modelos reduzidos e modelos semelhantes para divertimento, mesmo animados; quebra-cabeças (<I>puzzles</I>) de qualquer tipo.
+9504;Consoles e máquinas de jogos de vídeo, artigos para jogos de salão, incluindo os jogos com motor ou outro mecanismo, os bilhares, as mesas especiais para jogos de cassino e os jogos de balizas (pinos*) automáticos (boliche).
+9505;Artigos para festas, carnaval ou outros divertimentos, incluindo os artigos de magia e artigos-surpresa.
+9506;Artigos e equipamentos para cultura física, ginástica, atletismo, outros esportes (incluindo o tênis de mesa), ou jogos ao ar livre, não especificados nem compreendidos noutras posições deste Capítulo; piscinas, incluindo as infantis.
+9507;Varas (Canas*) de pesca, anzóis e outros artigos para a pesca à linha; puçás (camaroeiros*) e redes semelhantes para qualquer finalidade; iscas e chamarizes (exceto os das posições 92.08 ou 97.05) e artigos semelhantes de caça.
+9508;Carrosséis, balanços (baloiços*), instalações de tiro ao alvo e outras diversões de parques e feiras; circos ambulantes e coleções de animais ambulantes; teatros ambulantes.
+9601;Marfim, osso, carapaça de tartaruga, chifre, pontas, coral, madrepérola e outras matérias animais para entalhar, trabalhados, e suas obras (incluindo as obras obtidas por moldagem).
+960200;Matérias vegetais ou minerais de entalhar, trabalhadas, e suas obras; obras moldadas ou entalhadas de cera, parafina, estearina, gomas ou resinas naturais, de pastas de modelar, e outras obras moldadas ou entalhadas não especificadas nem compreendidas noutras posições; gelatina não endurecida, trabalhada, exceto a da posição 35.03, e obras de gelatina não endurecida.
+9603;Vassouras e escovas, mesmo constituindo partes de máquinas, de aparelhos ou de veículos, vassouras mecânicas de uso manual não motorizadas, pincéis e espanadores; cabeças preparadas para escovas, pincéis e artigos semelhantes; bonecas e rolos para pintura; rodos de borracha ou de matérias flexíveis semelhantes.
+96040000;Peneiras e crivos, manuais.
+96050000;Conjuntos de viagem para toucador de pessoas, para costura ou para limpeza de calçado ou de roupas.
+9606;Botões, incluindo os de pressão; formas e outras partes, de botões ou de botões de pressão; esboços de botões.
+9607;Fechos ecler (de correr) e suas partes.
+9608;Canetas esferográficas; canetas e marcadores, com ponta de feltro ou com outras pontas porosas; canetas-tinteiro (canetas de tinta permanente*) e outras canetas; estiletes para duplicadores; lapiseiras; canetas porta-penas, porta-lápis e artigos semelhantes; suas partes (incluindo as tampas e prendedores), exceto os artigos da posição 96.09.
+9609;Lápis, minas, pastéis, carvões, gizes para escrever ou desenhar e gizes de alfaiate.
+96100000;Lousas e quadros para escrever ou desenhar, mesmo emoldurados.
+96110000;Carimbos, incluindo os datadores e numeradores, sinetes e artigos semelhantes (incluindo os aparelhos para impressão de etiquetas), manuais; dispositivos manuais de composição tipográfica e jogos de impressão manuais que contenham tais dispositivos.
+9612;Fitas impressoras para máquinas de escrever e fitas impressoras semelhantes, tintadas ou preparadas de outra forma para imprimir, montadas ou não em carretéis ou cartuchos; almofadas de carimbo, impregnadas ou não, mesmo com caixa.
+9613;Isqueiros e outros acendedores, mesmo mecânicos ou elétricos, e suas partes, exceto pedras e pavios.
+96140000;Cachimbos (incluindo os seus fornilhos), piteiras (boquilhas) para charutos ou cigarros, e suas partes.
+9615;Pentes, travessas para cabelo e artigos semelhantes; grampos (alfinetes*) para cabelo; pinças, onduladores, bobes (bigudis*) e artigos semelhantes para penteados, exceto os da posição 85.16, e suas partes.
+9616;Vaporizadores de toucador, suas armações e cabeças de armações; borlas ou esponjas para pós ou para aplicação de outros cosméticos ou de produtos de toucador.
+961700;Garrafas térmicas e outros recipientes isotérmicos, montados, com isolamento produzido pelo vácuo, e suas partes (exceto ampolas de vidro).
+96180000;Manequins e artigos semelhantes; autômatos e cenas animadas, para vitrines e mostruários.
+96190000;Absorventes (Pensos*) e tampões higiênicos, cueiros e fraldas para bebês e artigos higiênicos semelhantes, de qualquer matéria.
+96200000;Monopés, bipés, tripés e artigos semelhantes.
+9701;Quadros, pinturas e desenhos, feitos inteiramente à mão, exceto os desenhos da posição 49.06 e os artigos manufaturados decorados à mão; colagens e quadros decorativos semelhantes.
+97020000;Gravuras, estampas e litografias, originais.
+97030000;Produções originais de arte estatuária ou de escultura, de quaisquer matérias.
+97040000;Selos postais, selos fiscais, marcas postais, envelopes de primeiro dia (<I>first-day covers</I>), inteiros postais e semelhantes, obliterados, ou não obliterados, exceto os artigos da posição 49.07.
+97050000;Coleções e espécimes para coleções, de zoologia, botânica, mineralogia, anatomia, ou apresentando interesse histórico, arqueológico, paleontológico, etnográfico ou numismático.
+97060000;Antiguidades com mais de 100 anos.
