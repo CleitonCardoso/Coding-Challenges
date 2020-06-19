@@ -7,7 +7,7 @@ def request(index):
     data = {
     }
     page = ('0' + str(index), str(index))[index >= 10]
-    url = 'https://portalunico.siscomex.gov.br/classif/api/nomenclatura/'+ page + '?dataInteresse=2020-01-01T23:00:00.000Z'
+    url = 'https://portalunico.siscomex.gov.br/classif/api/sumario/'+ page + '?dataInteresse=2020-01-01T23:00:00.000Z'
     response = requests.get(url , headers= headers , data = data, verify=False)
     if (response.status_code == 200):
         json = response.json()
