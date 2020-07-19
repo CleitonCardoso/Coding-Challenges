@@ -14,13 +14,20 @@ import org.hibernate.annotations.ColumnDefault;
 import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonProperty.Access;
+
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
 @Builder
 @Entity
 @Table(name = "company_cars")
+@AllArgsConstructor
+@NoArgsConstructor
 public class CompanyCar {
 
 	@Id
@@ -29,6 +36,7 @@ public class CompanyCar {
 	@Column(name = "uuid", updatable = false, nullable = false)
 	@ColumnDefault("random_uuid()")
 	@Type(type = "uuid-char")
+	@JsonProperty(access = Access.READ_ONLY)
 	private UUID uuid;
 
 	private String name;
